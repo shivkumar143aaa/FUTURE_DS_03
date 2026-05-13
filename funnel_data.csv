@@ -1,0 +1,2001 @@
+Date,Month,Channel,Campaign,Device,Visitors,Leads,Qualified_Leads,Proposals,Customers,Avg_Deal_Value,Revenue,Ad_Spend,ROI_%
+2024-10-20,2024-10,Referral,Newsletter,Desktop,232,126,83,60,38,1027,39026,1689.66,2209.7
+2024-07-06,2024-07,Paid Ads,Brand Awareness,Mobile,337,100,45,16,6,1604,9624,3115.0,209.0
+2024-11-03,2024-11,Paid Ads,Retargeting,Desktop,441,127,57,20,7,1227,8589,1310.64,555.3
+2024-06-02,2024-06,Paid Ads,Newsletter,Desktop,276,68,26,10,3,1279,3837,2076.04,84.8
+2024-07-17,2024-07,Paid Ads,Retargeting,Desktop,158,44,15,6,2,1763,3526,785.4,348.9
+2024-04-08,2024-04,Paid Ads,Summer Sale,Mobile,127,38,15,5,2,1024,2048,624.72,227.8
+2024-03-09,2024-03,Organic Search,Retargeting,Mobile,439,119,58,30,11,676,7436,3254.65,128.5
+2024-03-03,2024-03,Paid Ads,Product Launch,Mobile,464,130,52,20,8,897,7176,1599.0,348.8
+2024-04-06,2024-04,Paid Ads,Product Launch,Mobile,380,92,40,16,5,1338,6690,944.84,608.1
+2024-08-09,2024-08,Referral,Brand Awareness,Mobile,271,119,85,59,36,1286,46296,3320.1,1294.4
+2024-05-06,2024-05,Email Campaign,Retargeting,Desktop,109,51,32,18,7,698,4886,1342.32,264.0
+2024-07-17,2024-07,Email Campaign,Retargeting,Mobile,453,216,121,59,34,222,7548,4685.04,61.1
+2024-03-07,2024-03,Social Media,Brand Awareness,Tablet,305,52,20,6,1,1424,1424,386.36,268.6
+2024-12-26,2024-12,Paid Ads,Product Launch,Mobile,274,81,31,14,5,298,1490,1150.2,29.5
+2024-05-26,2024-05,Paid Ads,Retargeting,Desktop,410,99,35,16,6,1522,9132,3733.29,144.6
+2024-07-29,2024-07,Paid Ads,Brand Awareness,Tablet,377,95,35,13,4,591,2364,3777.2,-37.4
+2024-11-23,2024-11,Organic Search,Newsletter,Desktop,489,151,85,47,18,666,11988,1593.05,652.5
+2024-11-21,2024-11,Paid Ads,Summer Sale,Tablet,330,79,35,16,5,1760,8800,504.81,1643.2
+2024-02-10,2024-02,Social Media,Retargeting,Mobile,387,73,24,8,2,225,450,955.57,-52.9
+2024-12-10,2024-12,Social Media,Retargeting,Desktop,482,79,31,10,2,596,1192,2516.15,-52.6
+2024-07-22,2024-07,Referral,Retargeting,Desktop,446,227,161,117,64,1928,123392,2746.7,4392.4
+2024-10-04,2024-10,Organic Search,Summer Sale,Mobile,258,75,43,19,7,1342,9394,1648.5,469.9
+2024-01-05,2024-01,Social Media,Summer Sale,Desktop,87,17,5,1,0,1150,0,646.17,-100.0
+2024-12-19,2024-12,Paid Ads,Retargeting,Mobile,325,80,36,16,5,1176,5880,674.4,771.9
+2024-04-08,2024-04,Organic Search,Product Launch,Mobile,222,68,37,19,8,1936,15488,2303.16,572.5
+2024-05-24,2024-05,Email Campaign,Product Launch,Desktop,164,74,46,21,10,347,3470,410.7,744.9
+2024-12-06,2024-12,Email Campaign,Retargeting,Desktop,321,152,81,48,28,1621,45388,2856.08,1489.2
+2024-02-01,2024-02,Organic Search,Brand Awareness,Desktop,280,80,44,24,11,1539,16929,1145.6,1377.7
+2024-08-17,2024-08,Email Campaign,Retargeting,Mobile,172,76,42,19,10,1521,15210,2273.92,568.9
+2024-04-05,2024-04,Organic Search,Product Launch,Mobile,278,77,41,17,6,608,3648,1274.35,186.3
+2024-01-10,2024-01,Organic Search,Retargeting,Mobile,457,161,91,42,21,222,4662,2642.01,76.5
+2024-02-01,2024-02,Organic Search,Brand Awareness,Mobile,371,109,66,34,16,686,10976,1873.71,485.8
+2024-02-26,2024-02,Organic Search,Newsletter,Mobile,107,33,19,9,4,1805,7220,262.02,2655.5
+2024-02-06,2024-02,Organic Search,Summer Sale,Desktop,351,128,72,34,17,768,13056,1711.36,662.9
+2024-07-05,2024-07,Paid Ads,Brand Awareness,Mobile,395,108,45,19,8,1064,8512,1546.56,450.4
+2024-04-15,2024-04,Organic Search,Product Launch,Mobile,318,106,64,33,15,1555,23325,1322.88,1663.2
+2024-05-01,2024-05,Organic Search,Product Launch,Desktop,336,110,58,29,12,267,3204,4011.7,-20.1
+2024-02-07,2024-02,Organic Search,Product Launch,Desktop,121,34,20,9,3,502,1506,927.86,62.3
+2024-04-18,2024-04,Organic Search,Newsletter,Desktop,394,113,55,23,11,671,7381,4470.28,65.1
+2024-06-15,2024-06,Social Media,Product Launch,Desktop,137,24,7,2,0,324,0,516.96,-100.0
+2024-01-19,2024-01,Organic Search,Brand Awareness,Mobile,166,55,26,11,5,1639,8195,1023.55,700.6
+2024-03-11,2024-03,Organic Search,Product Launch,Mobile,274,87,50,25,12,442,5304,1964.46,170.0
+2024-05-18,2024-05,Organic Search,Newsletter,Mobile,449,129,71,37,15,802,12030,1533.81,684.3
+2024-11-02,2024-11,Paid Ads,Summer Sale,Tablet,455,133,47,18,5,1332,6660,4834.55,37.8
+2024-03-14,2024-03,Organic Search,Brand Awareness,Mobile,91,31,14,7,3,891,2673,885.67,201.8
+2024-09-03,2024-09,Email Campaign,Retargeting,Mobile,193,82,45,23,10,1672,16720,3166.02,428.1
+2024-05-06,2024-05,Organic Search,Summer Sale,Mobile,292,100,63,27,10,640,6400,2388.0,168.0
+2024-01-31,2024-01,Paid Ads,Summer Sale,Mobile,202,58,24,10,3,936,2808,614.22,357.2
+2024-03-28,2024-03,Email Campaign,Brand Awareness,Desktop,418,177,113,66,37,896,33152,6283.5,427.6
+2024-04-04,2024-04,Organic Search,Summer Sale,Mobile,283,83,49,25,12,252,3024,649.89,365.3
+2024-08-26,2024-08,Email Campaign,Newsletter,Desktop,293,112,60,37,18,486,8748,3177.44,175.3
+2024-11-20,2024-11,Organic Search,Newsletter,Mobile,353,112,68,36,17,1284,21828,3606.4,505.3
+2024-11-01,2024-11,Paid Ads,Newsletter,Mobile,409,129,55,24,9,615,5535,2119.47,161.2
+2024-09-30,2024-09,Organic Search,Brand Awareness,Tablet,138,47,26,11,4,383,1532,915.56,67.3
+2024-06-14,2024-06,Social Media,Brand Awareness,Desktop,349,62,24,8,2,780,1560,726.64,114.7
+2024-06-01,2024-06,Social Media,Brand Awareness,Desktop,230,37,14,5,1,843,843,1173.27,-28.1
+2024-10-09,2024-10,Social Media,Newsletter,Mobile,366,73,28,9,2,683,1366,2425.06,-43.7
+2024-11-04,2024-11,Paid Ads,Summer Sale,Mobile,145,45,17,6,2,1803,3606,785.7,359.0
+2024-09-30,2024-09,Referral,Summer Sale,Desktop,433,234,182,103,63,1688,106344,4431.96,2299.5
+2024-06-13,2024-06,Paid Ads,Retargeting,Desktop,174,53,19,8,2,1084,2168,604.73,258.5
+2024-05-31,2024-05,Organic Search,Product Launch,Desktop,226,75,38,17,7,624,4368,678.0,544.2
+2024-10-31,2024-10,Social Media,Summer Sale,Desktop,466,86,31,13,4,1412,5648,2986.78,89.1
+2024-10-17,2024-10,Email Campaign,Brand Awareness,Tablet,257,112,70,34,15,1369,20535,3474.24,491.1
+2024-04-07,2024-04,Social Media,Product Launch,Desktop,220,41,15,6,1,895,895,1273.87,-29.7
+2024-11-10,2024-11,Social Media,Product Launch,Desktop,83,15,5,1,0,1583,0,456.15,-100.0
+2024-06-21,2024-06,Referral,Product Launch,Desktop,219,112,71,40,26,746,19396,1354.08,1332.4
+2024-07-22,2024-07,Organic Search,Summer Sale,Desktop,269,76,46,20,7,1770,12390,1041.2,1090.0
+2024-02-17,2024-02,Paid Ads,Summer Sale,Desktop,173,55,22,9,3,221,663,884.4,-25.0
+2024-06-03,2024-06,Paid Ads,Summer Sale,Desktop,463,120,49,17,5,1054,5270,3716.4,41.8
+2024-07-24,2024-07,Email Campaign,Summer Sale,Mobile,427,192,118,60,34,553,18802,5877.12,219.9
+2024-06-12,2024-06,Organic Search,Brand Awareness,Mobile,490,143,75,42,19,1725,32775,2273.7,1341.5
+2024-12-08,2024-12,Organic Search,Brand Awareness,Desktop,382,105,49,26,10,732,7320,630.0,1061.9
+2024-06-02,2024-06,Paid Ads,Newsletter,Desktop,462,132,49,23,8,229,1832,3946.8,-53.6
+2024-11-29,2024-11,Paid Ads,Product Launch,Desktop,244,66,30,11,4,1343,5372,2247.3,139.0
+2024-07-26,2024-07,Organic Search,Retargeting,Desktop,233,68,41,20,9,1399,12591,1802.68,598.5
+2024-09-27,2024-09,Organic Search,Retargeting,Desktop,223,62,35,19,7,1159,8113,1365.24,494.3
+2024-03-21,2024-03,Organic Search,Summer Sale,Mobile,416,138,72,34,16,1062,16992,4200.72,304.5
+2024-06-01,2024-06,Organic Search,Retargeting,Desktop,299,95,51,23,9,438,3942,3227.15,22.2
+2024-10-24,2024-10,Paid Ads,Retargeting,Desktop,332,86,32,15,6,1631,9786,1092.2,796.0
+2024-01-03,2024-01,Social Media,Newsletter,Desktop,87,16,5,1,0,1905,0,442.72,-100.0
+2024-01-05,2024-01,Referral,Product Launch,Mobile,104,59,41,27,16,1770,28320,366.39,7629.5
+2024-12-14,2024-12,Email Campaign,Summer Sale,Desktop,483,178,113,68,34,1871,63614,1986.48,3102.3
+2024-08-09,2024-08,Referral,Brand Awareness,Desktop,156,73,51,32,21,1617,33957,2296.58,1378.6
+2024-03-20,2024-03,Social Media,Brand Awareness,Desktop,105,18,5,1,0,1575,0,565.38,-100.0
+2024-05-15,2024-05,Referral,Summer Sale,Desktop,430,189,134,94,50,926,46300,5741.82,706.4
+2024-09-11,2024-09,Organic Search,Summer Sale,Mobile,428,155,74,36,18,452,8136,1616.65,403.3
+2024-04-12,2024-04,Email Campaign,Brand Awareness,Mobile,238,109,73,40,23,1800,41400,1230.61,3264.2
+2024-07-24,2024-07,Social Media,Retargeting,Tablet,298,50,15,5,1,224,224,1199.5,-81.3
+2024-05-16,2024-05,Social Media,Retargeting,Mobile,286,45,17,6,1,1243,1243,1742.4,-28.7
+2024-02-02,2024-02,Paid Ads,Brand Awareness,Desktop,176,44,19,7,2,638,1276,1729.64,-26.2
+2024-05-20,2024-05,Social Media,Product Launch,Desktop,150,25,7,2,0,1348,0,710.0,-100.0
+2024-02-23,2024-02,Social Media,Retargeting,Mobile,216,33,12,4,1,694,694,807.18,-14.0
+2024-06-19,2024-06,Email Campaign,Product Launch,Desktop,282,124,68,41,22,1128,24816,1600.84,1450.2
+2024-10-27,2024-10,Paid Ads,Retargeting,Mobile,178,53,24,9,3,1535,4605,1626.57,183.1
+2024-08-18,2024-08,Social Media,Summer Sale,Mobile,260,43,13,5,1,769,769,533.2,44.2
+2024-03-31,2024-03,Organic Search,Summer Sale,Mobile,453,140,82,42,20,663,13260,4106.2,222.9
+2024-02-02,2024-02,Paid Ads,Newsletter,Mobile,336,92,39,14,5,1180,5900,482.08,1123.9
+2024-07-01,2024-07,Social Media,Brand Awareness,Mobile,356,55,20,8,2,1926,3852,1259.5,205.8
+2024-12-23,2024-12,Email Campaign,Product Launch,Desktop,154,60,39,23,10,616,6160,1487.4,314.1
+2024-05-16,2024-05,Email Campaign,Newsletter,Desktop,458,209,129,77,35,603,21105,3532.1,497.5
+2024-10-25,2024-10,Paid Ads,Newsletter,Desktop,202,63,26,12,4,969,3876,454.86,752.1
+2024-11-14,2024-11,Email Campaign,Brand Awareness,Desktop,199,95,62,31,16,1714,27424,681.15,3926.1
+2024-12-16,2024-12,Organic Search,Newsletter,Desktop,238,81,46,25,9,1910,17190,659.34,2507.2
+2024-11-28,2024-11,Social Media,Brand Awareness,Mobile,385,63,22,7,2,1015,2030,1664.46,22.0
+2024-01-25,2024-01,Organic Search,Summer Sale,Desktop,136,49,25,12,5,361,1805,1622.88,11.2
+2024-03-09,2024-03,Email Campaign,Retargeting,Mobile,372,136,79,47,26,652,16952,1691.84,902.0
+2024-06-05,2024-06,Email Campaign,Newsletter,Desktop,348,144,85,41,23,677,15571,3735.36,316.9
+2024-03-25,2024-03,Organic Search,Brand Awareness,Mobile,180,50,29,14,5,803,4015,938.5,327.8
+2024-10-08,2024-10,Social Media,Newsletter,Tablet,451,79,25,10,2,374,748,786.05,-4.8
+2024-07-11,2024-07,Social Media,Retargeting,Mobile,390,79,24,9,2,479,958,1873.09,-48.9
+2024-11-24,2024-11,Organic Search,Summer Sale,Desktop,92,26,14,6,2,691,1382,570.18,142.4
+2024-07-23,2024-07,Email Campaign,Newsletter,Desktop,203,92,54,27,14,788,11032,3222.76,242.3
+2024-10-15,2024-10,Email Campaign,Summer Sale,Mobile,369,150,98,59,35,1747,61145,4396.5,1290.8
+2024-09-25,2024-09,Email Campaign,Brand Awareness,Tablet,374,161,83,41,18,1728,31104,951.51,3168.9
+2024-06-11,2024-06,Social Media,Brand Awareness,Desktop,91,16,5,1,0,968,0,198.4,-100.0
+2024-12-24,2024-12,Social Media,Product Launch,Desktop,188,32,9,3,1,488,488,906.24,-46.2
+2024-09-13,2024-09,Social Media,Product Launch,Desktop,249,38,14,4,1,1520,1520,904.78,68.0
+2024-04-26,2024-04,Organic Search,Brand Awareness,Mobile,138,43,22,9,3,1860,5580,1703.66,227.5
+2024-12-12,2024-12,Organic Search,Brand Awareness,Mobile,320,107,53,26,13,1431,18603,1664.92,1017.4
+2024-08-16,2024-08,Email Campaign,Newsletter,Tablet,474,170,94,58,28,801,22428,1351.5,1559.5
+2024-02-22,2024-02,Social Media,Brand Awareness,Tablet,365,71,22,8,2,1886,3772,505.52,646.2
+2024-09-03,2024-09,Organic Search,Retargeting,Desktop,380,119,59,29,11,1476,16236,4059.09,300.0
+2024-07-16,2024-07,Paid Ads,Product Launch,Tablet,447,143,51,23,9,498,4482,3799.51,18.0
+2024-09-26,2024-09,Email Campaign,Brand Awareness,Tablet,174,77,47,26,14,1504,21056,1304.38,1514.3
+2024-09-01,2024-09,Email Campaign,Summer Sale,Desktop,231,107,62,29,13,297,3861,1700.23,127.1
+2024-12-16,2024-12,Paid Ads,Newsletter,Mobile,204,49,19,6,1,792,792,846.23,-6.4
+2024-01-28,2024-01,Organic Search,Brand Awareness,Desktop,136,48,23,10,4,822,3288,715.68,359.4
+2024-08-29,2024-08,Paid Ads,Summer Sale,Mobile,386,92,35,12,4,862,3448,3439.88,0.2
+2024-02-03,2024-02,Social Media,Retargeting,Desktop,405,77,25,8,2,1632,3264,564.41,478.3
+2024-05-09,2024-05,Organic Search,Retargeting,Tablet,149,48,29,14,5,1308,6540,1710.72,282.3
+2024-08-17,2024-08,Social Media,Newsletter,Tablet,360,68,23,9,2,464,928,544.0,70.6
+2024-03-05,2024-03,Email Campaign,Retargeting,Tablet,142,67,41,22,10,1039,10390,507.86,1945.8
+2024-05-03,2024-05,Organic Search,Newsletter,Desktop,341,115,68,34,16,677,10832,1997.55,442.3
+2024-04-06,2024-04,Organic Search,Product Launch,Mobile,181,49,23,10,4,639,2556,502.25,408.9
+2024-08-30,2024-08,Paid Ads,Summer Sale,Mobile,244,58,26,12,4,1878,7512,1404.76,434.8
+2024-05-27,2024-05,Organic Search,Retargeting,Desktop,111,39,24,11,5,954,4770,1037.4,359.8
+2024-04-15,2024-04,Paid Ads,Retargeting,Mobile,186,54,18,7,2,1192,2384,1300.32,83.3
+2024-01-28,2024-01,Email Campaign,Retargeting,Desktop,201,74,48,22,10,1757,17570,2271.8,673.4
+2024-05-05,2024-05,Social Media,Brand Awareness,Mobile,393,60,23,8,2,1762,3524,382.2,822.0
+2024-12-16,2024-12,Organic Search,Product Launch,Desktop,248,85,52,28,10,1898,18980,3131.4,506.1
+2024-07-09,2024-07,Organic Search,Brand Awareness,Mobile,327,107,63,35,15,1047,15705,3106.21,405.6
+2024-12-15,2024-12,Paid Ads,Brand Awareness,Mobile,498,123,50,18,6,1450,8700,2669.1,226.0
+2024-12-08,2024-12,Social Media,Product Launch,Desktop,472,94,29,12,3,272,816,3102.0,-73.7
+2024-05-12,2024-05,Paid Ads,Summer Sale,Mobile,269,65,29,10,3,564,1692,2373.15,-28.7
+2024-05-21,2024-05,Paid Ads,Newsletter,Desktop,433,103,36,16,5,733,3665,2539.98,44.3
+2024-07-31,2024-07,Social Media,Retargeting,Mobile,330,63,20,7,1,1591,1591,2039.31,-22.0
+2024-09-19,2024-09,Email Campaign,Product Launch,Desktop,115,53,30,14,8,1472,11776,373.12,3056.1
+2024-07-03,2024-07,Paid Ads,Brand Awareness,Mobile,474,146,52,19,6,292,1752,3382.82,-48.2
+2024-03-31,2024-03,Email Campaign,Brand Awareness,Desktop,325,145,81,40,22,1349,29678,3116.05,852.4
+2024-02-05,2024-02,Paid Ads,Brand Awareness,Tablet,327,81,28,12,4,838,3352,945.27,254.6
+2024-08-21,2024-08,Email Campaign,Summer Sale,Mobile,454,199,107,57,29,299,8671,5693.39,52.3
+2024-02-23,2024-02,Organic Search,Summer Sale,Mobile,377,105,50,22,11,282,3102,2691.15,15.3
+2024-11-06,2024-11,Paid Ads,Summer Sale,Mobile,423,104,36,14,5,1522,7610,1731.6,339.5
+2024-01-08,2024-01,Organic Search,Summer Sale,Mobile,276,98,50,27,12,493,5916,1701.28,247.7
+2024-12-19,2024-12,Email Campaign,Retargeting,Desktop,486,204,135,80,36,526,18936,7819.32,142.2
+2024-05-30,2024-05,Paid Ads,Summer Sale,Mobile,412,113,45,19,7,775,5425,680.26,697.5
+2024-05-16,2024-05,Paid Ads,Product Launch,Desktop,374,101,45,17,5,1696,8480,1780.63,376.2
+2024-06-24,2024-06,Email Campaign,Brand Awareness,Mobile,224,82,48,26,13,872,11336,1601.46,607.9
+2024-11-26,2024-11,Organic Search,Product Launch,Desktop,299,102,49,26,12,1364,16368,1674.84,877.3
+2024-05-08,2024-05,Referral,Retargeting,Tablet,265,130,88,56,32,1873,59936,4500.6,1231.7
+2024-12-17,2024-12,Email Campaign,Summer Sale,Mobile,412,176,102,56,27,1611,43497,1811.04,2301.8
+2024-06-30,2024-06,Paid Ads,Summer Sale,Mobile,261,76,32,14,4,1703,6812,1254.76,442.9
+2024-12-30,2024-12,Organic Search,Product Launch,Desktop,440,131,81,38,16,1015,16240,3998.12,306.2
+2024-10-11,2024-10,Organic Search,Product Launch,Desktop,330,92,47,20,10,1758,17580,2098.52,737.7
+2024-06-01,2024-06,Organic Search,Product Launch,Desktop,107,37,19,9,4,1795,7180,1441.15,398.2
+2024-04-01,2024-04,Social Media,Product Launch,Desktop,303,54,16,5,1,1847,1847,280.26,559.0
+2024-03-31,2024-03,Paid Ads,Summer Sale,Mobile,324,87,36,13,4,1862,7448,2375.1,213.6
+2024-04-10,2024-04,Paid Ads,Retargeting,Mobile,89,26,9,3,1,1598,1598,717.34,122.8
+2024-02-22,2024-02,Organic Search,Summer Sale,Mobile,438,120,75,38,18,1502,27036,3111.6,768.9
+2024-09-27,2024-09,Email Campaign,Newsletter,Desktop,294,111,72,40,20,214,4280,1268.73,237.3
+2024-12-20,2024-12,Social Media,Summer Sale,Desktop,162,32,11,4,1,1598,1598,1193.28,33.9
+2024-01-17,2024-01,Organic Search,Newsletter,Mobile,310,108,61,33,13,551,7163,919.08,679.4
+2024-09-09,2024-09,Paid Ads,Product Launch,Mobile,122,37,13,5,2,1822,3644,698.93,421.4
+2024-11-17,2024-11,Organic Search,Newsletter,Desktop,406,119,70,37,17,1323,22491,1253.07,1694.9
+2024-07-08,2024-07,Organic Search,Newsletter,Mobile,351,97,58,32,13,1744,22672,3487.15,550.2
+2024-12-25,2024-12,Paid Ads,Retargeting,Tablet,360,91,41,17,7,1640,11480,2523.43,354.9
+2024-02-22,2024-02,Referral,Summer Sale,Mobile,159,88,63,36,24,1439,34536,2058.32,1577.9
+2024-10-20,2024-10,Social Media,Brand Awareness,Desktop,423,67,24,8,2,1126,2252,867.65,159.6
+2024-05-03,2024-05,Paid Ads,Product Launch,Mobile,205,56,19,6,2,1932,3864,715.12,440.3
+2024-03-16,2024-03,Social Media,Newsletter,Mobile,195,38,13,4,1,627,627,970.52,-35.4
+2024-04-21,2024-04,Referral,Retargeting,Mobile,350,164,128,94,53,1693,89729,2443.6,3572.0
+2024-06-24,2024-06,Paid Ads,Brand Awareness,Tablet,316,76,28,13,4,242,968,1077.68,-10.2
+2024-06-04,2024-06,Email Campaign,Product Launch,Desktop,253,92,60,31,13,1488,19344,1785.72,983.3
+2024-07-19,2024-07,Paid Ads,Newsletter,Mobile,381,110,40,19,7,1052,7364,3623.4,103.2
+2024-12-28,2024-12,Organic Search,Retargeting,Desktop,99,31,14,6,2,589,1178,669.6,75.9
+2024-07-17,2024-07,Email Campaign,Newsletter,Desktop,354,131,86,50,28,1576,44128,4317.76,922.0
+2024-02-29,2024-02,Paid Ads,Newsletter,Desktop,151,39,16,7,2,430,860,1297.53,-33.7
+2024-11-12,2024-11,Email Campaign,Summer Sale,Mobile,163,76,51,27,12,669,8028,898.32,793.7
+2024-11-25,2024-11,Referral,Summer Sale,Desktop,139,67,43,29,15,1184,17760,1587.9,1018.5
+2024-12-21,2024-12,Social Media,Newsletter,Tablet,388,66,26,9,2,357,714,506.88,40.9
+2024-07-10,2024-07,Organic Search,Newsletter,Desktop,232,80,49,21,9,1064,9576,2344.8,308.4
+2024-12-28,2024-12,Email Campaign,Retargeting,Tablet,298,106,69,41,19,285,5415,1772.32,205.5
+2024-03-30,2024-03,Social Media,Retargeting,Tablet,420,81,29,11,3,441,1323,1436.94,-7.9
+2024-08-15,2024-08,Email Campaign,Brand Awareness,Mobile,453,201,123,60,27,1917,51759,5079.27,919.0
+2024-04-08,2024-04,Organic Search,Brand Awareness,Mobile,138,48,29,14,5,1004,5020,983.04,410.7
+2024-08-30,2024-08,Social Media,Retargeting,Mobile,107,17,5,2,0,1628,0,195.84,-100.0
+2024-03-14,2024-03,Organic Search,Product Launch,Mobile,437,139,81,44,18,884,15912,2871.74,454.1
+2024-10-05,2024-10,Organic Search,Brand Awareness,Desktop,362,107,54,29,14,1910,26740,1342.85,1891.3
+2024-10-03,2024-10,Paid Ads,Product Launch,Desktop,199,49,17,6,2,1794,3588,1867.39,92.1
+2024-01-04,2024-01,Email Campaign,Retargeting,Tablet,170,75,41,24,13,435,5655,2792.25,102.5
+2024-09-09,2024-09,Paid Ads,Newsletter,Desktop,304,74,30,11,3,638,1914,392.94,387.1
+2024-12-13,2024-12,Paid Ads,Newsletter,Tablet,212,67,29,11,3,482,1446,2156.73,-33.0
+2024-03-05,2024-03,Organic Search,Newsletter,Desktop,296,105,54,30,12,214,2568,2056.95,24.8
+2024-01-16,2024-01,Paid Ads,Newsletter,Desktop,250,65,22,9,3,880,2640,1014.65,160.2
+2024-08-22,2024-08,Social Media,Product Launch,Mobile,457,80,29,11,3,1323,3969,1630.4,143.4
+2024-02-19,2024-02,Email Campaign,Newsletter,Desktop,479,221,135,75,40,241,9640,8011.25,20.3
+2024-04-19,2024-04,Paid Ads,Brand Awareness,Tablet,232,67,27,10,3,1235,3705,1268.31,192.1
+2024-05-30,2024-05,Social Media,Product Launch,Desktop,383,64,22,9,2,272,544,1390.08,-60.9
+2024-04-27,2024-04,Social Media,Product Launch,Tablet,274,48,16,6,1,1998,1998,1534.08,30.2
+2024-12-13,2024-12,Email Campaign,Retargeting,Desktop,336,136,91,56,27,623,16821,5174.8,225.1
+2024-09-06,2024-09,Organic Search,Newsletter,Mobile,195,67,34,16,6,1572,9432,1906.15,394.8
+2024-04-21,2024-04,Social Media,Retargeting,Mobile,484,82,27,11,3,654,1962,2511.66,-21.9
+2024-02-05,2024-02,Organic Search,Product Launch,Mobile,488,166,83,38,19,443,8417,1402.7,500.1
+2024-09-09,2024-09,Social Media,Summer Sale,Mobile,470,78,30,12,3,1245,3735,1287.0,190.2
+2024-06-17,2024-06,Email Campaign,Product Launch,Mobile,422,190,114,59,29,666,19314,4693.0,311.5
+2024-06-29,2024-06,Organic Search,Product Launch,Mobile,268,94,50,27,11,1565,17215,3408.44,405.1
+2024-06-21,2024-06,Email Campaign,Summer Sale,Tablet,324,121,72,43,25,867,21675,1516.13,1329.6
+2024-04-14,2024-04,Social Media,Retargeting,Desktop,167,33,12,5,1,276,276,250.8,10.0
+2024-12-22,2024-12,Email Campaign,Product Launch,Tablet,288,116,76,36,16,1292,20672,1843.24,1021.5
+2024-01-24,2024-01,Organic Search,Brand Awareness,Desktop,193,70,37,20,8,1576,12608,384.3,3180.8
+2024-12-21,2024-12,Organic Search,Summer Sale,Mobile,166,51,30,16,8,372,2976,1034.28,187.7
+2024-02-21,2024-02,Email Campaign,Summer Sale,Desktop,210,77,39,23,10,644,6440,684.53,840.8
+2024-07-28,2024-07,Paid Ads,Newsletter,Mobile,113,34,15,5,1,356,356,526.32,-32.4
+2024-07-05,2024-07,Referral,Retargeting,Mobile,201,102,65,46,24,1780,42720,2733.6,1462.8
+2024-09-15,2024-09,Paid Ads,Summer Sale,Mobile,416,99,37,16,5,1452,7260,3536.28,105.3
+2024-12-11,2024-12,Organic Search,Newsletter,Desktop,91,27,13,6,3,1998,5994,902.88,563.9
+2024-11-08,2024-11,Email Campaign,Product Launch,Tablet,382,175,111,57,32,1756,56192,1260.0,4359.7
+2024-02-28,2024-02,Social Media,Newsletter,Desktop,108,19,6,2,0,747,0,751.07,-100.0
+2024-11-16,2024-11,Organic Search,Newsletter,Mobile,352,114,53,29,11,1469,16159,2926.38,452.2
+2024-08-18,2024-08,Organic Search,Summer Sale,Desktop,335,95,57,25,11,756,8316,1427.85,482.4
+2024-03-07,2024-03,Organic Search,Product Launch,Mobile,401,132,79,44,22,1712,37664,752.4,4905.8
+2024-08-17,2024-08,Email Campaign,Brand Awareness,Desktop,224,87,47,28,14,380,5320,694.26,666.3
+2024-07-19,2024-07,Organic Search,Product Launch,Desktop,391,143,89,49,21,612,12852,4924.92,161.0
+2024-10-27,2024-10,Paid Ads,Retargeting,Desktop,495,136,53,23,9,897,8073,1958.4,312.2
+2024-04-16,2024-04,Organic Search,Newsletter,Desktop,495,146,92,39,16,224,3584,3810.6,-5.9
+2024-01-01,2024-01,Referral,Retargeting,Desktop,437,204,143,93,59,1154,68086,1423.92,4681.6
+2024-11-14,2024-11,Organic Search,Summer Sale,Desktop,292,87,41,21,10,1594,15940,1438.98,1007.7
+2024-11-15,2024-11,Paid Ads,Brand Awareness,Mobile,480,128,50,23,7,1467,10269,892.16,1051.0
+2024-08-10,2024-08,Organic Search,Newsletter,Mobile,384,108,54,28,12,726,8712,2695.68,223.2
+2024-06-06,2024-06,Organic Search,Brand Awareness,Desktop,496,176,96,53,22,1901,41822,4679.84,793.7
+2024-02-20,2024-02,Organic Search,Summer Sale,Mobile,392,129,79,38,18,962,17316,1186.8,1359.0
+2024-08-19,2024-08,Email Campaign,Retargeting,Tablet,274,116,75,47,21,388,8148,1994.04,308.6
+2024-12-16,2024-12,Paid Ads,Newsletter,Desktop,498,121,54,24,7,944,6608,3915.56,68.8
+2024-05-12,2024-05,Organic Search,Newsletter,Desktop,454,153,79,35,16,991,15856,5527.89,186.8
+2024-03-27,2024-03,Organic Search,Summer Sale,Mobile,368,106,51,22,9,742,6678,2847.16,134.5
+2024-08-20,2024-08,Paid Ads,Retargeting,Desktop,187,52,18,7,2,297,594,796.64,-25.4
+2024-09-30,2024-09,Organic Search,Newsletter,Mobile,339,100,55,27,11,1776,19536,3988.0,389.9
+2024-05-29,2024-05,Paid Ads,Brand Awareness,Mobile,120,36,15,5,1,1279,1279,689.04,85.6
+2024-11-05,2024-11,Organic Search,Retargeting,Mobile,107,30,16,7,3,1790,5370,1130.1,375.2
+2024-08-14,2024-08,Referral,Summer Sale,Mobile,345,180,135,97,59,1258,74222,3506.4,2016.8
+2024-06-09,2024-06,Referral,Retargeting,Mobile,490,243,157,102,67,1837,123079,6587.73,1768.3
+2024-01-13,2024-01,Organic Search,Product Launch,Desktop,206,66,40,17,7,1066,7462,2022.24,269.0
+2024-04-02,2024-04,Paid Ads,Summer Sale,Desktop,480,151,64,24,10,1069,10690,5991.68,78.4
+2024-01-10,2024-01,Paid Ads,Summer Sale,Desktop,406,118,53,23,8,1547,12376,2596.0,376.7
+2024-02-02,2024-02,Paid Ads,Newsletter,Desktop,430,110,49,18,6,634,3804,1646.7,131.0
+2024-09-13,2024-09,Referral,Newsletter,Desktop,410,198,149,98,66,1043,68838,5130.18,1241.8
+2024-01-27,2024-01,Organic Search,Product Launch,Mobile,134,39,20,10,3,533,1599,1462.11,9.4
+2024-05-16,2024-05,Organic Search,Newsletter,Desktop,286,100,51,26,13,795,10335,1259.0,720.9
+2024-02-24,2024-02,Referral,Newsletter,Desktop,206,115,80,45,28,1136,31808,1381.15,2203.0
+2024-03-03,2024-03,Social Media,Newsletter,Desktop,185,31,11,4,1,325,325,166.47,95.2
+2024-05-31,2024-05,Organic Search,Summer Sale,Mobile,367,113,56,24,11,486,5346,1082.54,393.8
+2024-09-23,2024-09,Referral,Retargeting,Mobile,101,55,33,23,11,905,9955,1381.6,620.5
+2024-10-18,2024-10,Email Campaign,Retargeting,Desktop,396,151,83,49,22,1520,33440,4511.88,641.2
+2024-06-23,2024-06,Organic Search,Product Launch,Mobile,210,67,35,16,8,1346,10768,2353.71,357.5
+2024-02-04,2024-02,Paid Ads,Brand Awareness,Mobile,455,142,59,26,9,1795,16155,2303.24,601.4
+2024-10-22,2024-10,Organic Search,Product Launch,Mobile,384,131,80,43,19,1131,21489,2576.77,734.0
+2024-08-04,2024-08,Organic Search,Retargeting,Mobile,185,51,24,13,5,771,3855,337.11,1043.5
+2024-10-10,2024-10,Email Campaign,Brand Awareness,Mobile,444,208,127,60,26,1164,30264,3754.4,706.1
+2024-06-06,2024-06,Social Media,Newsletter,Desktop,191,31,12,4,1,1671,1671,405.17,312.4
+2024-06-16,2024-06,Paid Ads,Summer Sale,Desktop,111,34,12,5,2,1339,2678,220.66,1113.6
+2024-06-16,2024-06,Email Campaign,Brand Awareness,Desktop,256,109,64,35,17,1229,20893,3867.32,440.2
+2024-07-12,2024-07,Social Media,Brand Awareness,Mobile,107,17,5,1,0,1475,0,203.32,-100.0
+2024-02-02,2024-02,Organic Search,Brand Awareness,Desktop,482,151,87,44,20,793,15860,4578.32,246.4
+2024-09-02,2024-09,Referral,Newsletter,Mobile,423,183,128,87,55,639,35145,1191.33,2850.1
+2024-06-30,2024-06,Paid Ads,Product Launch,Mobile,221,54,22,8,3,533,1599,1735.02,-7.8
+2024-06-27,2024-06,Email Campaign,Summer Sale,Mobile,202,95,58,28,16,1823,29168,1385.1,2005.8
+2024-06-10,2024-06,Social Media,Summer Sale,Desktop,471,80,28,10,2,789,1578,2208.0,-28.5
+2024-11-25,2024-11,Social Media,Product Launch,Desktop,333,63,23,8,2,1720,3440,630.0,446.0
+2024-09-14,2024-09,Email Campaign,Retargeting,Desktop,135,54,28,16,8,1865,14920,391.5,3711.0
+2024-10-27,2024-10,Social Media,Brand Awareness,Mobile,344,70,26,11,3,1835,5505,570.5,864.9
+2024-09-23,2024-09,Paid Ads,Retargeting,Desktop,261,67,29,13,4,263,1052,1315.88,-20.1
+2024-12-20,2024-12,Paid Ads,Newsletter,Mobile,309,85,35,14,5,1298,6490,1969.45,229.5
+2024-03-17,2024-03,Organic Search,Newsletter,Mobile,89,26,14,6,3,1778,5334,908.18,487.3
+2024-07-17,2024-07,Organic Search,Brand Awareness,Tablet,349,101,50,23,9,1345,12105,826.18,1365.2
+2024-10-02,2024-10,Organic Search,Product Launch,Mobile,183,63,36,18,7,775,5425,510.3,963.1
+2024-08-15,2024-08,Organic Search,Brand Awareness,Tablet,212,59,30,15,7,1879,13153,1479.13,789.2
+2024-06-06,2024-06,Email Campaign,Retargeting,Desktop,237,97,57,33,16,1282,20512,1201.83,1606.7
+2024-10-30,2024-10,Organic Search,Retargeting,Tablet,112,36,21,9,3,1555,4665,1140.12,309.2
+2024-07-31,2024-07,Organic Search,Product Launch,Mobile,174,56,27,11,4,562,2248,1783.04,26.1
+2024-05-07,2024-05,Paid Ads,Summer Sale,Tablet,402,120,46,22,9,1991,17919,4521.6,296.3
+2024-07-01,2024-07,Email Campaign,Product Launch,Desktop,123,49,33,19,9,1921,17289,1813.98,853.1
+2024-01-22,2024-01,Organic Search,Retargeting,Tablet,497,152,86,46,22,1869,41118,1691.76,2330.5
+2024-10-02,2024-10,Social Media,Brand Awareness,Mobile,482,78,24,9,2,629,1258,1015.56,23.9
+2024-03-09,2024-03,Email Campaign,Summer Sale,Mobile,197,71,39,23,13,1814,23582,1278.0,1745.2
+2024-03-16,2024-03,Paid Ads,Product Launch,Desktop,436,136,62,23,8,752,6016,2057.68,192.4
+2024-04-20,2024-04,Social Media,Summer Sale,Tablet,400,72,24,10,2,449,898,1113.84,-19.4
+2024-05-08,2024-05,Referral,Product Launch,Desktop,314,139,98,67,43,1297,55771,4043.51,1279.3
+2024-07-06,2024-07,Organic Search,Brand Awareness,Tablet,319,97,51,23,10,376,3760,665.42,465.1
+2024-02-17,2024-02,Social Media,Newsletter,Desktop,359,66,26,10,2,1569,3138,1171.5,167.9
+2024-09-16,2024-09,Organic Search,Newsletter,Mobile,339,103,56,25,11,1646,18106,2219.65,715.7
+2024-10-03,2024-10,Social Media,Product Launch,Mobile,156,31,10,4,1,1562,1562,1133.98,37.7
+2024-09-10,2024-09,Paid Ads,Summer Sale,Desktop,451,140,53,20,8,1336,10688,1783.6,499.2
+2024-12-04,2024-12,Paid Ads,Newsletter,Desktop,259,70,26,12,5,312,1560,362.6,330.2
+2024-08-08,2024-08,Organic Search,Product Launch,Mobile,438,138,64,34,14,1777,24878,4667.16,433.0
+2024-03-24,2024-03,Social Media,Retargeting,Mobile,223,44,13,4,1,598,598,1252.68,-52.3
+2024-07-24,2024-07,Social Media,Summer Sale,Desktop,136,25,8,3,0,389,0,735.75,-100.0
+2024-02-03,2024-02,Paid Ads,Newsletter,Desktop,196,56,22,8,3,877,2631,1924.72,36.7
+2024-09-27,2024-09,Social Media,Summer Sale,Desktop,462,93,30,12,3,1591,4773,2189.22,118.0
+2024-03-01,2024-03,Paid Ads,Retargeting,Mobile,283,80,27,11,4,1655,6620,1296.8,410.5
+2024-08-27,2024-08,Social Media,Retargeting,Mobile,364,70,25,8,2,762,1524,690.9,120.6
+2024-06-26,2024-06,Social Media,Newsletter,Desktop,491,94,37,13,3,802,2406,2985.44,-19.4
+2024-09-12,2024-09,Organic Search,Product Launch,Desktop,297,86,48,23,8,1621,12968,1144.66,1032.9
+2024-03-18,2024-03,Organic Search,Summer Sale,Mobile,347,95,49,23,8,233,1864,1313.85,41.9
+2024-03-06,2024-03,Organic Search,Brand Awareness,Mobile,230,79,41,19,9,414,3726,709.42,425.2
+2024-12-30,2024-12,Paid Ads,Retargeting,Mobile,339,83,33,13,4,993,3972,2899.19,37.0
+2024-06-09,2024-06,Social Media,Product Launch,Desktop,465,79,24,9,2,1688,3376,1185.79,184.7
+2024-01-13,2024-01,Organic Search,Brand Awareness,Mobile,95,32,17,9,4,1387,5548,248.32,2134.2
+2024-08-11,2024-08,Organic Search,Brand Awareness,Desktop,331,113,67,38,16,258,4128,1656.58,149.2
+2024-12-28,2024-12,Social Media,Brand Awareness,Desktop,106,18,6,1,0,1634,0,385.56,-100.0
+2024-07-03,2024-07,Social Media,Summer Sale,Tablet,358,58,18,7,2,1580,3160,940.76,235.9
+2024-03-14,2024-03,Organic Search,Brand Awareness,Mobile,468,163,97,50,23,1335,30705,2552.58,1102.9
+2024-05-31,2024-05,Organic Search,Summer Sale,Desktop,378,138,67,33,15,1842,27630,4130.34,569.0
+2024-05-22,2024-05,Paid Ads,Brand Awareness,Mobile,174,43,16,6,2,343,686,339.7,101.9
+2024-08-28,2024-08,Paid Ads,Summer Sale,Mobile,261,71,27,12,4,1984,7936,1417.87,459.7
+2024-02-08,2024-02,Referral,Product Launch,Desktop,305,159,103,60,37,1626,60162,5784.42,940.1
+2024-09-19,2024-09,Paid Ads,Product Launch,Mobile,265,68,26,11,4,1114,4456,2044.76,117.9
+2024-11-12,2024-11,Paid Ads,Product Launch,Mobile,342,86,34,12,4,1509,6036,2049.38,194.5
+2024-01-26,2024-01,Organic Search,Newsletter,Mobile,137,48,24,13,6,1855,11130,948.0,1074.1
+2024-03-09,2024-03,Organic Search,Newsletter,Tablet,114,37,18,8,4,1479,5916,1235.8,378.7
+2024-09-11,2024-09,Social Media,Newsletter,Mobile,421,79,30,12,3,327,981,2934.85,-66.6
+2024-11-03,2024-11,Paid Ads,Summer Sale,Mobile,214,66,24,9,3,1888,5664,2082.96,171.9
+2024-03-22,2024-03,Email Campaign,Retargeting,Desktop,109,49,25,11,6,1459,8754,269.01,3154.2
+2024-09-01,2024-09,Organic Search,Retargeting,Desktop,489,138,84,45,22,679,14938,872.16,1612.8
+2024-10-09,2024-10,Organic Search,Summer Sale,Mobile,101,30,16,7,3,1259,3777,713.4,429.4
+2024-03-14,2024-03,Social Media,Summer Sale,Mobile,309,53,20,6,2,1950,3900,725.04,437.9
+2024-02-11,2024-02,Organic Search,Retargeting,Tablet,240,65,31,14,5,636,3180,861.9,269.0
+2024-03-19,2024-03,Social Media,Newsletter,Desktop,260,53,16,5,1,1820,1820,1740.52,4.6
+2024-10-22,2024-10,Referral,Product Launch,Mobile,92,49,35,19,12,1385,16620,1707.16,873.5
+2024-07-13,2024-07,Social Media,Retargeting,Mobile,231,37,12,3,0,904,0,944.61,-100.0
+2024-12-24,2024-12,Social Media,Summer Sale,Mobile,225,44,14,5,1,767,767,1170.4,-34.5
+2024-01-19,2024-01,Referral,Summer Sale,Desktop,135,74,48,32,21,628,13188,618.64,2031.8
+2024-05-21,2024-05,Organic Search,Summer Sale,Desktop,272,95,47,26,11,1318,14498,1776.5,716.1
+2024-09-14,2024-09,Organic Search,Newsletter,Mobile,463,162,94,52,22,1360,29920,1953.72,1431.4
+2024-08-27,2024-08,Organic Search,Retargeting,Desktop,98,29,14,7,3,1800,5400,816.06,561.7
+2024-06-22,2024-06,Organic Search,Summer Sale,Desktop,495,146,84,44,17,337,5729,1937.42,195.7
+2024-04-22,2024-04,Paid Ads,Newsletter,Mobile,240,76,26,10,4,1782,7128,2801.36,154.4
+2024-05-05,2024-05,Organic Search,Summer Sale,Tablet,94,33,19,8,3,1509,4527,733.59,517.1
+2024-07-30,2024-07,Organic Search,Retargeting,Mobile,339,96,50,22,9,295,2655,2683.2,-1.1
+2024-11-19,2024-11,Paid Ads,Brand Awareness,Desktop,312,94,40,16,6,1392,8352,3617.12,130.9
+2024-10-21,2024-10,Paid Ads,Summer Sale,Desktop,314,82,32,14,5,569,2845,2697.8,5.5
+2024-01-31,2024-01,Social Media,Summer Sale,Desktop,404,66,23,8,2,323,646,1053.36,-38.7
+2024-06-08,2024-06,Organic Search,Product Launch,Mobile,147,53,30,13,5,509,2545,354.57,617.8
+2024-10-07,2024-10,Paid Ads,Summer Sale,Desktop,435,115,49,20,7,926,6482,1284.55,404.6
+2024-01-21,2024-01,Paid Ads,Retargeting,Desktop,270,81,30,12,4,1837,7348,2088.99,251.7
+2024-06-30,2024-06,Email Campaign,Product Launch,Mobile,169,74,38,17,8,324,2592,384.06,574.9
+2024-07-19,2024-07,Social Media,Newsletter,Desktop,441,75,25,8,2,771,1542,1616.25,-4.6
+2024-11-22,2024-11,Email Campaign,Retargeting,Mobile,344,143,78,42,22,593,13046,4328.61,201.4
+2024-03-20,2024-03,Paid Ads,Summer Sale,Desktop,359,103,45,20,6,1869,11214,1006.31,1014.4
+2024-01-19,2024-01,Organic Search,Summer Sale,Desktop,305,92,53,22,11,1628,17908,1797.68,896.2
+2024-12-24,2024-12,Organic Search,Newsletter,Mobile,242,69,37,19,8,1077,8616,1796.07,379.7
+2024-08-25,2024-08,Paid Ads,Newsletter,Mobile,136,40,17,6,2,1003,2006,1240.0,61.8
+2024-10-06,2024-10,Paid Ads,Product Launch,Desktop,480,140,56,24,9,923,8307,4128.6,101.2
+2024-06-23,2024-06,Paid Ads,Summer Sale,Tablet,248,70,28,10,3,1785,5355,1584.1,238.0
+2024-10-12,2024-10,Email Campaign,Product Launch,Desktop,398,186,107,65,31,904,28024,1009.98,2674.7
+2024-05-21,2024-05,Social Media,Newsletter,Mobile,386,66,25,9,2,1556,3112,1014.42,206.8
+2024-09-05,2024-09,Social Media,Brand Awareness,Desktop,244,42,14,5,1,1883,1883,1018.92,84.8
+2024-04-18,2024-04,Paid Ads,Newsletter,Desktop,231,73,26,10,4,1667,6668,2522.88,164.3
+2024-12-26,2024-12,Email Campaign,Product Launch,Desktop,215,94,55,27,14,1334,18676,2930.92,537.2
+2024-09-13,2024-09,Organic Search,Newsletter,Mobile,119,35,17,8,3,1007,3021,714.0,323.1
+2024-11-09,2024-11,Organic Search,Brand Awareness,Tablet,208,60,37,16,7,1335,9345,855.0,993.0
+2024-12-16,2024-12,Organic Search,Brand Awareness,Desktop,86,25,15,8,3,346,1038,746.5,39.0
+2024-04-11,2024-04,Organic Search,Product Launch,Desktop,271,83,43,19,9,1900,17100,1595.26,971.9
+2024-09-17,2024-09,Referral,Retargeting,Desktop,439,231,177,127,83,738,61254,5978.28,924.6
+2024-05-13,2024-05,Email Campaign,Product Launch,Mobile,305,136,91,55,31,401,12431,4097.68,203.4
+2024-07-11,2024-07,Referral,Brand Awareness,Desktop,443,221,161,99,58,1179,68382,2329.34,2835.7
+2024-05-21,2024-05,Email Campaign,Product Launch,Mobile,143,60,36,19,8,283,2264,1884.6,20.1
+2024-08-02,2024-08,Paid Ads,Summer Sale,Tablet,263,63,26,9,3,1044,3132,1586.34,97.4
+2024-02-24,2024-02,Organic Search,Brand Awareness,Desktop,183,57,34,18,7,697,4879,1314.42,271.2
+2024-01-10,2024-01,Organic Search,Summer Sale,Desktop,416,141,80,35,15,1855,27825,3532.05,687.8
+2024-07-12,2024-07,Email Campaign,Retargeting,Desktop,225,87,48,24,13,1643,21359,2283.75,835.3
+2024-08-09,2024-08,Paid Ads,Summer Sale,Desktop,334,90,38,14,5,490,2450,1415.7,73.1
+2024-10-12,2024-10,Organic Search,Brand Awareness,Mobile,400,146,74,31,15,1973,29595,5140.66,475.7
+2024-03-16,2024-03,Organic Search,Newsletter,Tablet,150,45,22,9,4,215,860,1614.15,-46.7
+2024-02-08,2024-02,Organic Search,Product Launch,Desktop,128,38,20,11,4,348,1392,1464.9,-5.0
+2024-10-07,2024-10,Email Campaign,Product Launch,Mobile,260,119,69,32,15,1398,20970,2023.0,936.6
+2024-01-21,2024-01,Social Media,Summer Sale,Mobile,285,45,13,4,1,1241,1241,1317.6,-5.8
+2024-08-10,2024-08,Organic Search,Product Launch,Desktop,94,29,17,7,3,1419,4257,209.67,1930.3
+2024-06-26,2024-06,Referral,Summer Sale,Desktop,479,212,153,109,68,345,23460,4367.2,437.2
+2024-06-20,2024-06,Social Media,Retargeting,Desktop,157,27,10,4,1,529,529,217.35,143.4
+2024-08-03,2024-08,Organic Search,Summer Sale,Mobile,446,137,83,43,21,1139,23919,2831.79,744.7
+2024-02-12,2024-02,Paid Ads,Product Launch,Desktop,427,121,53,19,6,1111,6666,2274.8,193.0
+2024-06-12,2024-06,Organic Search,Product Launch,Mobile,419,135,69,37,14,1310,18340,3909.6,369.1
+2024-12-10,2024-12,Organic Search,Newsletter,Desktop,451,123,75,40,17,1243,21131,2801.94,654.2
+2024-01-16,2024-01,Organic Search,Brand Awareness,Mobile,335,93,44,25,11,853,9383,2850.45,229.2
+2024-06-15,2024-06,Paid Ads,Brand Awareness,Desktop,281,81,28,12,4,979,3916,2182.95,79.4
+2024-04-09,2024-04,Social Media,Newsletter,Desktop,197,39,11,4,1,551,551,843.96,-34.7
+2024-01-07,2024-01,Referral,Newsletter,Mobile,199,104,63,37,19,1162,22078,3385.2,552.2
+2024-03-08,2024-03,Paid Ads,Brand Awareness,Desktop,143,37,15,6,2,1570,3140,1039.33,202.1
+2024-10-25,2024-10,Social Media,Product Launch,Mobile,243,40,11,4,1,1067,1067,1492.8,-28.5
+2024-09-23,2024-09,Paid Ads,Product Launch,Mobile,130,38,15,6,2,1788,3576,938.22,281.1
+2024-10-22,2024-10,Email Campaign,Retargeting,Desktop,396,164,104,65,35,1962,68670,3170.12,2066.2
+2024-08-29,2024-08,Organic Search,Retargeting,Mobile,347,101,56,29,11,930,10230,3345.12,205.8
+2024-08-18,2024-08,Organic Search,Brand Awareness,Desktop,382,139,65,34,14,263,3682,3680.72,0.0
+2024-09-25,2024-09,Organic Search,Summer Sale,Mobile,303,82,50,23,11,770,8470,1119.3,656.7
+2024-11-01,2024-11,Paid Ads,Summer Sale,Mobile,219,60,21,7,2,540,1080,2398.8,-55.0
+2024-12-21,2024-12,Referral,Newsletter,Desktop,394,215,158,116,64,1240,79360,1489.95,5226.4
+2024-02-02,2024-02,Email Campaign,Product Launch,Mobile,464,167,107,59,27,1216,32832,2067.46,1488.0
+2024-12-05,2024-12,Organic Search,Brand Awareness,Tablet,165,49,27,15,5,1841,9205,916.3,904.6
+2024-01-12,2024-01,Organic Search,Newsletter,Mobile,218,72,42,18,7,1458,10206,979.2,942.3
+2024-06-18,2024-06,Email Campaign,Newsletter,Desktop,284,104,55,28,15,1058,15870,2704.0,486.9
+2024-01-18,2024-01,Social Media,Brand Awareness,Desktop,320,66,21,8,2,420,840,2286.9,-63.3
+2024-12-07,2024-12,Organic Search,Brand Awareness,Desktop,81,24,11,5,2,1800,3600,569.76,531.8
+2024-09-11,2024-09,Social Media,Brand Awareness,Mobile,462,81,28,10,3,1889,5667,1918.89,195.3
+2024-07-03,2024-07,Paid Ads,Newsletter,Desktop,346,93,34,12,4,544,2176,1796.76,21.1
+2024-06-29,2024-06,Email Campaign,Product Launch,Desktop,428,188,101,51,29,1776,51504,3699.84,1292.1
+2024-09-03,2024-09,Organic Search,Retargeting,Mobile,206,65,33,17,7,854,5978,1614.6,270.2
+2024-12-20,2024-12,Email Campaign,Summer Sale,Desktop,131,51,31,17,9,298,2682,1749.81,53.3
+2024-02-17,2024-02,Paid Ads,Retargeting,Desktop,178,54,21,8,2,214,428,2142.72,-80.0
+2024-10-07,2024-10,Email Campaign,Brand Awareness,Desktop,477,228,125,63,30,1191,35730,3841.8,830.0
+2024-04-18,2024-04,Organic Search,Product Launch,Tablet,231,76,37,17,6,570,3420,2150.8,59.0
+2024-04-12,2024-04,Organic Search,Retargeting,Desktop,125,38,18,8,3,1059,3177,1087.18,192.2
+2024-08-13,2024-08,Social Media,Summer Sale,Mobile,377,60,21,7,2,1465,2930,1908.6,53.5
+2024-08-14,2024-08,Email Campaign,Product Launch,Desktop,173,69,43,25,13,742,9646,2390.85,303.5
+2024-10-15,2024-10,Paid Ads,Newsletter,Desktop,273,78,26,10,3,1347,4041,1778.4,127.2
+2024-01-06,2024-01,Paid Ads,Retargeting,Tablet,271,77,27,9,3,897,2691,1781.01,51.1
+2024-12-27,2024-12,Social Media,Brand Awareness,Desktop,437,81,32,12,3,1030,3090,3173.58,-2.6
+2024-11-08,2024-11,Organic Search,Newsletter,Mobile,292,92,47,22,8,509,4072,2133.48,90.9
+2024-07-18,2024-07,Social Media,Newsletter,Tablet,108,18,5,1,0,1653,0,426.06,-100.0
+2024-12-04,2024-12,Organic Search,Brand Awareness,Mobile,281,101,58,30,11,1451,15961,3567.32,347.4
+2024-05-30,2024-05,Organic Search,Product Launch,Mobile,393,129,74,31,14,497,6958,802.38,767.2
+2024-09-25,2024-09,Organic Search,Product Launch,Mobile,201,66,35,19,7,817,5719,920.04,521.6
+2024-08-31,2024-08,Paid Ads,Summer Sale,Tablet,382,115,42,20,7,1040,7280,3535.1,105.9
+2024-11-09,2024-11,Social Media,Brand Awareness,Desktop,401,78,27,10,2,1326,2652,878.28,202.0
+2024-04-10,2024-04,Paid Ads,Brand Awareness,Desktop,198,56,20,7,2,1501,3002,1084.72,176.8
+2024-07-22,2024-07,Paid Ads,Product Launch,Desktop,120,32,14,6,2,259,518,1011.2,-48.8
+2024-09-18,2024-09,Paid Ads,Brand Awareness,Mobile,441,118,53,22,9,808,7272,3227.3,125.3
+2024-11-18,2024-11,Organic Search,Brand Awareness,Mobile,176,60,34,18,7,868,6076,982.2,518.6
+2024-05-12,2024-05,Referral,Brand Awareness,Desktop,406,212,146,90,47,460,21620,3080.36,601.9
+2024-09-24,2024-09,Paid Ads,Retargeting,Tablet,190,56,24,11,4,1177,4708,736.96,538.8
+2024-05-17,2024-05,Organic Search,Summer Sale,Mobile,334,106,49,27,13,1479,19227,2253.56,753.2
+2024-02-01,2024-02,Paid Ads,Retargeting,Mobile,154,37,16,6,2,1072,2144,1153.66,85.8
+2024-02-29,2024-02,Paid Ads,Brand Awareness,Tablet,487,143,58,22,7,580,4060,5156.58,-21.3
+2024-09-25,2024-09,Email Campaign,Brand Awareness,Desktop,146,67,37,18,9,921,8289,2010.0,312.4
+2024-03-20,2024-03,Social Media,Retargeting,Desktop,84,16,5,1,0,298,0,478.08,-100.0
+2024-03-24,2024-03,Organic Search,Summer Sale,Mobile,475,167,91,43,19,1081,20539,5671.32,262.2
+2024-03-23,2024-03,Referral,Brand Awareness,Mobile,298,131,80,45,25,454,11350,2046.22,454.7
+2024-10-31,2024-10,Email Campaign,Brand Awareness,Desktop,381,154,98,55,27,1976,53352,1777.16,2902.1
+2024-02-02,2024-02,Organic Search,Product Launch,Desktop,315,92,56,24,10,497,4970,3438.04,44.6
+2024-09-13,2024-09,Organic Search,Brand Awareness,Desktop,235,67,35,19,8,1030,8240,2181.52,277.7
+2024-04-26,2024-04,Organic Search,Newsletter,Mobile,450,126,74,37,14,1112,15568,992.88,1468.0
+2024-10-23,2024-10,Social Media,Summer Sale,Desktop,496,95,37,15,4,390,1560,589.95,164.4
+2024-03-30,2024-03,Social Media,Summer Sale,Desktop,133,20,6,2,0,815,0,137.8,-100.0
+2024-05-30,2024-05,Organic Search,Retargeting,Desktop,219,70,33,16,7,1588,11116,545.3,1938.5
+2024-09-24,2024-09,Referral,Retargeting,Desktop,449,193,134,87,56,1855,103880,7652.45,1257.5
+2024-05-20,2024-05,Referral,Product Launch,Desktop,392,170,131,78,46,1084,49864,6667.4,647.9
+2024-12-24,2024-12,Organic Search,Product Launch,Mobile,283,81,47,24,9,241,2169,1108.89,95.6
+2024-02-16,2024-02,Social Media,Product Launch,Desktop,229,45,14,4,1,1876,1876,1780.65,5.4
+2024-12-22,2024-12,Referral,Product Launch,Tablet,98,51,33,23,14,1520,21280,645.15,3198.5
+2024-11-28,2024-11,Paid Ads,Retargeting,Desktop,265,76,30,13,5,1452,7260,2068.72,250.9
+2024-06-26,2024-06,Social Media,Summer Sale,Mobile,112,20,6,2,0,1421,0,507.4,-100.0
+2024-12-27,2024-12,Paid Ads,Newsletter,Mobile,244,71,24,9,2,445,890,1165.11,-23.6
+2024-07-11,2024-07,Email Campaign,Brand Awareness,Mobile,155,73,41,20,9,1857,16713,658.46,2438.2
+2024-12-28,2024-12,Referral,Product Launch,Mobile,86,42,32,22,14,1423,19922,748.86,2560.3
+2024-03-21,2024-03,Organic Search,Retargeting,Mobile,173,52,26,13,5,562,2810,1414.4,98.7
+2024-06-06,2024-06,Organic Search,Product Launch,Mobile,380,133,75,34,15,968,14520,4009.95,262.1
+2024-10-28,2024-10,Paid Ads,Brand Awareness,Desktop,305,76,27,11,3,709,2127,736.44,188.8
+2024-09-15,2024-09,Paid Ads,Retargeting,Mobile,110,27,12,5,1,890,890,350.46,154.0
+2024-05-03,2024-05,Paid Ads,Product Launch,Desktop,354,113,43,20,7,1434,10038,2873.59,249.3
+2024-01-10,2024-01,Paid Ads,Product Launch,Tablet,174,44,17,6,1,963,963,782.32,23.1
+2024-04-11,2024-04,Organic Search,Summer Sale,Desktop,448,162,88,38,18,1078,19404,5605.2,246.2
+2024-04-24,2024-04,Referral,Summer Sale,Mobile,346,161,101,72,43,1145,49235,6023.01,717.4
+2024-08-08,2024-08,Paid Ads,Brand Awareness,Desktop,347,90,37,17,6,548,3288,875.7,275.5
+2024-08-20,2024-08,Organic Search,Newsletter,Mobile,189,66,38,20,8,1004,8032,1958.22,310.2
+2024-04-06,2024-04,Referral,Brand Awareness,Mobile,201,89,69,42,22,964,21208,3265.41,549.5
+2024-06-28,2024-06,Social Media,Newsletter,Mobile,247,48,19,7,1,1269,1269,479.52,164.6
+2024-04-08,2024-04,Email Campaign,Newsletter,Desktop,168,74,41,21,11,1728,19008,1990.6,854.9
+2024-05-15,2024-05,Social Media,Newsletter,Desktop,457,89,32,11,3,1825,5475,1229.98,345.1
+2024-09-17,2024-09,Social Media,Product Launch,Mobile,220,44,14,4,1,231,231,715.0,-67.7
+2024-05-31,2024-05,Organic Search,Summer Sale,Mobile,115,35,20,10,4,1712,6848,385.0,1678.7
+2024-04-30,2024-04,Referral,Summer Sale,Mobile,433,185,114,67,42,1948,81816,3174.6,2477.2
+2024-09-22,2024-09,Organic Search,Summer Sale,Desktop,137,43,23,10,3,616,1848,1287.85,43.5
+2024-12-13,2024-12,Organic Search,Retargeting,Desktop,233,72,43,23,10,621,6210,1038.24,498.1
+2024-09-09,2024-09,Organic Search,Brand Awareness,Desktop,315,98,52,29,13,1851,24063,2420.6,894.1
+2024-02-04,2024-02,Paid Ads,Brand Awareness,Tablet,297,90,40,16,5,1264,6320,1570.5,302.4
+2024-09-23,2024-09,Social Media,Summer Sale,Desktop,274,42,16,6,1,1797,1797,1525.02,17.8
+2024-10-17,2024-10,Paid Ads,Retargeting,Desktop,358,100,40,17,6,1679,10074,1097.0,818.3
+2024-05-23,2024-05,Organic Search,Brand Awareness,Desktop,130,36,17,7,3,1704,5112,478.8,967.7
+2024-03-14,2024-03,Organic Search,Summer Sale,Desktop,317,88,45,22,9,1140,10260,3204.08,220.2
+2024-04-12,2024-04,Paid Ads,Summer Sale,Desktop,471,131,55,19,7,1300,9100,2544.02,257.7
+2024-02-19,2024-02,Referral,Brand Awareness,Desktop,332,155,107,79,47,950,44650,4202.05,962.6
+2024-10-10,2024-10,Organic Search,Retargeting,Mobile,484,135,84,37,14,1621,22694,4068.9,457.7
+2024-09-03,2024-09,Paid Ads,Newsletter,Tablet,134,34,15,6,2,713,1426,527.68,170.2
+2024-07-19,2024-07,Paid Ads,Newsletter,Mobile,443,142,56,26,9,881,7929,2032.02,290.2
+2024-01-06,2024-01,Paid Ads,Product Launch,Tablet,455,140,49,18,6,549,3294,995.4,230.9
+2024-05-24,2024-05,Organic Search,Retargeting,Mobile,183,54,28,12,6,520,3120,938.52,232.4
+2024-03-29,2024-03,Social Media,Brand Awareness,Desktop,444,74,29,11,3,801,2403,1588.78,51.2
+2024-06-16,2024-06,Social Media,Retargeting,Mobile,233,36,13,4,1,1085,1085,232.92,365.8
+2024-03-02,2024-03,Referral,Newsletter,Mobile,493,213,129,74,43,1461,62823,8177.07,668.3
+2024-08-09,2024-08,Paid Ads,Product Launch,Mobile,167,43,16,6,2,1021,2042,855.27,138.8
+2024-11-16,2024-11,Organic Search,Product Launch,Desktop,172,54,26,14,6,723,4338,1829.52,137.1
+2024-05-07,2024-05,Paid Ads,Retargeting,Desktop,184,53,20,9,3,1956,5868,399.09,1370.3
+2024-06-07,2024-06,Paid Ads,Product Launch,Tablet,248,77,31,12,4,1618,6472,1187.34,445.1
+2024-11-16,2024-11,Referral,Summer Sale,Mobile,319,175,131,92,56,1120,62720,3279.5,1812.5
+2024-12-19,2024-12,Paid Ads,Summer Sale,Tablet,249,78,27,11,3,452,1356,650.52,108.4
+2024-02-28,2024-02,Referral,Retargeting,Mobile,240,104,62,42,28,263,7364,3732.56,97.3
+2024-12-01,2024-12,Organic Search,Summer Sale,Mobile,333,98,54,23,11,711,7821,907.48,761.8
+2024-04-24,2024-04,Paid Ads,Brand Awareness,Desktop,412,102,45,18,6,511,3066,3721.98,-17.6
+2024-08-07,2024-08,Social Media,Brand Awareness,Desktop,189,37,11,4,1,514,514,345.21,48.9
+2024-12-20,2024-12,Organic Search,Retargeting,Mobile,424,145,90,46,21,1928,40488,3335.0,1114.0
+2024-09-17,2024-09,Social Media,Newsletter,Mobile,405,74,24,10,3,1355,4065,1143.3,255.5
+2024-12-18,2024-12,Organic Search,Summer Sale,Mobile,486,175,107,55,21,1944,40824,4033.75,912.1
+2024-04-01,2024-04,Organic Search,Brand Awareness,Mobile,319,108,68,33,15,727,10905,1108.08,884.1
+2024-09-25,2024-09,Organic Search,Brand Awareness,Tablet,463,130,65,35,14,928,12992,704.6,1743.9
+2024-12-10,2024-12,Email Campaign,Retargeting,Mobile,468,205,116,60,29,463,13427,5748.2,133.6
+2024-01-24,2024-01,Organic Search,Summer Sale,Desktop,190,58,36,19,8,1516,12128,1437.82,743.5
+2024-01-25,2024-01,Paid Ads,Retargeting,Desktop,358,111,44,16,5,1329,6645,2544.12,161.2
+2024-05-19,2024-05,Paid Ads,Retargeting,Desktop,402,99,45,18,6,976,5856,2360.16,148.1
+2024-03-21,2024-03,Organic Search,Summer Sale,Mobile,474,158,91,39,20,634,12680,5417.82,134.0
+2024-03-28,2024-03,Organic Search,Brand Awareness,Tablet,163,48,26,12,6,853,5118,1747.2,192.9
+2024-05-29,2024-05,Social Media,Summer Sale,Desktop,131,22,6,2,0,1585,0,198.22,-100.0
+2024-11-29,2024-11,Referral,Product Launch,Mobile,483,212,154,110,62,745,46190,6747.96,584.5
+2024-07-14,2024-07,Organic Search,Retargeting,Mobile,283,95,50,23,8,1536,12288,662.15,1755.8
+2024-05-14,2024-05,Email Campaign,Summer Sale,Mobile,364,144,85,53,27,1304,35208,1566.72,2147.2
+2024-10-28,2024-10,Social Media,Product Launch,Desktop,444,89,27,9,2,1495,2990,1970.46,51.7
+2024-09-07,2024-09,Organic Search,Retargeting,Tablet,242,75,47,24,12,1796,21552,1410.75,1427.7
+2024-03-04,2024-03,Email Campaign,Newsletter,Mobile,161,73,49,27,14,936,13104,1291.37,914.7
+2024-11-17,2024-11,Organic Search,Newsletter,Desktop,390,133,63,35,15,1388,20820,5087.25,309.3
+2024-10-31,2024-10,Organic Search,Newsletter,Mobile,408,113,55,25,11,543,5973,3134.62,90.5
+2024-06-08,2024-06,Paid Ads,Brand Awareness,Mobile,190,50,20,8,2,890,1780,329.5,440.2
+2024-10-14,2024-10,Email Campaign,Newsletter,Desktop,321,114,77,43,22,308,6776,579.12,1070.1
+2024-01-28,2024-01,Organic Search,Retargeting,Tablet,151,53,28,11,4,450,1800,713.38,152.3
+2024-11-03,2024-11,Email Campaign,Summer Sale,Tablet,453,187,110,59,34,528,17952,3698.86,385.3
+2024-04-25,2024-04,Paid Ads,Brand Awareness,Desktop,130,39,14,5,1,1997,1997,559.65,256.8
+2024-11-23,2024-11,Paid Ads,Newsletter,Mobile,303,73,27,11,4,1973,7892,2041.81,286.5
+2024-02-20,2024-02,Organic Search,Product Launch,Mobile,164,50,27,15,6,1576,9456,292.5,3132.8
+2024-09-27,2024-09,Social Media,Product Launch,Desktop,102,19,7,2,0,1595,0,656.64,-100.0
+2024-05-11,2024-05,Organic Search,Retargeting,Mobile,404,143,88,45,19,806,15314,1454.31,953.0
+2024-09-02,2024-09,Email Campaign,Brand Awareness,Mobile,286,127,81,48,22,1149,25278,4820.92,424.3
+2024-08-13,2024-08,Email Campaign,Newsletter,Desktop,297,119,81,47,25,475,11875,3242.75,266.2
+2024-03-21,2024-03,Paid Ads,Product Launch,Desktop,195,60,25,10,3,722,2166,1123.8,92.7
+2024-03-20,2024-03,Organic Search,Brand Awareness,Desktop,330,91,47,21,8,1695,13560,2575.3,426.5
+2024-02-22,2024-02,Organic Search,Product Launch,Desktop,418,149,91,43,21,1634,34314,823.97,4064.5
+2024-08-13,2024-08,Paid Ads,Brand Awareness,Desktop,283,89,39,15,5,1647,8235,910.47,804.5
+2024-12-13,2024-12,Organic Search,Product Launch,Mobile,218,71,43,23,9,1386,12474,2066.81,503.5
+2024-09-09,2024-09,Social Media,Newsletter,Desktop,332,53,17,7,2,1450,2900,2077.6,39.6
+2024-03-04,2024-03,Referral,Summer Sale,Mobile,159,86,54,30,19,1448,27512,2756.3,898.1
+2024-12-18,2024-12,Organic Search,Product Launch,Mobile,194,58,33,18,9,1349,12141,2194.14,453.3
+2024-11-11,2024-11,Organic Search,Retargeting,Mobile,147,43,21,11,4,452,1808,333.25,442.5
+2024-09-09,2024-09,Paid Ads,Retargeting,Mobile,471,121,49,22,7,1329,9303,3195.61,191.1
+2024-09-11,2024-09,Email Campaign,Summer Sale,Desktop,103,42,24,11,5,1273,6365,1435.56,343.4
+2024-06-30,2024-06,Paid Ads,Product Launch,Desktop,232,66,29,11,4,255,1020,2003.76,-49.1
+2024-10-02,2024-10,Paid Ads,Newsletter,Mobile,90,23,9,4,1,204,204,873.77,-76.7
+2024-08-20,2024-08,Paid Ads,Retargeting,Tablet,90,26,9,4,1,1250,1250,1019.98,22.6
+2024-11-24,2024-11,Referral,Retargeting,Desktop,191,107,81,47,31,696,21576,4079.91,428.8
+2024-07-27,2024-07,Social Media,Product Launch,Mobile,366,73,26,9,2,1333,2666,559.91,376.1
+2024-12-12,2024-12,Referral,Retargeting,Desktop,362,167,101,74,37,752,27824,4509.0,517.1
+2024-09-12,2024-09,Email Campaign,Newsletter,Desktop,97,37,20,10,5,672,3360,638.25,426.4
+2024-06-17,2024-06,Paid Ads,Retargeting,Mobile,388,95,37,13,5,1979,9895,2670.45,270.5
+2024-10-09,2024-10,Email Campaign,Retargeting,Desktop,256,106,62,37,19,1403,26657,2491.0,970.1
+2024-02-15,2024-02,Email Campaign,Newsletter,Mobile,267,97,66,34,16,1410,22560,2510.36,798.7
+2024-01-31,2024-01,Social Media,Retargeting,Tablet,358,65,23,8,2,640,1280,1702.35,-24.8
+2024-09-23,2024-09,Email Campaign,Brand Awareness,Mobile,250,110,71,42,23,1345,30935,1012.0,2956.8
+2024-09-28,2024-09,Social Media,Brand Awareness,Desktop,365,74,24,7,2,1848,3696,1339.4,175.9
+2024-04-24,2024-04,Organic Search,Retargeting,Mobile,420,150,87,44,22,928,20416,3183.0,541.4
+2024-03-15,2024-03,Social Media,Product Launch,Desktop,80,14,4,1,0,1993,0,522.48,-100.0
+2024-09-13,2024-09,Social Media,Brand Awareness,Desktop,457,79,25,10,3,1900,5700,2629.91,116.7
+2024-02-08,2024-02,Social Media,Brand Awareness,Desktop,398,69,21,7,1,1955,1955,2308.74,-15.3
+2024-08-02,2024-08,Social Media,Retargeting,Mobile,113,21,6,2,0,1876,0,348.6,-100.0
+2024-05-12,2024-05,Paid Ads,Brand Awareness,Mobile,246,67,28,10,4,1402,5608,2030.77,176.2
+2024-11-19,2024-11,Paid Ads,Brand Awareness,Mobile,139,33,14,6,2,525,1050,322.41,225.7
+2024-03-10,2024-03,Referral,Product Launch,Mobile,203,94,62,45,24,485,11640,2608.5,346.2
+2024-12-14,2024-12,Referral,Summer Sale,Desktop,465,211,142,87,51,877,44727,1069.77,4081.0
+2024-08-10,2024-08,Social Media,Retargeting,Desktop,270,45,17,6,2,1390,2780,1665.9,66.9
+2024-06-03,2024-06,Organic Search,Brand Awareness,Desktop,337,111,60,33,17,1619,27523,2190.03,1156.7
+2024-07-09,2024-07,Organic Search,Product Launch,Desktop,283,78,45,20,9,1836,16524,858.0,1825.9
+2024-05-14,2024-05,Social Media,Summer Sale,Mobile,425,85,31,11,3,1450,4350,886.55,390.7
+2024-07-24,2024-07,Organic Search,Retargeting,Mobile,478,135,83,44,21,1054,22134,5341.95,314.3
+2024-11-12,2024-11,Organic Search,Brand Awareness,Desktop,458,155,85,48,23,1671,38433,3628.55,959.2
+2024-06-23,2024-06,Social Media,Newsletter,Desktop,493,77,22,8,2,326,652,510.51,27.7
+2024-12-28,2024-12,Social Media,Retargeting,Tablet,422,64,24,9,2,296,592,2245.12,-73.6
+2024-07-25,2024-07,Organic Search,Retargeting,Mobile,349,101,62,29,14,1113,15582,1927.08,708.6
+2024-01-04,2024-01,Paid Ads,Brand Awareness,Desktop,207,53,20,7,2,805,1610,1869.84,-13.9
+2024-04-04,2024-04,Organic Search,Brand Awareness,Tablet,136,43,20,11,5,353,1765,961.05,83.7
+2024-10-03,2024-10,Paid Ads,Summer Sale,Tablet,366,89,30,12,4,1537,6148,1577.08,289.8
+2024-06-08,2024-06,Organic Search,Brand Awareness,Mobile,312,87,44,20,8,835,6680,2831.85,135.9
+2024-05-01,2024-05,Referral,Summer Sale,Mobile,222,105,71,41,27,971,26217,2362.5,1009.7
+2024-10-30,2024-10,Social Media,Summer Sale,Desktop,383,76,23,7,2,1397,2794,537.32,420.0
+2024-09-25,2024-09,Email Campaign,Newsletter,Desktop,393,187,126,60,27,567,15309,4873.22,214.1
+2024-12-14,2024-12,Email Campaign,Summer Sale,Mobile,285,131,76,37,20,1587,31740,3539.62,796.7
+2024-07-24,2024-07,Organic Search,Summer Sale,Desktop,345,106,66,31,13,1336,17368,3101.56,460.0
+2024-08-15,2024-08,Referral,Retargeting,Tablet,370,177,126,79,52,692,35984,6110.04,488.9
+2024-01-04,2024-01,Social Media,Retargeting,Desktop,410,67,20,8,2,1184,2368,704.84,236.0
+2024-01-24,2024-01,Organic Search,Product Launch,Desktop,265,78,37,15,7,1781,12467,439.14,2739.0
+2024-02-09,2024-02,Organic Search,Summer Sale,Mobile,270,92,48,22,9,1823,16407,1105.84,1383.7
+2024-11-07,2024-11,Paid Ads,Newsletter,Mobile,139,39,17,6,2,1021,2042,722.67,182.6
+2024-02-25,2024-02,Organic Search,Retargeting,Mobile,427,124,72,41,19,1613,30647,2132.8,1336.9
+2024-08-07,2024-08,Social Media,Summer Sale,Tablet,398,63,23,8,2,907,1814,2458.89,-26.2
+2024-01-21,2024-01,Paid Ads,Summer Sale,Desktop,167,50,19,8,2,740,1480,1606.0,-7.8
+2024-01-01,2024-01,Social Media,Newsletter,Desktop,379,66,23,10,2,1774,3548,547.14,548.5
+2024-12-08,2024-12,Organic Search,Retargeting,Mobile,342,115,62,31,12,1075,12900,3851.35,234.9
+2024-03-03,2024-03,Organic Search,Product Launch,Desktop,93,32,18,8,3,1622,4866,225.28,2060.0
+2024-05-08,2024-05,Social Media,Summer Sale,Desktop,379,69,24,8,2,1190,2380,2283.9,4.2
+2024-03-26,2024-03,Email Campaign,Product Launch,Mobile,435,170,99,46,24,1949,46776,1276.7,3563.8
+2024-07-30,2024-07,Email Campaign,Brand Awareness,Desktop,368,170,96,52,28,361,10108,2947.8,242.9
+2024-02-20,2024-02,Email Campaign,Retargeting,Mobile,97,39,20,10,4,1652,6608,1339.65,393.3
+2024-09-24,2024-09,Paid Ads,Newsletter,Tablet,243,73,29,10,3,330,990,404.42,144.8
+2024-09-02,2024-09,Paid Ads,Product Launch,Desktop,105,26,8,3,1,1980,1980,594.88,232.8
+2024-04-03,2024-04,Organic Search,Newsletter,Desktop,460,167,96,51,21,774,16254,2541.74,539.5
+2024-08-05,2024-08,Paid Ads,Product Launch,Mobile,156,41,17,6,2,987,1974,1303.39,51.5
+2024-06-08,2024-06,Paid Ads,Product Launch,Mobile,462,134,47,22,8,1286,10288,4864.2,111.5
+2024-08-24,2024-08,Social Media,Summer Sale,Mobile,138,23,9,3,0,1059,0,624.45,-100.0
+2024-10-14,2024-10,Referral,Brand Awareness,Mobile,233,120,73,49,30,1545,46350,3873.6,1096.6
+2024-10-03,2024-10,Referral,Product Launch,Desktop,125,63,46,30,15,596,8940,1787.94,400.0
+2024-10-15,2024-10,Organic Search,Retargeting,Mobile,233,85,50,28,12,447,5364,2157.3,148.6
+2024-01-01,2024-01,Social Media,Brand Awareness,Desktop,452,72,22,7,2,1331,2662,563.76,372.2
+2024-08-29,2024-08,Organic Search,Product Launch,Desktop,245,86,54,29,11,1013,11143,2768.34,302.5
+2024-12-07,2024-12,Organic Search,Product Launch,Mobile,353,116,55,31,14,1634,22876,2267.8,908.7
+2024-07-30,2024-07,Organic Search,Product Launch,Mobile,358,110,58,27,13,1390,18070,2680.7,574.1
+2024-08-25,2024-08,Organic Search,Newsletter,Desktop,336,121,58,31,11,614,6754,4421.34,52.8
+2024-10-31,2024-10,Email Campaign,Retargeting,Desktop,436,175,98,58,29,1138,33002,1603.0,1958.8
+2024-04-26,2024-04,Paid Ads,Product Launch,Desktop,208,62,21,8,3,1251,3753,2361.58,58.9
+2024-10-22,2024-10,Paid Ads,Product Launch,Desktop,162,39,17,7,2,1236,2472,404.82,510.6
+2024-09-13,2024-09,Email Campaign,Product Launch,Mobile,363,164,105,63,28,1927,53956,5361.16,906.4
+2024-12-02,2024-12,Social Media,Summer Sale,Mobile,269,51,19,6,1,496,496,1126.59,-56.0
+2024-04-29,2024-04,Organic Search,Brand Awareness,Mobile,378,114,68,31,14,493,6902,3642.3,89.5
+2024-08-30,2024-08,Organic Search,Summer Sale,Mobile,457,133,69,39,15,1830,27450,5198.97,428.0
+2024-10-29,2024-10,Organic Search,Summer Sale,Desktop,446,127,79,39,16,931,14896,4488.18,231.9
+2024-07-14,2024-07,Email Campaign,Retargeting,Desktop,94,41,25,12,6,829,4974,686.34,624.7
+2024-02-08,2024-02,Paid Ads,Summer Sale,Desktop,320,94,36,15,6,208,1248,1007.68,23.8
+2024-02-19,2024-02,Organic Search,Newsletter,Mobile,303,88,50,24,12,509,6108,3397.68,79.8
+2024-04-17,2024-04,Paid Ads,Product Launch,Desktop,305,79,35,15,6,1044,6264,1523.12,311.3
+2024-10-30,2024-10,Email Campaign,Summer Sale,Mobile,198,83,45,25,12,1578,18936,1152.04,1543.7
+2024-01-17,2024-01,Organic Search,Summer Sale,Mobile,361,130,76,33,16,873,13968,1859.0,651.4
+2024-08-09,2024-08,Referral,Summer Sale,Tablet,119,64,47,31,18,724,13032,522.88,2392.4
+2024-05-24,2024-05,Social Media,Brand Awareness,Tablet,317,51,16,5,1,1282,1282,1769.19,-27.5
+2024-02-23,2024-02,Organic Search,Summer Sale,Mobile,121,41,24,12,5,666,3330,1164.4,186.0
+2024-09-05,2024-09,Organic Search,Brand Awareness,Mobile,118,37,21,8,3,959,2877,892.07,222.5
+2024-06-13,2024-06,Organic Search,Product Launch,Mobile,237,76,38,19,9,1796,16164,2354.48,586.5
+2024-06-22,2024-06,Organic Search,Newsletter,Mobile,385,140,85,36,15,325,4875,1540.0,216.6
+2024-01-25,2024-01,Paid Ads,Retargeting,Desktop,286,78,28,11,4,1554,6216,1140.36,445.1
+2024-01-31,2024-01,Social Media,Product Launch,Mobile,389,72,22,7,2,1288,2576,1015.92,153.6
+2024-05-25,2024-05,Paid Ads,Retargeting,Mobile,434,117,46,18,7,1998,13986,2908.62,380.8
+2024-10-15,2024-10,Email Campaign,Retargeting,Mobile,327,117,78,44,24,931,22344,1194.57,1770.5
+2024-06-18,2024-06,Organic Search,Summer Sale,Tablet,469,130,79,36,17,360,6120,985.4,521.1
+2024-04-10,2024-04,Paid Ads,Retargeting,Mobile,235,58,21,7,3,700,2100,2041.02,2.9
+2024-01-27,2024-01,Referral,Retargeting,Mobile,153,79,56,40,25,1474,36850,1391.19,2548.8
+2024-09-20,2024-09,Paid Ads,Product Launch,Mobile,245,67,28,10,3,1179,3537,828.12,327.1
+2024-05-21,2024-05,Email Campaign,Summer Sale,Desktop,219,99,67,34,16,1197,19152,2748.24,596.9
+2024-08-12,2024-08,Social Media,Retargeting,Desktop,217,34,10,3,0,1124,0,649.4,-100.0
+2024-07-19,2024-07,Social Media,Brand Awareness,Desktop,401,70,25,8,2,1851,3702,861.7,329.6
+2024-09-23,2024-09,Email Campaign,Summer Sale,Mobile,310,147,78,41,23,1898,43654,886.41,4824.8
+2024-10-31,2024-10,Social Media,Summer Sale,Desktop,372,68,22,8,2,1951,3902,760.92,412.8
+2024-08-14,2024-08,Organic Search,Brand Awareness,Mobile,353,106,60,26,11,591,6501,1262.46,414.9
+2024-01-18,2024-01,Organic Search,Retargeting,Mobile,165,44,23,12,6,371,2226,399.52,457.2
+2024-04-29,2024-04,Organic Search,Retargeting,Mobile,264,89,54,26,13,605,7865,3078.51,155.5
+2024-07-12,2024-07,Email Campaign,Retargeting,Tablet,321,114,76,43,21,1047,21987,1834.26,1098.7
+2024-04-04,2024-04,Paid Ads,Brand Awareness,Mobile,263,72,27,11,3,719,2157,951.84,126.6
+2024-04-06,2024-04,Paid Ads,Product Launch,Desktop,134,41,14,5,1,1826,1826,566.62,222.3
+2024-07-08,2024-07,Paid Ads,Summer Sale,Desktop,407,117,42,15,5,312,1560,1036.62,50.5
+2024-02-26,2024-02,Paid Ads,Newsletter,Desktop,202,50,18,8,3,1932,5796,913.5,534.5
+2024-02-21,2024-02,Paid Ads,Newsletter,Mobile,287,90,31,12,4,1655,6620,2120.4,212.2
+2024-01-25,2024-01,Paid Ads,Brand Awareness,Mobile,224,68,25,11,4,210,840,1722.44,-51.2
+2024-07-27,2024-07,Email Campaign,Newsletter,Mobile,128,48,24,14,7,1001,7007,1184.16,491.7
+2024-10-25,2024-10,Referral,Product Launch,Desktop,182,104,77,42,28,1622,45416,1064.96,4164.6
+2024-08-25,2024-08,Organic Search,Newsletter,Desktop,310,110,59,32,12,1160,13920,3790.6,267.2
+2024-06-05,2024-06,Email Campaign,Summer Sale,Mobile,310,142,86,47,27,1763,47601,2710.78,1656.0
+2024-09-16,2024-09,Email Campaign,Retargeting,Tablet,101,40,26,13,7,768,5376,543.6,889.0
+2024-06-04,2024-06,Email Campaign,Product Launch,Tablet,494,208,112,56,31,1470,45570,5133.44,787.7
+2024-01-26,2024-01,Paid Ads,Product Launch,Mobile,108,26,10,3,1,1138,1138,521.3,118.3
+2024-03-11,2024-03,Paid Ads,Retargeting,Tablet,150,40,17,7,2,1568,3136,1410.8,122.3
+2024-11-16,2024-11,Organic Search,Product Launch,Desktop,181,61,36,20,8,1223,9784,2335.08,319.0
+2024-02-07,2024-02,Organic Search,Brand Awareness,Tablet,84,30,18,8,3,918,2754,598.2,360.4
+2024-10-25,2024-10,Organic Search,Retargeting,Desktop,308,104,54,28,11,1463,16093,1982.24,711.9
+2024-07-09,2024-07,Organic Search,Brand Awareness,Mobile,305,90,42,20,10,777,7770,619.2,1154.8
+2024-10-15,2024-10,Paid Ads,Brand Awareness,Desktop,356,107,40,14,5,761,3805,3342.68,13.8
+2024-04-29,2024-04,Organic Search,Retargeting,Desktop,215,77,40,18,8,851,6808,2488.64,173.6
+2024-05-19,2024-05,Email Campaign,Newsletter,Tablet,386,174,118,74,43,1520,65360,3812.34,1614.4
+2024-11-17,2024-11,Email Campaign,Retargeting,Desktop,450,176,116,72,37,595,22015,3785.76,481.5
+2024-07-08,2024-07,Paid Ads,Summer Sale,Mobile,223,67,28,11,4,1260,5040,2007.99,151.0
+2024-10-03,2024-10,Social Media,Newsletter,Mobile,456,87,26,9,2,606,1212,3281.64,-63.1
+2024-06-12,2024-06,Organic Search,Retargeting,Mobile,475,142,83,38,16,230,3680,2161.24,70.3
+2024-07-31,2024-07,Organic Search,Product Launch,Tablet,124,40,25,11,4,261,1044,936.0,11.5
+2024-03-19,2024-03,Social Media,Retargeting,Mobile,210,32,12,4,1,550,550,757.76,-27.4
+2024-09-15,2024-09,Social Media,Newsletter,Desktop,201,37,13,4,1,1486,1486,317.09,368.6
+2024-04-15,2024-04,Paid Ads,Retargeting,Desktop,94,24,10,3,1,581,581,293.04,98.3
+2024-05-01,2024-05,Organic Search,Summer Sale,Mobile,207,69,33,16,8,808,6464,854.91,656.1
+2024-05-08,2024-05,Organic Search,Brand Awareness,Desktop,498,162,97,42,20,998,19960,2502.9,697.5
+2024-12-18,2024-12,Email Campaign,Product Launch,Desktop,255,119,71,33,17,624,10608,629.51,1585.1
+2024-03-12,2024-03,Organic Search,Summer Sale,Mobile,498,174,99,44,19,217,4123,3735.78,10.4
+2024-02-25,2024-02,Paid Ads,Brand Awareness,Mobile,350,101,38,14,4,1484,5936,3466.32,71.2
+2024-02-05,2024-02,Paid Ads,Retargeting,Mobile,86,23,8,3,1,1817,1817,682.41,166.3
+2024-02-28,2024-02,Organic Search,Newsletter,Mobile,200,65,38,18,7,1407,9849,1582.1,522.5
+2024-06-18,2024-06,Referral,Product Launch,Mobile,355,172,102,62,31,803,24893,6229.84,299.6
+2024-05-25,2024-05,Social Media,Newsletter,Mobile,131,24,7,2,0,362,0,919.2,-100.0
+2024-09-30,2024-09,Referral,Retargeting,Desktop,238,121,93,56,35,1487,52045,2023.12,2472.5
+2024-05-20,2024-05,Social Media,Summer Sale,Mobile,284,57,20,7,1,518,518,582.54,-11.1
+2024-02-24,2024-02,Social Media,Summer Sale,Desktop,225,40,15,6,2,1692,3384,527.2,541.9
+2024-05-19,2024-05,Organic Search,Product Launch,Mobile,243,69,35,16,7,589,4123,2200.41,87.4
+2024-06-17,2024-06,Organic Search,Product Launch,Desktop,497,162,82,43,20,1011,20220,2533.68,698.0
+2024-09-03,2024-09,Organic Search,Summer Sale,Desktop,449,132,69,35,14,655,9170,4027.32,127.7
+2024-11-20,2024-11,Organic Search,Product Launch,Desktop,406,133,63,30,14,1254,17556,3027.08,480.0
+2024-10-18,2024-10,Social Media,Summer Sale,Mobile,455,90,30,12,3,1966,5898,1417.5,316.1
+2024-10-27,2024-10,Social Media,Product Launch,Mobile,279,57,20,8,2,907,1814,426.36,325.5
+2024-05-16,2024-05,Paid Ads,Retargeting,Mobile,458,111,44,20,7,273,1911,2874.9,-33.5
+2024-05-09,2024-05,Email Campaign,Newsletter,Mobile,163,69,40,20,10,1307,13070,1215.09,975.6
+2024-10-30,2024-10,Social Media,Brand Awareness,Desktop,179,33,11,4,1,723,723,665.28,8.7
+2024-06-14,2024-06,Social Media,Brand Awareness,Mobile,370,61,18,5,1,1527,1527,1923.33,-20.6
+2024-02-16,2024-02,Social Media,Brand Awareness,Desktop,102,15,5,1,0,816,0,550.95,-100.0
+2024-12-23,2024-12,Paid Ads,Retargeting,Tablet,216,59,21,9,3,829,2487,1323.96,87.8
+2024-03-21,2024-03,Social Media,Newsletter,Desktop,214,38,11,3,0,1721,0,1015.36,-100.0
+2024-11-24,2024-11,Organic Search,Brand Awareness,Mobile,274,81,44,20,9,1066,9594,2263.14,323.9
+2024-01-12,2024-01,Organic Search,Retargeting,Desktop,129,41,25,13,5,204,1020,1627.7,-37.3
+2024-08-08,2024-08,Social Media,Product Launch,Mobile,259,41,13,4,1,1840,1840,1014.34,81.4
+2024-07-06,2024-07,Social Media,Newsletter,Mobile,449,73,25,10,3,1802,5406,2744.07,97.0
+2024-09-01,2024-09,Social Media,Product Launch,Desktop,256,47,15,5,1,1639,1639,1237.98,32.4
+2024-02-13,2024-02,Organic Search,Retargeting,Mobile,158,45,25,10,4,413,1652,601.2,174.8
+2024-03-03,2024-03,Referral,Product Launch,Tablet,494,249,155,90,55,988,54340,8822.07,516.0
+2024-12-18,2024-12,Organic Search,Retargeting,Mobile,89,24,15,7,2,385,770,908.88,-15.3
+2024-03-25,2024-03,Organic Search,Newsletter,Desktop,124,40,23,11,4,517,2068,1573.6,31.4
+2024-09-01,2024-09,Email Campaign,Brand Awareness,Mobile,89,33,18,8,4,1295,5180,356.73,1352.1
+2024-03-01,2024-03,Paid Ads,Newsletter,Desktop,305,91,31,11,4,1533,6132,881.79,595.4
+2024-04-09,2024-04,Paid Ads,Brand Awareness,Desktop,462,132,57,22,8,1395,11160,3084.84,261.8
+2024-11-09,2024-11,Organic Search,Product Launch,Desktop,432,121,64,29,11,1518,16698,1530.65,990.9
+2024-01-30,2024-01,Referral,Newsletter,Mobile,420,203,129,72,46,979,45034,6390.44,604.7
+2024-10-25,2024-10,Paid Ads,Summer Sale,Mobile,92,27,11,4,1,1396,1396,834.84,67.2
+2024-12-27,2024-12,Organic Search,Retargeting,Desktop,428,144,78,43,18,1350,24300,809.28,2902.7
+2024-02-14,2024-02,Social Media,Newsletter,Mobile,196,34,12,4,1,872,872,1249.5,-30.2
+2024-03-26,2024-03,Social Media,Newsletter,Mobile,294,58,17,5,1,874,874,1471.46,-40.6
+2024-12-02,2024-12,Referral,Newsletter,Desktop,356,162,106,64,41,1635,67035,1994.22,3261.5
+2024-01-26,2024-01,Referral,Product Launch,Desktop,210,99,76,51,29,1204,34916,1381.05,2428.2
+2024-01-27,2024-01,Referral,Retargeting,Tablet,208,94,63,42,22,756,16632,2516.38,560.9
+2024-07-03,2024-07,Referral,Brand Awareness,Desktop,175,100,72,41,24,580,13920,1011.0,1276.9
+2024-07-22,2024-07,Organic Search,Retargeting,Mobile,438,129,79,40,18,434,7812,2204.61,254.3
+2024-11-18,2024-11,Social Media,Retargeting,Desktop,243,44,15,5,1,708,708,1040.16,-31.9
+2024-11-23,2024-11,Social Media,Newsletter,Mobile,246,37,13,4,1,728,728,408.11,78.4
+2024-11-13,2024-11,Referral,Newsletter,Desktop,435,211,146,85,47,1114,52358,7349.13,612.4
+2024-11-18,2024-11,Social Media,Retargeting,Desktop,93,17,5,1,0,941,0,195.67,-100.0
+2024-03-12,2024-03,Organic Search,Product Launch,Desktop,201,62,38,17,7,1768,12376,1767.62,600.2
+2024-04-20,2024-04,Paid Ads,Summer Sale,Mobile,322,90,33,15,6,1279,7674,492.3,1458.8
+2024-04-15,2024-04,Organic Search,Retargeting,Desktop,370,111,58,29,14,248,3472,2347.65,47.9
+2024-01-07,2024-01,Referral,Newsletter,Mobile,269,116,69,49,28,1033,28924,1242.36,2228.1
+2024-08-18,2024-08,Email Campaign,Brand Awareness,Desktop,188,90,49,24,13,688,8944,3419.1,161.6
+2024-09-12,2024-09,Organic Search,Retargeting,Desktop,315,106,55,27,13,1513,19669,1429.94,1275.5
+2024-12-22,2024-12,Paid Ads,Retargeting,Tablet,171,48,21,8,3,1410,4230,531.36,696.1
+2024-07-28,2024-07,Social Media,Brand Awareness,Desktop,485,74,22,8,2,288,576,697.08,-17.4
+2024-06-03,2024-06,Organic Search,Product Launch,Desktop,138,46,28,12,5,380,1900,1820.22,4.4
+2024-08-08,2024-08,Paid Ads,Product Launch,Desktop,398,98,43,16,6,1718,10308,2992.92,244.4
+2024-03-15,2024-03,Paid Ads,Product Launch,Mobile,335,100,40,15,5,1886,9430,1037.0,809.4
+2024-02-12,2024-02,Paid Ads,Newsletter,Mobile,123,39,13,6,2,1351,2702,664.17,306.8
+2024-02-02,2024-02,Organic Search,Summer Sale,Desktop,409,146,89,43,19,891,16929,3683.58,359.6
+2024-01-18,2024-01,Social Media,Brand Awareness,Mobile,425,72,28,10,2,1885,3770,1344.24,180.5
+2024-09-12,2024-09,Paid Ads,Brand Awareness,Tablet,472,148,52,24,10,1571,15710,2066.08,660.4
+2024-09-16,2024-09,Organic Search,Newsletter,Desktop,360,112,66,29,14,1757,24598,1562.4,1474.4
+2024-06-07,2024-06,Social Media,Summer Sale,Desktop,234,37,13,5,1,692,692,984.57,-29.7
+2024-11-12,2024-11,Email Campaign,Product Launch,Desktop,293,107,66,31,15,896,13440,2951.06,355.4
+2024-07-09,2024-07,Paid Ads,Summer Sale,Desktop,171,50,18,7,2,1021,2042,1480.5,37.9
+2024-06-07,2024-06,Paid Ads,Summer Sale,Mobile,411,126,43,17,5,1597,7985,1241.1,543.4
+2024-06-29,2024-06,Organic Search,Brand Awareness,Desktop,193,60,36,19,9,1854,16686,649.2,2470.2
+2024-10-16,2024-10,Organic Search,Summer Sale,Mobile,323,95,47,27,10,1186,11860,1210.3,879.9
+2024-02-29,2024-02,Organic Search,Summer Sale,Desktop,260,80,43,22,11,1727,18997,1313.6,1346.2
+2024-11-14,2024-11,Paid Ads,Retargeting,Mobile,81,25,10,3,1,500,500,237.25,110.7
+2024-10-15,2024-10,Paid Ads,Summer Sale,Tablet,285,71,26,10,3,830,2490,2837.87,-12.3
+2024-01-28,2024-01,Referral,Brand Awareness,Mobile,399,196,116,80,49,1437,70413,7024.64,902.4
+2024-08-11,2024-08,Email Campaign,Summer Sale,Mobile,179,64,38,22,9,574,5166,2021.76,155.5
+2024-01-03,2024-01,Referral,Brand Awareness,Tablet,316,146,95,65,38,588,22344,1715.5,1202.5
+2024-02-24,2024-02,Social Media,Newsletter,Tablet,339,62,24,9,2,274,548,1571.7,-65.1
+2024-12-22,2024-12,Organic Search,Summer Sale,Mobile,404,110,69,29,12,981,11772,2800.6,320.3
+2024-11-13,2024-11,Social Media,Newsletter,Mobile,380,62,23,10,3,1690,5070,2125.36,138.5
+2024-11-04,2024-11,Paid Ads,Newsletter,Desktop,201,55,21,7,2,1070,2140,1519.65,40.8
+2024-02-12,2024-02,Social Media,Summer Sale,Desktop,158,29,11,4,1,1283,1283,1104.9,16.1
+2024-11-09,2024-11,Social Media,Brand Awareness,Desktop,194,36,14,5,1,1717,1717,995.4,72.5
+2024-10-23,2024-10,Email Campaign,Product Launch,Desktop,274,109,61,37,18,1680,30240,2471.03,1123.8
+2024-02-14,2024-02,Social Media,Brand Awareness,Mobile,210,42,15,5,1,1920,1920,1044.96,83.7
+2024-09-08,2024-09,Organic Search,Brand Awareness,Mobile,174,53,24,13,5,1314,6570,1469.16,347.2
+2024-08-02,2024-08,Referral,Summer Sale,Desktop,165,93,72,46,27,740,19980,863.97,2212.6
+2024-04-30,2024-04,Referral,Brand Awareness,Mobile,307,175,139,93,64,857,54848,6576.5,734.0
+2024-07-26,2024-07,Referral,Retargeting,Desktop,356,180,131,88,54,1270,68580,1803.6,3702.4
+2024-07-22,2024-07,Paid Ads,Brand Awareness,Tablet,499,159,58,24,7,641,4487,3676.08,22.1
+2024-02-01,2024-02,Email Campaign,Brand Awareness,Desktop,423,196,103,63,29,863,25027,4176.76,499.2
+2024-05-10,2024-05,Social Media,Newsletter,Desktop,388,62,24,8,2,904,1808,1085.0,66.6
+2024-01-17,2024-01,Email Campaign,Retargeting,Mobile,184,66,37,19,8,938,7504,1929.18,289.0
+2024-11-26,2024-11,Organic Search,Newsletter,Tablet,368,117,68,38,16,1132,18112,3128.58,478.9
+2024-06-13,2024-06,Social Media,Summer Sale,Mobile,290,52,20,7,2,1751,3502,740.48,372.9
+2024-10-26,2024-10,Paid Ads,Brand Awareness,Mobile,155,45,18,8,2,1243,2486,1128.15,120.4
+2024-03-03,2024-03,Email Campaign,Product Launch,Desktop,312,135,68,40,17,373,6341,2528.55,150.8
+2024-06-09,2024-06,Organic Search,Retargeting,Mobile,345,123,65,35,17,1263,21471,1190.64,1703.3
+2024-06-20,2024-06,Organic Search,Product Launch,Desktop,417,142,79,39,18,971,17478,3503.14,398.9
+2024-06-15,2024-06,Organic Search,Newsletter,Mobile,185,53,26,14,6,358,2148,1857.12,15.7
+2024-03-25,2024-03,Social Media,Brand Awareness,Mobile,246,45,15,6,1,1306,1306,349.65,273.5
+2024-03-23,2024-03,Paid Ads,Summer Sale,Desktop,94,26,9,3,1,1511,1511,775.58,94.8
+2024-10-18,2024-10,Paid Ads,Summer Sale,Desktop,405,119,54,19,7,1117,7819,4248.3,84.1
+2024-03-28,2024-03,Email Campaign,Product Launch,Mobile,362,152,88,47,23,997,22931,3217.84,612.6
+2024-04-18,2024-04,Paid Ads,Brand Awareness,Mobile,378,110,42,17,5,1285,6425,2538.8,153.1
+2024-02-06,2024-02,Organic Search,Product Launch,Desktop,430,131,69,38,14,1689,23646,1764.57,1240.0
+2024-04-12,2024-04,Referral,Brand Awareness,Mobile,406,191,150,94,60,940,56400,4207.73,1240.4
+2024-02-09,2024-02,Referral,Product Launch,Mobile,414,183,143,103,57,834,47538,3828.36,1141.7
+2024-06-13,2024-06,Social Media,Brand Awareness,Mobile,471,82,26,10,3,832,2496,2672.38,-6.6
+2024-01-21,2024-01,Organic Search,Retargeting,Desktop,205,66,41,19,9,901,8109,1412.4,474.1
+2024-01-21,2024-01,Social Media,Brand Awareness,Mobile,84,14,5,1,0,1322,0,392.0,-100.0
+2024-01-20,2024-01,Referral,Retargeting,Desktop,493,246,147,107,62,779,48298,8905.2,442.4
+2024-02-03,2024-02,Organic Search,Newsletter,Mobile,377,111,52,23,9,511,4599,2242.2,105.1
+2024-04-23,2024-04,Email Campaign,Summer Sale,Tablet,414,183,124,68,32,1367,43744,1215.12,3500.0
+2024-04-02,2024-04,Organic Search,Retargeting,Desktop,183,60,35,16,6,1639,9834,501.0,1862.9
+2024-10-09,2024-10,Paid Ads,Newsletter,Desktop,159,43,15,6,2,1037,2074,1239.26,67.4
+2024-06-11,2024-06,Email Campaign,Product Launch,Mobile,331,158,91,43,20,1998,39960,2776.06,1339.5
+2024-03-22,2024-03,Social Media,Newsletter,Desktop,125,23,8,2,0,1095,0,806.84,-100.0
+2024-05-13,2024-05,Organic Search,Newsletter,Mobile,331,118,69,30,14,1036,14504,2429.62,497.0
+2024-09-08,2024-09,Organic Search,Brand Awareness,Desktop,274,88,51,22,9,1415,12735,2418.24,426.6
+2024-02-04,2024-02,Paid Ads,Newsletter,Desktop,403,108,38,18,6,1163,6978,878.04,694.7
+2024-08-21,2024-08,Paid Ads,Product Launch,Desktop,365,93,37,17,7,1795,12565,1378.26,811.7
+2024-06-13,2024-06,Social Media,Retargeting,Desktop,251,44,13,4,1,327,327,1277.32,-74.4
+2024-07-22,2024-07,Social Media,Product Launch,Desktop,203,36,12,4,1,1174,1174,596.52,96.8
+2024-08-02,2024-08,Paid Ads,Brand Awareness,Desktop,240,66,27,11,3,603,1809,2038.08,-11.2
+2024-12-29,2024-12,Paid Ads,Product Launch,Mobile,450,141,48,21,7,963,6741,4775.67,41.2
+2024-07-18,2024-07,Organic Search,Summer Sale,Mobile,332,119,63,26,11,1965,21615,3286.78,557.6
+2024-02-14,2024-02,Social Media,Newsletter,Mobile,465,86,33,10,2,1069,2138,479.88,345.5
+2024-12-08,2024-12,Paid Ads,Newsletter,Desktop,162,39,13,6,2,993,1986,1111.11,78.7
+2024-12-07,2024-12,Referral,Retargeting,Mobile,476,217,165,122,81,783,63423,4272.73,1384.4
+2024-04-04,2024-04,Referral,Product Launch,Desktop,337,143,86,62,31,521,16151,3483.48,363.6
+2024-07-29,2024-07,Email Campaign,Summer Sale,Mobile,141,63,43,23,11,550,6050,1077.93,461.3
+2024-02-11,2024-02,Paid Ads,Product Launch,Mobile,390,93,40,15,5,782,3910,1354.08,188.8
+2024-03-06,2024-03,Organic Search,Newsletter,Mobile,175,55,33,15,7,1151,8057,1657.7,386.0
+2024-12-13,2024-12,Social Media,Product Launch,Desktop,288,48,16,5,1,703,703,975.84,-28.0
+2024-01-26,2024-01,Paid Ads,Newsletter,Desktop,376,91,36,16,6,1183,7098,808.08,778.4
+2024-03-31,2024-03,Organic Search,Retargeting,Mobile,87,28,15,7,2,1560,3120,457.8,581.5
+2024-11-28,2024-11,Referral,Product Launch,Desktop,138,72,52,29,15,1673,25095,1785.6,1305.4
+2024-10-19,2024-10,Organic Search,Product Launch,Mobile,406,149,84,43,19,1438,27322,771.82,3439.9
+2024-05-29,2024-05,Social Media,Newsletter,Mobile,449,84,29,10,2,825,1650,1788.36,-7.7
+2024-05-07,2024-05,Social Media,Retargeting,Desktop,377,65,25,9,2,1272,2544,1840.8,38.2
+2024-07-18,2024-07,Referral,Summer Sale,Mobile,409,209,129,84,56,840,47040,7177.06,555.4
+2024-02-15,2024-02,Organic Search,Retargeting,Desktop,290,86,42,22,9,752,6768,3046.12,122.2
+2024-05-06,2024-05,Social Media,Product Launch,Desktop,490,80,30,11,3,1627,4881,2306.4,111.6
+2024-02-03,2024-02,Paid Ads,Newsletter,Mobile,243,63,23,8,3,851,2553,1990.8,28.2
+2024-05-12,2024-05,Paid Ads,Brand Awareness,Desktop,415,106,38,15,5,1082,5410,2776.14,94.9
+2024-05-22,2024-05,Social Media,Retargeting,Mobile,311,62,19,8,2,879,1758,744.62,136.1
+2024-06-20,2024-06,Email Campaign,Product Launch,Mobile,364,132,79,49,24,1204,28896,3961.32,629.5
+2024-03-01,2024-03,Paid Ads,Product Launch,Mobile,474,117,51,18,6,1065,6390,3808.35,67.8
+2024-08-03,2024-08,Organic Search,Retargeting,Desktop,248,84,50,23,10,817,8170,1572.48,419.6
+2024-07-03,2024-07,Social Media,Retargeting,Mobile,374,62,24,9,2,1171,2342,1186.68,97.4
+2024-04-10,2024-04,Organic Search,Brand Awareness,Tablet,497,181,104,56,22,1087,23914,2686.04,790.3
+2024-01-13,2024-01,Social Media,Summer Sale,Mobile,262,43,13,4,1,1650,1650,1461.14,12.9
+2024-01-18,2024-01,Email Campaign,Summer Sale,Desktop,263,95,63,30,15,307,4605,1841.1,150.1
+2024-03-29,2024-03,Organic Search,Brand Awareness,Mobile,455,154,86,40,18,613,11034,4221.14,161.4
+2024-05-14,2024-05,Organic Search,Retargeting,Mobile,403,119,59,32,14,1890,26460,1094.8,2316.9
+2024-06-02,2024-06,Email Campaign,Product Launch,Mobile,189,69,46,21,11,1205,13255,1890.6,601.1
+2024-11-23,2024-11,Paid Ads,Brand Awareness,Mobile,431,124,49,18,6,419,2514,3278.56,-23.3
+2024-12-06,2024-12,Social Media,Newsletter,Mobile,188,31,10,3,1,450,450,162.75,176.5
+2024-02-23,2024-02,Paid Ads,Newsletter,Tablet,452,116,44,20,6,788,4728,3337.32,41.7
+2024-05-29,2024-05,Organic Search,Newsletter,Mobile,142,39,21,9,3,1411,4233,1119.3,278.2
+2024-09-18,2024-09,Paid Ads,Product Launch,Mobile,424,112,38,15,5,447,2235,1652.0,35.3
+2024-07-18,2024-07,Organic Search,Brand Awareness,Mobile,417,118,69,33,14,1192,16688,1306.26,1177.5
+2024-09-27,2024-09,Organic Search,Brand Awareness,Desktop,271,82,40,21,8,1154,9232,3260.32,183.2
+2024-10-29,2024-10,Email Campaign,Retargeting,Tablet,192,82,55,31,16,1290,20640,1758.08,1074.0
+2024-11-04,2024-11,Social Media,Brand Awareness,Desktop,125,22,7,2,0,222,0,472.34,-100.0
+2024-12-03,2024-12,Email Campaign,Product Launch,Mobile,274,118,61,36,18,1765,31770,4563.06,596.2
+2024-05-21,2024-05,Social Media,Summer Sale,Mobile,270,47,16,5,1,1318,1318,1661.92,-20.7
+2024-09-28,2024-09,Referral,Product Launch,Desktop,367,183,126,76,46,459,21114,2827.35,646.8
+2024-03-17,2024-03,Referral,Summer Sale,Mobile,285,142,105,74,38,362,13756,1725.3,697.3
+2024-01-13,2024-01,Paid Ads,Newsletter,Desktop,129,36,16,7,2,954,1908,191.88,894.4
+2024-09-30,2024-09,Email Campaign,Brand Awareness,Mobile,89,37,22,13,7,1349,9443,254.56,3609.5
+2024-01-14,2024-01,Paid Ads,Product Launch,Desktop,153,48,21,8,3,1027,3081,1286.88,139.4
+2024-11-14,2024-11,Email Campaign,Summer Sale,Desktop,344,157,94,51,25,1889,47225,2265.51,1984.5
+2024-06-08,2024-06,Referral,Summer Sale,Desktop,492,264,173,99,58,1758,101964,5910.96,1625.0
+2024-01-08,2024-01,Organic Search,Newsletter,Mobile,337,113,62,31,14,1282,17948,4289.48,318.4
+2024-08-29,2024-08,Social Media,Brand Awareness,Mobile,347,54,20,7,2,1508,3016,2014.74,49.7
+2024-01-18,2024-01,Referral,Retargeting,Mobile,178,97,66,38,25,1181,29525,2490.96,1085.3
+2024-05-24,2024-05,Organic Search,Newsletter,Mobile,388,129,73,41,20,607,12140,3054.72,297.4
+2024-01-25,2024-01,Organic Search,Retargeting,Mobile,438,156,80,45,23,1193,27439,3258.84,742.0
+2024-07-31,2024-07,Organic Search,Summer Sale,Desktop,368,121,63,28,11,1923,21153,4420.13,378.6
+2024-03-29,2024-03,Organic Search,Product Launch,Desktop,363,127,60,30,14,515,7210,3695.7,95.1
+2024-10-16,2024-10,Paid Ads,Summer Sale,Mobile,157,37,13,4,1,549,549,270.84,102.7
+2024-07-14,2024-07,Referral,Retargeting,Mobile,369,159,124,78,41,1141,46781,818.85,5613.0
+2024-11-06,2024-11,Email Campaign,Newsletter,Desktop,356,156,83,45,25,870,21750,3483.48,524.4
+2024-12-19,2024-12,Email Campaign,Summer Sale,Desktop,105,40,21,10,4,1572,6288,268.0,2246.3
+2024-12-19,2024-12,Email Campaign,Summer Sale,Mobile,374,176,90,52,27,959,25893,2594.24,898.1
+2024-09-23,2024-09,Social Media,Summer Sale,Mobile,450,74,28,9,2,909,1818,2053.5,-11.5
+2024-04-08,2024-04,Organic Search,Brand Awareness,Desktop,319,90,45,25,12,1893,22716,3216.6,606.2
+2024-12-02,2024-12,Organic Search,Brand Awareness,Desktop,351,128,67,35,15,352,5280,1166.08,352.8
+2024-06-15,2024-06,Social Media,Brand Awareness,Tablet,334,55,21,8,2,1052,2104,716.65,193.6
+2024-05-13,2024-05,Organic Search,Brand Awareness,Desktop,367,107,54,23,10,691,6910,2861.18,141.5
+2024-07-22,2024-07,Organic Search,Product Launch,Desktop,485,149,70,38,17,531,9027,3710.1,143.3
+2024-11-24,2024-11,Organic Search,Newsletter,Desktop,390,129,78,36,17,892,15164,4410.51,243.8
+2024-06-24,2024-06,Organic Search,Newsletter,Mobile,342,122,73,41,17,1397,23749,2402.18,888.6
+2024-09-22,2024-09,Organic Search,Retargeting,Desktop,251,73,43,22,8,1336,10688,2660.85,301.7
+2024-05-16,2024-05,Organic Search,Summer Sale,Mobile,93,31,17,8,3,1264,3792,415.4,812.9
+2024-04-09,2024-04,Social Media,Brand Awareness,Tablet,130,24,7,2,0,1519,0,273.6,-100.0
+2024-10-25,2024-10,Email Campaign,Newsletter,Mobile,443,209,114,64,32,664,21248,2551.89,732.6
+2024-02-16,2024-02,Paid Ads,Newsletter,Mobile,214,53,18,8,3,1893,5679,1506.79,276.9
+2024-02-24,2024-02,Social Media,Product Launch,Mobile,296,50,17,5,1,1342,1342,839.0,60.0
+2024-07-27,2024-07,Paid Ads,Product Launch,Mobile,247,71,31,14,5,356,1780,887.5,100.6
+2024-04-15,2024-04,Organic Search,Product Launch,Desktop,486,173,90,45,22,1944,42768,6094.79,601.7
+2024-04-08,2024-04,Organic Search,Newsletter,Tablet,251,88,44,23,11,1785,19635,590.48,3225.3
+2024-11-19,2024-11,Email Campaign,Newsletter,Mobile,362,170,111,57,32,902,28864,6392.0,351.6
+2024-06-22,2024-06,Referral,Summer Sale,Desktop,422,237,177,102,69,1005,69345,4299.18,1513.0
+2024-08-01,2024-08,Social Media,Summer Sale,Desktop,425,74,26,10,3,887,2661,1141.82,133.0
+2024-11-23,2024-11,Social Media,Retargeting,Desktop,399,64,23,9,2,638,1276,529.92,140.8
+2024-08-11,2024-08,Social Media,Brand Awareness,Mobile,375,77,23,7,2,1299,2598,664.51,291.0
+2024-03-24,2024-03,Social Media,Newsletter,Mobile,233,45,15,4,1,1401,1401,446.4,213.8
+2024-01-01,2024-01,Social Media,Newsletter,Desktop,227,43,15,5,1,1012,1012,1488.23,-32.0
+2024-02-08,2024-02,Paid Ads,Product Launch,Desktop,257,81,31,11,4,313,1252,2117.34,-40.9
+2024-05-02,2024-05,Email Campaign,Summer Sale,Desktop,390,141,83,50,24,889,21336,1187.22,1697.1
+2024-09-10,2024-09,Email Campaign,Product Launch,Desktop,432,188,114,69,37,817,30229,1605.52,1782.8
+2024-09-21,2024-09,Social Media,Product Launch,Desktop,287,56,22,7,2,1040,2080,726.88,186.2
+2024-07-06,2024-07,Organic Search,Brand Awareness,Desktop,130,39,19,9,3,451,1353,318.24,325.2
+2024-04-16,2024-04,Organic Search,Retargeting,Mobile,220,76,39,21,8,1600,12800,532.76,2302.6
+2024-09-21,2024-09,Organic Search,Newsletter,Desktop,340,113,61,30,12,832,9984,3788.89,163.5
+2024-08-10,2024-08,Organic Search,Brand Awareness,Mobile,337,96,56,24,9,1940,17460,3435.84,408.2
+2024-03-26,2024-03,Organic Search,Newsletter,Mobile,235,85,46,23,11,1092,12012,2111.4,468.9
+2024-04-06,2024-04,Paid Ads,Summer Sale,Desktop,236,59,22,10,4,1417,5668,463.15,1123.8
+2024-09-18,2024-09,Organic Search,Retargeting,Tablet,408,138,86,44,21,330,6930,5438.58,27.4
+2024-03-09,2024-03,Email Campaign,Newsletter,Desktop,342,147,82,43,22,1273,28006,2496.06,1022.0
+2024-10-23,2024-10,Organic Search,Newsletter,Tablet,294,96,58,28,13,986,12818,1342.08,855.1
+2024-01-28,2024-01,Email Campaign,Brand Awareness,Desktop,498,187,111,55,25,561,14025,1780.24,687.8
+2024-02-24,2024-02,Organic Search,Product Launch,Desktop,290,91,46,20,10,1288,12880,2735.46,370.9
+2024-06-19,2024-06,Paid Ads,Summer Sale,Mobile,209,57,25,11,4,1326,5304,1478.58,258.7
+2024-01-03,2024-01,Email Campaign,Newsletter,Desktop,109,50,30,15,8,842,6736,1324.0,408.8
+2024-10-28,2024-10,Referral,Retargeting,Desktop,90,42,29,18,12,1164,13968,517.86,2597.3
+2024-03-21,2024-03,Social Media,Product Launch,Tablet,482,90,27,10,2,1529,3058,2928.6,4.4
+2024-08-05,2024-08,Social Media,Retargeting,Desktop,498,98,30,11,3,1477,4431,2250.08,96.9
+2024-07-30,2024-07,Social Media,Newsletter,Mobile,305,54,19,6,1,1485,1485,705.24,110.6
+2024-10-23,2024-10,Referral,Retargeting,Desktop,490,274,166,109,62,1633,101246,7469.24,1255.5
+2024-02-26,2024-02,Email Campaign,Brand Awareness,Mobile,384,170,114,70,33,1429,47157,5018.4,839.7
+2024-04-13,2024-04,Social Media,Product Launch,Desktop,97,15,4,1,0,506,0,475.65,-100.0
+2024-06-17,2024-06,Social Media,Product Launch,Mobile,389,63,21,9,2,1250,2500,1717.38,45.6
+2024-03-21,2024-03,Referral,Product Launch,Desktop,378,215,143,99,51,739,37689,4031.25,834.9
+2024-01-05,2024-01,Email Campaign,Retargeting,Tablet,92,32,21,13,6,1448,8688,970.56,795.2
+2024-06-29,2024-06,Organic Search,Brand Awareness,Mobile,414,116,72,35,16,1875,30000,2152.96,1293.4
+2024-01-13,2024-01,Email Campaign,Product Launch,Tablet,335,134,81,48,24,1336,32064,3863.22,730.0
+2024-12-14,2024-12,Social Media,Newsletter,Desktop,393,78,24,9,2,1520,3040,1588.08,91.4
+2024-08-17,2024-08,Email Campaign,Summer Sale,Desktop,379,170,92,54,30,1648,49440,4481.2,1003.3
+2024-11-04,2024-11,Paid Ads,Brand Awareness,Desktop,170,47,21,9,3,1730,5190,910.86,469.8
+2024-07-07,2024-07,Paid Ads,Brand Awareness,Mobile,427,121,46,20,7,867,6069,2090.88,190.3
+2024-06-13,2024-06,Paid Ads,Summer Sale,Desktop,150,45,20,8,3,1921,5763,779.4,639.4
+2024-09-11,2024-09,Paid Ads,Product Launch,Mobile,244,59,23,9,3,1072,3216,620.68,418.1
+2024-05-24,2024-05,Email Campaign,Brand Awareness,Desktop,218,81,42,23,13,1656,21528,1476.63,1357.9
+2024-05-12,2024-05,Organic Search,Retargeting,Mobile,393,128,72,39,19,1443,27417,4222.72,549.3
+2024-04-14,2024-04,Paid Ads,Newsletter,Mobile,205,57,22,8,3,703,2109,964.44,118.7
+2024-09-06,2024-09,Social Media,Brand Awareness,Mobile,360,63,23,8,2,982,1964,1279.53,53.5
+2024-12-09,2024-12,Referral,Newsletter,Desktop,413,193,140,89,60,1346,80760,5008.35,1512.5
+2024-10-24,2024-10,Paid Ads,Brand Awareness,Desktop,270,83,35,14,5,1793,8965,2806.23,219.5
+2024-11-10,2024-11,Organic Search,Retargeting,Desktop,196,54,30,12,5,1495,7475,2023.92,269.3
+2024-03-18,2024-03,Paid Ads,Brand Awareness,Mobile,309,77,27,9,3,587,1761,427.35,312.1
+2024-01-24,2024-01,Organic Search,Retargeting,Mobile,499,164,82,41,16,620,9920,864.28,1047.8
+2024-12-04,2024-12,Organic Search,Summer Sale,Mobile,442,154,91,51,22,810,17820,1627.78,994.7
+2024-03-31,2024-03,Organic Search,Retargeting,Desktop,149,44,22,9,4,1857,7428,1082.84,586.0
+2024-01-18,2024-01,Referral,Summer Sale,Desktop,445,249,150,102,58,546,31668,8448.57,274.8
+2024-09-20,2024-09,Email Campaign,Product Launch,Mobile,327,127,79,48,24,707,16968,2228.85,661.3
+2024-07-15,2024-07,Paid Ads,Summer Sale,Desktop,149,44,15,6,2,433,866,1393.04,-37.8
+2024-07-27,2024-07,Referral,Retargeting,Mobile,308,165,98,64,41,1107,45387,2339.7,1839.9
+2024-11-23,2024-11,Paid Ads,Brand Awareness,Mobile,144,36,15,5,2,823,1646,1150.56,43.1
+2024-03-07,2024-03,Social Media,Summer Sale,Desktop,314,59,23,8,2,846,1692,633.66,167.0
+2024-05-01,2024-05,Referral,Newsletter,Mobile,464,225,156,102,67,429,28743,4585.5,526.8
+2024-04-09,2024-04,Paid Ads,Brand Awareness,Desktop,124,39,16,6,2,651,1302,442.26,194.4
+2024-09-04,2024-09,Email Campaign,Brand Awareness,Desktop,105,46,24,14,7,1569,10983,931.5,1079.1
+2024-03-26,2024-03,Organic Search,Newsletter,Desktop,201,68,32,17,7,1021,7147,1577.6,353.0
+2024-04-22,2024-04,Organic Search,Brand Awareness,Tablet,434,137,76,39,15,881,13215,3741.47,253.2
+2024-06-03,2024-06,Email Campaign,Product Launch,Desktop,83,38,21,12,6,1721,10326,851.96,1112.0
+2024-01-26,2024-01,Organic Search,Summer Sale,Mobile,250,75,42,20,8,850,6800,2410.5,182.1
+2024-11-12,2024-11,Social Media,Product Launch,Mobile,219,40,14,5,1,1214,1214,1042.0,16.5
+2024-06-16,2024-06,Social Media,Brand Awareness,Mobile,231,37,14,5,1,1453,1453,839.53,73.1
+2024-06-23,2024-06,Organic Search,Brand Awareness,Mobile,345,105,60,31,14,1883,26362,758.1,3377.4
+2024-09-23,2024-09,Email Campaign,Product Launch,Desktop,422,167,110,53,29,1694,49126,4637.59,959.3
+2024-10-18,2024-10,Social Media,Newsletter,Mobile,89,15,4,1,0,792,0,298.65,-100.0
+2024-11-23,2024-11,Paid Ads,Product Launch,Desktop,221,52,17,7,3,1945,5835,1430.52,307.9
+2024-01-22,2024-01,Referral,Retargeting,Desktop,445,252,154,111,72,1551,111672,8462.16,1219.7
+2024-04-01,2024-04,Organic Search,Retargeting,Mobile,457,151,83,45,22,1341,29502,4690.06,529.0
+2024-11-20,2024-11,Email Campaign,Product Launch,Desktop,492,183,109,63,31,928,28768,2415.6,1090.9
+2024-10-02,2024-10,Social Media,Retargeting,Desktop,159,31,10,4,1,1841,1841,1232.87,49.3
+2024-11-23,2024-11,Paid Ads,Retargeting,Desktop,105,33,12,4,1,901,901,1259.28,-28.5
+2024-11-23,2024-11,Paid Ads,Retargeting,Desktop,363,90,38,15,6,460,2760,2924.1,-5.6
+2024-02-12,2024-02,Social Media,Product Launch,Desktop,408,69,25,10,3,1197,3591,1480.05,142.6
+2024-06-18,2024-06,Paid Ads,Newsletter,Mobile,485,120,49,18,7,1393,9751,2110.8,362.0
+2024-06-24,2024-06,Email Campaign,Retargeting,Desktop,139,53,34,20,10,1248,12480,528.41,2261.8
+2024-10-31,2024-10,Organic Search,Newsletter,Desktop,113,34,17,8,3,1361,4083,974.78,318.9
+2024-10-16,2024-10,Social Media,Retargeting,Desktop,482,93,31,12,3,933,2799,1473.12,90.0
+2024-06-29,2024-06,Organic Search,Product Launch,Mobile,327,106,55,29,12,1855,22260,3688.8,503.4
+2024-04-25,2024-04,Paid Ads,Brand Awareness,Mobile,240,62,22,8,2,1532,3064,662.78,362.3
+2024-02-23,2024-02,Email Campaign,Summer Sale,Desktop,227,86,47,25,13,220,2860,743.9,284.5
+2024-05-25,2024-05,Paid Ads,Newsletter,Mobile,470,140,52,25,9,1541,13869,5374.6,158.0
+2024-12-27,2024-12,Organic Search,Brand Awareness,Desktop,157,55,30,15,7,1789,12523,1233.65,915.1
+2024-06-14,2024-06,Paid Ads,Retargeting,Desktop,475,115,47,21,8,201,1608,3286.7,-51.1
+2024-03-11,2024-03,Social Media,Retargeting,Mobile,148,23,7,2,0,1493,0,678.27,-100.0
+2024-04-29,2024-04,Paid Ads,Newsletter,Desktop,167,51,21,8,3,1743,5229,1060.29,393.2
+2024-01-22,2024-01,Social Media,Retargeting,Desktop,246,43,13,4,1,1554,1554,357.33,334.9
+2024-09-04,2024-09,Organic Search,Product Launch,Desktop,491,148,90,43,20,672,13440,5100.08,163.5
+2024-04-18,2024-04,Organic Search,Summer Sale,Desktop,320,99,57,26,11,316,3476,3958.02,-12.2
+2024-03-14,2024-03,Email Campaign,Retargeting,Tablet,251,109,70,38,18,1151,20718,2078.63,896.7
+2024-04-29,2024-04,Social Media,Newsletter,Desktop,310,53,16,5,1,232,232,1935.56,-88.0
+2024-07-10,2024-07,Email Campaign,Brand Awareness,Tablet,138,63,33,15,8,1212,9696,1338.12,624.6
+2024-06-28,2024-06,Email Campaign,Summer Sale,Mobile,343,132,67,31,13,1275,16575,4381.08,278.3
+2024-03-11,2024-03,Referral,Product Launch,Desktop,450,206,144,84,45,1519,68355,5368.36,1173.3
+2024-04-25,2024-04,Email Campaign,Retargeting,Mobile,474,195,116,63,28,1954,54712,6183.45,784.8
+2024-06-23,2024-06,Paid Ads,Newsletter,Desktop,157,44,15,5,1,1602,1602,1381.16,16.0
+2024-02-04,2024-02,Organic Search,Brand Awareness,Tablet,248,73,40,19,8,1136,9088,725.62,1152.4
+2024-09-20,2024-09,Social Media,Newsletter,Desktop,376,75,29,11,3,1278,3834,1586.25,141.7
+2024-05-24,2024-05,Social Media,Summer Sale,Mobile,274,42,13,5,1,1134,1134,383.04,196.1
+2024-03-20,2024-03,Email Campaign,Retargeting,Desktop,127,56,37,17,7,1863,13041,1540.0,746.8
+2024-10-07,2024-10,Social Media,Retargeting,Tablet,459,91,34,11,3,1847,5541,962.78,475.5
+2024-02-06,2024-02,Email Campaign,Retargeting,Desktop,370,135,71,42,20,984,19680,3747.6,425.1
+2024-10-08,2024-10,Organic Search,Brand Awareness,Desktop,401,116,59,29,12,1870,22440,3902.24,475.1
+2024-07-08,2024-07,Email Campaign,Summer Sale,Desktop,174,63,35,18,9,1990,17910,2165.94,726.9
+2024-08-17,2024-08,Paid Ads,Brand Awareness,Desktop,496,156,57,26,8,1795,14360,5793.84,147.8
+2024-07-21,2024-07,Email Campaign,Product Launch,Mobile,157,62,37,21,9,1561,14049,1793.66,683.3
+2024-01-28,2024-01,Social Media,Retargeting,Mobile,386,64,23,9,2,1339,2678,1939.2,38.1
+2024-10-03,2024-10,Email Campaign,Brand Awareness,Desktop,498,191,101,51,23,1520,34960,6918.02,405.3
+2024-12-03,2024-12,Referral,Newsletter,Mobile,250,134,93,53,32,1928,61696,3848.48,1503.1
+2024-03-18,2024-03,Social Media,Product Launch,Mobile,194,37,13,4,1,1240,1240,1317.2,-5.9
+2024-07-21,2024-07,Organic Search,Summer Sale,Desktop,339,123,64,32,13,1394,18122,4777.32,279.3
+2024-01-20,2024-01,Social Media,Newsletter,Tablet,125,23,7,2,0,385,0,309.58,-100.0
+2024-07-05,2024-07,Social Media,Retargeting,Desktop,295,55,18,7,2,1137,2274,1999.8,13.7
+2024-03-27,2024-03,Social Media,Product Launch,Desktop,476,93,36,13,3,327,981,1926.03,-49.1
+2024-07-24,2024-07,Social Media,Newsletter,Mobile,114,18,7,2,0,1378,0,160.92,-100.0
+2024-11-07,2024-11,Organic Search,Summer Sale,Mobile,303,84,51,21,10,1207,12070,2987.04,304.1
+2024-11-14,2024-11,Paid Ads,Brand Awareness,Mobile,150,36,15,6,2,1000,2000,1138.32,75.7
+2024-01-27,2024-01,Organic Search,Brand Awareness,Mobile,196,63,39,19,7,729,5103,416.43,1125.4
+2024-08-13,2024-08,Email Campaign,Summer Sale,Mobile,276,102,68,32,15,336,5040,2591.82,94.5
+2024-05-01,2024-05,Email Campaign,Summer Sale,Tablet,384,180,104,60,29,1488,43152,4474.8,864.3
+2024-02-24,2024-02,Paid Ads,Product Launch,Mobile,92,25,9,3,1,1949,1949,841.0,131.7
+2024-12-21,2024-12,Paid Ads,Retargeting,Mobile,126,30,11,4,1,1059,1059,519.0,104.0
+2024-03-21,2024-03,Paid Ads,Retargeting,Desktop,433,104,45,18,7,1493,10451,4068.48,156.9
+2024-02-07,2024-02,Paid Ads,Retargeting,Desktop,248,60,25,9,2,1700,3400,603.0,463.8
+2024-09-06,2024-09,Social Media,Newsletter,Mobile,391,64,24,9,2,214,428,1771.52,-75.8
+2024-10-29,2024-10,Organic Search,Retargeting,Desktop,137,47,26,13,5,642,3210,1038.7,209.0
+2024-10-21,2024-10,Social Media,Summer Sale,Mobile,361,60,19,6,1,1618,1618,2394.0,-32.4
+2024-01-30,2024-01,Paid Ads,Summer Sale,Desktop,163,43,15,6,2,1988,3976,1500.7,164.9
+2024-12-10,2024-12,Paid Ads,Brand Awareness,Mobile,454,119,50,18,7,1301,9107,1789.76,408.8
+2024-08-24,2024-08,Organic Search,Newsletter,Desktop,396,139,78,34,17,1210,20570,5133.27,300.7
+2024-05-25,2024-05,Social Media,Newsletter,Mobile,388,73,27,9,2,603,1206,2648.44,-54.5
+2024-07-31,2024-07,Email Campaign,Retargeting,Mobile,386,177,105,59,31,1307,40517,1364.67,2869.0
+2024-04-22,2024-04,Organic Search,Summer Sale,Tablet,475,155,90,45,21,1169,24549,2938.8,735.3
+2024-12-10,2024-12,Organic Search,Brand Awareness,Desktop,493,156,75,36,14,1861,26054,2800.2,830.4
+2024-01-29,2024-01,Organic Search,Product Launch,Mobile,83,27,14,6,2,308,616,919.89,-33.0
+2024-01-03,2024-01,Paid Ads,Product Launch,Tablet,85,27,12,4,1,1578,1578,767.07,105.7
+2024-08-09,2024-08,Organic Search,Retargeting,Desktop,259,83,47,24,10,1193,11930,616.69,1834.5
+2024-05-12,2024-05,Organic Search,Newsletter,Mobile,259,74,44,20,9,835,7515,2534.5,196.5
+2024-08-17,2024-08,Paid Ads,Brand Awareness,Desktop,449,143,63,30,11,1186,13046,3154.58,313.6
+2024-04-16,2024-04,Email Campaign,Newsletter,Desktop,461,184,105,58,31,790,24490,3549.36,590.0
+2024-06-25,2024-06,Email Campaign,Product Launch,Mobile,142,65,40,22,11,951,10461,2455.05,326.1
+2024-11-22,2024-11,Email Campaign,Brand Awareness,Desktop,423,157,93,57,31,296,9176,6123.0,49.9
+2024-06-02,2024-06,Email Campaign,Summer Sale,Mobile,258,117,63,35,17,1925,32725,2369.25,1281.2
+2024-10-01,2024-10,Paid Ads,Newsletter,Mobile,206,50,18,6,2,1490,2980,488.5,510.0
+2024-01-12,2024-01,Referral,Newsletter,Desktop,405,202,138,86,47,1719,80793,2020.0,3899.7
+2024-01-15,2024-01,Social Media,Retargeting,Mobile,409,68,24,8,2,204,408,1643.56,-75.2
+2024-04-13,2024-04,Referral,Product Launch,Desktop,210,93,66,39,23,1361,31303,3463.32,803.8
+2024-07-21,2024-07,Social Media,Summer Sale,Mobile,99,18,6,2,0,1659,0,492.66,-100.0
+2024-06-04,2024-06,Paid Ads,Newsletter,Mobile,463,112,47,20,7,475,3325,2115.68,57.2
+2024-10-08,2024-10,Organic Search,Brand Awareness,Mobile,321,107,55,30,12,795,9540,2261.98,321.8
+2024-05-17,2024-05,Paid Ads,Summer Sale,Desktop,235,65,23,9,3,1504,4512,812.5,455.3
+2024-04-02,2024-04,Paid Ads,Newsletter,Desktop,261,70,31,12,4,559,2236,1236.9,80.8
+2024-03-25,2024-03,Paid Ads,Summer Sale,Mobile,238,67,29,12,4,1639,6556,2379.17,175.6
+2024-04-22,2024-04,Paid Ads,Summer Sale,Desktop,96,30,11,5,2,1684,3368,192.0,1654.2
+2024-01-10,2024-01,Referral,Newsletter,Tablet,129,71,52,34,18,1114,20052,919.45,2080.9
+2024-02-11,2024-02,Social Media,Newsletter,Desktop,389,66,24,10,3,1514,4542,766.26,492.7
+2024-12-19,2024-12,Email Campaign,Newsletter,Desktop,213,99,62,36,20,1272,25440,498.96,4998.6
+2024-02-24,2024-02,Organic Search,Newsletter,Mobile,203,74,43,20,8,1685,13480,1031.56,1206.8
+2024-02-29,2024-02,Organic Search,Product Launch,Mobile,265,76,40,18,8,1525,12200,2353.72,418.3
+2024-07-03,2024-07,Paid Ads,Retargeting,Mobile,423,121,52,20,8,795,6360,3270.63,94.5
+2024-08-27,2024-08,Social Media,Brand Awareness,Mobile,474,88,29,11,3,637,1911,2144.56,-10.9
+2024-12-11,2024-12,Social Media,Product Launch,Tablet,400,77,24,8,2,1991,3982,2879.03,38.3
+2024-08-08,2024-08,Referral,Product Launch,Tablet,464,227,145,91,57,1529,87153,1743.36,4899.1
+2024-08-20,2024-08,Social Media,Summer Sale,Mobile,170,28,8,2,0,1615,0,932.4,-100.0
+2024-12-04,2024-12,Social Media,Summer Sale,Mobile,483,74,27,9,2,1523,3046,907.24,235.7
+2024-01-12,2024-01,Email Campaign,Newsletter,Mobile,130,49,26,16,8,416,3328,328.3,913.7
+2024-12-21,2024-12,Organic Search,Summer Sale,Mobile,251,69,32,16,6,934,5604,1046.04,435.7
+2024-01-16,2024-01,Email Campaign,Summer Sale,Mobile,107,44,26,16,8,1277,10216,1261.92,709.6
+2024-02-03,2024-02,Email Campaign,Retargeting,Mobile,147,60,35,20,9,417,3753,937.2,300.4
+2024-02-08,2024-02,Paid Ads,Summer Sale,Desktop,95,27,11,4,1,275,275,358.83,-23.4
+2024-01-30,2024-01,Social Media,Summer Sale,Desktop,402,70,24,10,2,1682,3364,2009.0,67.4
+2024-04-10,2024-04,Referral,Brand Awareness,Mobile,202,98,75,52,28,1735,48580,3628.94,1238.7
+2024-08-20,2024-08,Paid Ads,Product Launch,Mobile,395,99,38,17,6,1797,10782,2977.92,262.1
+2024-08-13,2024-08,Paid Ads,Summer Sale,Mobile,112,35,13,4,1,1949,1949,1022.0,90.7
+2024-10-17,2024-10,Social Media,Retargeting,Desktop,261,45,17,5,1,1080,1080,308.7,249.9
+2024-07-20,2024-07,Paid Ads,Retargeting,Tablet,464,140,61,27,11,1692,18612,5563.6,234.5
+2024-05-13,2024-05,Organic Search,Newsletter,Mobile,422,143,70,36,17,1903,32351,953.81,3291.8
+2024-04-17,2024-04,Paid Ads,Brand Awareness,Desktop,330,96,33,14,4,1775,7100,703.68,909.0
+2024-08-11,2024-08,Organic Search,Brand Awareness,Mobile,132,44,26,13,5,1790,8950,1496.0,498.3
+2024-07-15,2024-07,Organic Search,Newsletter,Desktop,87,31,18,9,3,1685,5055,333.87,1414.1
+2024-09-08,2024-09,Organic Search,Summer Sale,Desktop,173,52,25,11,4,484,1936,1561.04,24.0
+2024-01-11,2024-01,Organic Search,Newsletter,Desktop,321,111,67,28,14,607,8498,1357.53,526.0
+2024-11-24,2024-11,Email Campaign,Retargeting,Mobile,94,34,18,8,3,964,2892,432.82,568.2
+2024-08-13,2024-08,Social Media,Summer Sale,Tablet,312,50,14,5,1,930,930,493.0,88.6
+2024-11-27,2024-11,Paid Ads,Newsletter,Tablet,282,79,30,11,3,1917,5751,2723.13,111.2
+2024-09-04,2024-09,Organic Search,Product Launch,Mobile,362,127,62,35,15,1704,25560,1713.23,1391.9
+2024-01-04,2024-01,Organic Search,Brand Awareness,Desktop,218,76,41,18,7,1696,11872,3039.24,290.6
+2024-10-30,2024-10,Paid Ads,Newsletter,Desktop,279,71,28,11,4,1483,5932,764.67,675.8
+2024-01-15,2024-01,Email Campaign,Product Launch,Tablet,481,212,135,70,41,838,34358,6989.64,391.6
+2024-11-05,2024-11,Organic Search,Newsletter,Mobile,357,127,75,41,19,1360,25840,4194.81,516.0
+2024-10-26,2024-10,Organic Search,Newsletter,Mobile,359,111,61,29,14,1149,16086,738.15,2079.2
+2024-12-06,2024-12,Paid Ads,Newsletter,Mobile,337,91,32,14,6,619,3714,1063.79,249.1
+2024-06-23,2024-06,Organic Search,Product Launch,Mobile,315,104,51,26,12,360,4320,3997.76,8.1
+2024-09-14,2024-09,Referral,Newsletter,Desktop,290,129,86,59,30,826,24780,895.26,2667.9
+2024-12-13,2024-12,Social Media,Brand Awareness,Desktop,491,87,28,10,3,1446,4338,3359.94,29.1
+2024-11-26,2024-11,Social Media,Summer Sale,Mobile,472,87,27,10,3,827,2481,1114.47,122.6
+2024-02-14,2024-02,Organic Search,Summer Sale,Mobile,97,30,16,7,3,1254,3762,169.5,2119.5
+2024-03-04,2024-03,Email Campaign,Brand Awareness,Desktop,497,212,114,69,40,1739,69560,3190.6,2080.2
+2024-03-13,2024-03,Paid Ads,Product Launch,Mobile,146,42,14,5,1,570,570,274.68,107.5
+2024-08-28,2024-08,Social Media,Summer Sale,Mobile,311,57,19,6,1,1696,1696,1993.29,-14.9
+2024-10-10,2024-10,Social Media,Brand Awareness,Mobile,396,80,27,10,2,265,530,2728.8,-80.6
+2024-09-30,2024-09,Paid Ads,Brand Awareness,Mobile,261,80,27,9,3,1535,4605,1696.0,171.5
+2024-08-09,2024-08,Organic Search,Summer Sale,Desktop,333,121,71,40,19,1965,37335,2590.61,1341.2
+2024-07-13,2024-07,Paid Ads,Summer Sale,Desktop,413,113,41,16,5,1160,5800,3626.17,59.9
+2024-12-10,2024-12,Social Media,Brand Awareness,Desktop,414,82,29,9,2,1833,3666,2706.82,35.4
+2024-05-20,2024-05,Social Media,Summer Sale,Mobile,325,50,18,7,1,567,567,1185.0,-52.2
+2024-07-06,2024-07,Organic Search,Product Launch,Desktop,325,112,53,22,9,602,5418,3407.04,59.0
+2024-06-01,2024-06,Paid Ads,Newsletter,Mobile,218,52,18,6,2,628,1256,484.12,159.4
+2024-03-14,2024-03,Referral,Summer Sale,Mobile,98,46,27,19,11,738,8118,1822.52,345.4
+2024-06-02,2024-06,Social Media,Brand Awareness,Mobile,232,45,15,6,1,1035,1035,714.15,44.9
+2024-09-15,2024-09,Paid Ads,Product Launch,Desktop,295,82,28,10,3,511,1533,2789.64,-45.0
+2024-12-28,2024-12,Paid Ads,Newsletter,Mobile,204,54,24,8,2,232,464,2138.94,-78.3
+2024-12-05,2024-12,Social Media,Brand Awareness,Desktop,152,25,7,2,0,243,0,764.0,-100.0
+2024-02-20,2024-02,Email Campaign,Summer Sale,Tablet,212,86,49,28,12,580,6960,1453.4,378.9
+2024-06-28,2024-06,Social Media,Summer Sale,Desktop,129,24,9,3,1,1667,1667,547.44,204.5
+2024-09-27,2024-09,Social Media,Newsletter,Mobile,495,92,35,14,3,287,861,1323.88,-35.0
+2024-12-29,2024-12,Email Campaign,Newsletter,Tablet,254,100,61,31,14,1606,22484,999.0,2150.7
+2024-11-14,2024-11,Email Campaign,Newsletter,Tablet,250,105,55,33,18,1140,20520,3453.45,494.2
+2024-11-13,2024-11,Email Campaign,Summer Sale,Desktop,355,148,90,48,25,1307,32675,3433.6,851.6
+2024-03-09,2024-03,Organic Search,Newsletter,Mobile,363,116,60,31,15,446,6690,4099.44,63.2
+2024-07-17,2024-07,Email Campaign,Product Launch,Mobile,133,64,42,23,10,1642,16420,2160.0,660.2
+2024-08-08,2024-08,Organic Search,Summer Sale,Mobile,374,133,72,37,16,1157,18512,4185.51,342.3
+2024-02-23,2024-02,Referral,Summer Sale,Mobile,100,42,33,21,12,1951,23412,976.08,2298.6
+2024-03-08,2024-03,Paid Ads,Product Launch,Desktop,362,109,39,18,6,1850,11100,864.37,1184.2
+2024-09-25,2024-09,Organic Search,Newsletter,Desktop,424,142,88,44,18,1296,23328,3101.28,652.2
+2024-01-27,2024-01,Organic Search,Product Launch,Desktop,365,119,55,25,11,1542,16962,2958.34,473.4
+2024-11-28,2024-11,Organic Search,Summer Sale,Mobile,187,67,38,16,6,1974,11844,878.37,1248.4
+2024-02-09,2024-02,Social Media,Product Launch,Tablet,193,36,12,5,1,499,499,1259.28,-60.4
+2024-04-19,2024-04,Organic Search,Summer Sale,Desktop,96,33,20,10,4,1345,5380,1055.01,409.9
+2024-05-30,2024-05,Organic Search,Product Launch,Mobile,467,127,64,30,12,226,2712,2660.65,1.9
+2024-04-06,2024-04,Organic Search,Newsletter,Desktop,307,84,40,22,9,1726,15534,2267.16,585.2
+2024-10-27,2024-10,Paid Ads,Newsletter,Mobile,372,94,42,18,6,615,3690,1607.4,129.6
+2024-02-15,2024-02,Organic Search,Retargeting,Mobile,287,97,57,29,14,1509,21126,1504.47,1304.2
+2024-04-17,2024-04,Paid Ads,Summer Sale,Desktop,150,36,13,5,1,1951,1951,1376.64,41.7
+2024-07-21,2024-07,Email Campaign,Summer Sale,Desktop,260,118,69,43,22,267,5874,3691.04,59.1
+2024-03-19,2024-03,Social Media,Brand Awareness,Desktop,437,77,30,12,3,1389,4167,2519.44,65.4
+2024-07-05,2024-07,Social Media,Newsletter,Mobile,135,26,7,2,0,311,0,515.58,-100.0
+2024-06-14,2024-06,Social Media,Product Launch,Desktop,238,43,12,4,1,1394,1394,390.44,257.0
+2024-10-30,2024-10,Organic Search,Product Launch,Desktop,110,39,21,10,4,513,2052,240.63,752.8
+2024-12-15,2024-12,Organic Search,Product Launch,Mobile,200,62,37,19,9,815,7335,2450.24,199.4
+2024-01-29,2024-01,Social Media,Newsletter,Mobile,476,85,28,9,2,1467,2934,2370.65,23.8
+2024-05-24,2024-05,Organic Search,Product Launch,Desktop,294,101,49,26,13,1924,25012,1251.39,1898.7
+2024-05-27,2024-05,Social Media,Brand Awareness,Mobile,87,17,6,2,0,1994,0,317.56,-100.0
+2024-10-27,2024-10,Organic Search,Product Launch,Desktop,104,32,18,9,4,1800,7200,438.72,1541.1
+2024-03-21,2024-03,Email Campaign,Product Launch,Mobile,264,118,74,43,25,880,22000,3377.16,551.4
+2024-06-24,2024-06,Referral,Product Launch,Mobile,316,156,98,71,47,1578,74166,2620.8,2729.9
+2024-05-19,2024-05,Social Media,Retargeting,Desktop,296,52,15,5,1,744,744,1995.76,-62.7
+2024-08-23,2024-08,Email Campaign,Newsletter,Tablet,199,79,45,25,11,1242,13662,650.17,2001.3
+2024-07-14,2024-07,Referral,Product Launch,Desktop,236,121,94,62,40,1525,61000,1173.7,5097.2
+2024-03-20,2024-03,Paid Ads,Summer Sale,Desktop,185,52,19,8,2,442,884,1995.76,-55.7
+2024-01-28,2024-01,Email Campaign,Summer Sale,Mobile,140,63,32,15,7,1454,10178,700.56,1352.8
+2024-10-28,2024-10,Social Media,Retargeting,Mobile,412,83,31,12,3,477,1431,902.21,58.6
+2024-11-15,2024-11,Email Campaign,Newsletter,Desktop,454,207,119,71,39,274,10686,5340.6,100.1
+2024-09-27,2024-09,Paid Ads,Product Launch,Mobile,262,78,29,13,5,608,3040,1369.68,121.9
+2024-04-23,2024-04,Email Campaign,Newsletter,Mobile,162,74,48,27,15,1309,19635,2563.36,666.0
+2024-05-23,2024-05,Social Media,Brand Awareness,Mobile,226,35,13,5,1,1707,1707,1094.8,55.9
+2024-05-26,2024-05,Paid Ads,Product Launch,Mobile,235,75,27,10,4,1351,5404,2287.5,136.2
+2024-01-17,2024-01,Paid Ads,Retargeting,Desktop,419,107,43,19,6,610,3660,1423.1,157.2
+2024-12-19,2024-12,Organic Search,Product Launch,Desktop,98,35,19,8,3,1189,3567,521.85,583.5
+2024-10-23,2024-10,Social Media,Brand Awareness,Desktop,385,70,25,9,2,1519,3038,870.1,249.2
+2024-02-09,2024-02,Paid Ads,Product Launch,Desktop,454,133,52,20,6,1955,11730,3302.39,255.2
+2024-10-01,2024-10,Referral,Newsletter,Mobile,457,228,180,106,67,307,20569,3584.16,473.9
+2024-05-18,2024-05,Organic Search,Newsletter,Desktop,460,148,84,41,17,1996,33932,4965.4,583.4
+2024-01-14,2024-01,Paid Ads,Summer Sale,Desktop,218,64,23,9,3,814,2442,2387.2,2.3
+2024-10-16,2024-10,Social Media,Newsletter,Desktop,338,61,22,8,2,1929,3858,880.84,338.0
+2024-09-17,2024-09,Organic Search,Brand Awareness,Desktop,89,32,17,7,2,946,1892,935.68,102.2
+2024-11-30,2024-11,Social Media,Brand Awareness,Desktop,108,18,6,2,0,429,0,645.48,-100.0
+2024-04-26,2024-04,Email Campaign,Product Launch,Desktop,473,213,135,78,42,1680,70560,2291.88,2978.7
+2024-01-13,2024-01,Email Campaign,Product Launch,Mobile,148,63,39,24,11,1629,17919,1050.84,1605.2
+2024-10-14,2024-10,Organic Search,Newsletter,Mobile,324,96,51,28,11,1534,16874,1292.16,1205.9
+2024-03-29,2024-03,Organic Search,Retargeting,Mobile,444,152,72,39,18,1584,28512,1431.84,1891.3
+2024-09-13,2024-09,Social Media,Product Launch,Mobile,109,20,7,2,0,1449,0,630.4,-100.0
+2024-08-29,2024-08,Organic Search,Summer Sale,Desktop,164,60,30,15,5,1126,5630,2263.2,148.8
+2024-01-05,2024-01,Organic Search,Product Launch,Mobile,150,43,23,11,4,1206,4824,827.75,482.8
+2024-01-16,2024-01,Paid Ads,Retargeting,Tablet,255,77,32,13,5,1356,6780,1791.79,278.4
+2024-05-03,2024-05,Social Media,Newsletter,Tablet,382,78,23,7,1,1568,1568,1558.44,0.6
+2024-06-28,2024-06,Organic Search,Brand Awareness,Mobile,135,45,23,13,6,1894,11364,1161.9,878.1
+2024-10-15,2024-10,Email Campaign,Retargeting,Desktop,349,153,80,37,20,341,6820,4178.43,63.2
+2024-07-28,2024-07,Referral,Brand Awareness,Desktop,205,99,63,46,27,363,9801,2592.81,278.0
+2024-03-01,2024-03,Paid Ads,Newsletter,Desktop,317,81,36,14,4,1268,5072,1024.65,395.0
+2024-12-19,2024-12,Social Media,Summer Sale,Desktop,424,86,29,10,3,1632,4896,1831.8,167.3
+2024-11-29,2024-11,Social Media,Product Launch,Desktop,309,54,17,6,1,828,828,1780.38,-53.5
+2024-02-12,2024-02,Organic Search,Newsletter,Mobile,110,37,17,7,2,864,1728,1467.05,17.8
+2024-06-05,2024-06,Organic Search,Product Launch,Desktop,305,86,43,23,11,1878,20658,3205.22,544.5
+2024-09-30,2024-09,Social Media,Brand Awareness,Desktop,325,52,20,8,2,497,994,1340.56,-25.9
+2024-10-20,2024-10,Paid Ads,Retargeting,Desktop,366,88,33,15,6,678,4068,2148.08,89.4
+2024-08-17,2024-08,Social Media,Newsletter,Desktop,145,27,9,3,0,1757,0,622.35,-100.0
+2024-01-11,2024-01,Social Media,Retargeting,Mobile,227,46,18,7,2,1535,3070,1438.42,113.4
+2024-10-06,2024-10,Organic Search,Newsletter,Desktop,146,46,27,13,6,888,5328,900.68,491.6
+2024-11-14,2024-11,Email Campaign,Retargeting,Mobile,174,63,40,20,11,1367,15037,1317.33,1041.5
+2024-02-29,2024-02,Email Campaign,Retargeting,Mobile,178,72,37,17,9,400,3600,2671.2,34.8
+2024-06-22,2024-06,Referral,Brand Awareness,Desktop,85,38,30,20,12,1946,23352,882.74,2545.4
+2024-05-12,2024-05,Paid Ads,Product Launch,Desktop,317,96,41,16,5,1876,9380,1145.28,719.0
+2024-05-02,2024-05,Organic Search,Product Launch,Mobile,481,159,99,47,19,1368,25992,3647.46,612.6
+2024-12-08,2024-12,Email Campaign,Brand Awareness,Desktop,449,167,113,67,31,1196,37076,3605.53,928.3
+2024-06-23,2024-06,Organic Search,Brand Awareness,Desktop,495,150,84,47,18,1366,24588,5653.5,334.9
+2024-06-05,2024-06,Referral,Newsletter,Desktop,189,103,74,41,20,977,19540,1041.33,1776.4
+2024-05-13,2024-05,Email Campaign,Retargeting,Desktop,269,103,64,31,14,865,12110,3260.98,271.4
+2024-02-22,2024-02,Organic Search,Product Launch,Desktop,484,168,90,48,24,546,13104,1041.6,1158.1
+2024-10-26,2024-10,Referral,Retargeting,Mobile,159,72,48,31,20,1931,38620,987.84,3809.5
+2024-11-26,2024-11,Organic Search,Brand Awareness,Desktop,83,23,12,6,3,1645,4935,866.18,469.7
+2024-08-24,2024-08,Paid Ads,Summer Sale,Desktop,483,115,45,21,8,640,5120,799.25,540.6
+2024-11-07,2024-11,Paid Ads,Newsletter,Tablet,471,132,48,22,7,639,4473,1445.4,209.5
+2024-05-10,2024-05,Social Media,Brand Awareness,Mobile,327,61,20,6,1,1750,1750,2330.2,-24.9
+2024-12-19,2024-12,Paid Ads,Product Launch,Desktop,176,49,19,8,3,791,2373,666.89,255.8
+2024-01-25,2024-01,Email Campaign,Brand Awareness,Mobile,484,202,126,62,31,1451,44981,5619.64,700.4
+2024-12-03,2024-12,Organic Search,Brand Awareness,Desktop,377,112,70,36,14,1354,18956,3379.04,461.0
+2024-04-26,2024-04,Organic Search,Product Launch,Desktop,310,103,54,23,11,398,4378,1916.83,128.4
+2024-02-06,2024-02,Organic Search,Summer Sale,Mobile,265,77,36,16,7,497,3479,1814.12,91.8
+2024-03-21,2024-03,Paid Ads,Retargeting,Desktop,371,103,37,15,5,786,3930,1938.46,102.7
+2024-05-20,2024-05,Organic Search,Brand Awareness,Desktop,93,33,16,7,3,1876,5628,427.35,1217.0
+2024-07-05,2024-07,Email Campaign,Summer Sale,Desktop,204,90,49,25,14,1524,21336,1016.1,1999.8
+2024-05-29,2024-05,Paid Ads,Retargeting,Tablet,402,98,38,13,4,1365,5460,1648.36,231.2
+2024-02-13,2024-02,Organic Search,Product Launch,Desktop,482,159,88,37,18,804,14472,4921.05,194.1
+2024-12-07,2024-12,Social Media,Brand Awareness,Mobile,231,45,17,7,2,221,442,356.85,23.9
+2024-12-10,2024-12,Organic Search,Retargeting,Mobile,412,135,77,43,19,242,4598,2119.5,116.9
+2024-05-15,2024-05,Organic Search,Product Launch,Desktop,138,48,28,14,7,873,6111,614.88,893.9
+2024-05-17,2024-05,Email Campaign,Newsletter,Desktop,177,67,44,22,12,1861,22332,355.1,6188.9
+2024-01-25,2024-01,Organic Search,Newsletter,Desktop,149,41,20,10,4,454,1816,978.67,85.6
+2024-01-18,2024-01,Social Media,Summer Sale,Desktop,176,33,13,5,1,1054,1054,1222.98,-13.8
+2024-12-15,2024-12,Organic Search,Newsletter,Desktop,405,148,78,36,17,991,16847,2109.0,698.8
+2024-11-20,2024-11,Organic Search,Brand Awareness,Desktop,480,157,96,46,19,314,5966,5292.47,12.7
+2024-06-06,2024-06,Email Campaign,Retargeting,Mobile,400,182,111,54,28,1287,36036,3745.56,862.1
+2024-10-30,2024-10,Email Campaign,Newsletter,Mobile,119,54,36,21,9,1378,12402,1503.9,724.7
+2024-12-07,2024-12,Email Campaign,Product Launch,Mobile,362,167,105,58,31,1480,45880,5766.51,695.6
+2024-10-31,2024-10,Paid Ads,Brand Awareness,Mobile,196,57,20,8,3,1172,3516,1643.31,114.0
+2024-03-15,2024-03,Organic Search,Newsletter,Desktop,448,150,70,32,15,1621,24315,1111.5,2087.6
+2024-08-04,2024-08,Referral,Product Launch,Desktop,238,133,92,64,40,1267,50680,3168.06,1499.7
+2024-10-08,2024-10,Social Media,Product Launch,Desktop,294,60,24,9,2,460,920,1363.8,-32.5
+2024-03-31,2024-03,Email Campaign,Newsletter,Desktop,282,106,72,34,18,1492,26856,3217.1,734.8
+2024-08-03,2024-08,Referral,Summer Sale,Mobile,376,208,131,78,41,1278,52398,6173.44,748.8
+2024-11-08,2024-11,Email Campaign,Newsletter,Desktop,387,183,123,58,33,933,30789,4364.55,605.4
+2024-04-18,2024-04,Email Campaign,Retargeting,Desktop,321,115,76,42,21,1521,31941,840.65,3699.6
+2024-06-08,2024-06,Organic Search,Brand Awareness,Mobile,422,148,90,50,19,520,9880,3480.96,183.8
+2024-01-20,2024-01,Organic Search,Summer Sale,Desktop,147,46,27,14,6,698,4188,1464.18,186.0
+2024-02-16,2024-02,Paid Ads,Summer Sale,Desktop,455,122,44,19,7,1941,13587,2021.54,572.1
+2024-10-29,2024-10,Organic Search,Newsletter,Mobile,127,35,21,10,4,494,1976,320.25,517.0
+2024-06-10,2024-06,Referral,Summer Sale,Desktop,299,168,133,74,49,1355,66395,976.08,6702.2
+2024-12-05,2024-12,Organic Search,Newsletter,Mobile,346,102,62,32,14,1123,15722,1039.38,1412.6
+2024-12-29,2024-12,Social Media,Summer Sale,Mobile,314,50,15,5,1,1751,1751,531.5,229.4
+2024-02-13,2024-02,Paid Ads,Product Launch,Mobile,269,70,27,10,3,1551,4653,2358.3,97.3
+2024-05-13,2024-05,Social Media,Newsletter,Desktop,321,59,19,6,1,870,870,2037.27,-57.3
+2024-12-04,2024-12,Social Media,Newsletter,Mobile,308,59,21,8,2,1708,3416,962.29,255.0
+2024-09-06,2024-09,Social Media,Summer Sale,Mobile,164,33,12,5,1,1760,1760,866.91,103.0
+2024-07-18,2024-07,Email Campaign,Newsletter,Mobile,429,169,90,53,29,939,27231,1911.39,1324.7
+2024-02-15,2024-02,Organic Search,Product Launch,Desktop,334,102,64,30,12,1661,19932,1932.9,931.2
+2024-07-05,2024-07,Social Media,Retargeting,Mobile,319,63,24,8,2,555,1110,2054.43,-46.0
+2024-03-06,2024-03,Referral,Summer Sale,Desktop,401,199,127,77,39,801,31239,4306.36,625.4
+2024-06-13,2024-06,Email Campaign,Newsletter,Desktop,467,211,109,66,33,587,19371,1278.66,1414.9
+2024-05-18,2024-05,Email Campaign,Brand Awareness,Desktop,407,196,105,54,27,308,8316,4447.24,87.0
+2024-08-01,2024-08,Paid Ads,Summer Sale,Tablet,485,116,48,20,7,688,4816,2075.24,132.1
+2024-10-17,2024-10,Referral,Brand Awareness,Mobile,499,251,161,114,74,1396,103304,9023.45,1044.8
+2024-12-04,2024-12,Email Campaign,Brand Awareness,Mobile,133,61,36,22,10,822,8220,1240.13,562.8
+2024-02-13,2024-02,Referral,Retargeting,Mobile,120,61,42,29,17,1513,25721,343.43,7389.4
+2024-06-04,2024-06,Organic Search,Product Launch,Desktop,426,117,61,30,12,1376,16512,4602.78,258.7
+2024-07-17,2024-07,Paid Ads,Summer Sale,Desktop,489,146,58,20,7,1695,11865,1267.28,836.3
+2024-07-10,2024-07,Paid Ads,Newsletter,Mobile,409,114,41,16,6,1872,11232,4265.88,163.3
+2024-10-03,2024-10,Organic Search,Retargeting,Desktop,277,82,47,23,10,1067,10670,1334.96,699.3
+2024-06-26,2024-06,Referral,Retargeting,Desktop,471,223,162,106,70,1656,115920,4872.55,2279.0
+2024-01-25,2024-01,Organic Search,Retargeting,Desktop,478,169,99,43,16,1261,20176,4044.17,398.9
+2024-01-13,2024-01,Paid Ads,Newsletter,Desktop,297,86,29,11,3,1683,5049,1280.54,294.3
+2024-02-03,2024-02,Email Campaign,Brand Awareness,Mobile,216,89,57,33,17,762,12954,2269.5,470.8
+2024-11-16,2024-11,Email Campaign,Brand Awareness,Mobile,140,65,43,25,13,1502,19526,550.55,3446.6
+2024-02-04,2024-02,Paid Ads,Brand Awareness,Mobile,452,140,62,29,9,297,2673,3109.4,-14.0
+2024-05-28,2024-05,Organic Search,Summer Sale,Desktop,227,67,35,18,9,954,8586,737.0,1065.0
+2024-03-08,2024-03,Organic Search,Summer Sale,Desktop,494,142,74,40,18,1892,34056,4680.32,627.6
+2024-11-25,2024-11,Paid Ads,Summer Sale,Mobile,462,132,55,22,9,1654,14886,1651.32,801.5
+2024-05-25,2024-05,Organic Search,Product Launch,Mobile,278,98,49,23,10,1393,13930,3069.36,353.8
+2024-03-18,2024-03,Email Campaign,Retargeting,Mobile,373,160,107,66,33,481,15873,2388.8,564.5
+2024-02-01,2024-02,Social Media,Product Launch,Mobile,299,48,14,4,1,1378,1378,1382.88,-0.4
+2024-09-03,2024-09,Organic Search,Brand Awareness,Desktop,349,123,77,44,17,421,7157,1287.81,455.7
+2024-05-06,2024-05,Social Media,Product Launch,Desktop,259,46,14,5,1,1104,1104,394.68,179.7
+2024-12-22,2024-12,Organic Search,Product Launch,Tablet,183,62,32,13,6,1860,11160,820.88,1259.5
+2024-06-29,2024-06,Email Campaign,Brand Awareness,Desktop,179,65,38,18,9,1869,16821,366.6,4488.4
+2024-03-16,2024-03,Email Campaign,Newsletter,Desktop,464,218,140,82,36,842,30312,1201.18,2423.5
+2024-05-21,2024-05,Organic Search,Summer Sale,Desktop,391,130,66,32,14,1153,16142,1995.5,708.9
+2024-04-22,2024-04,Email Campaign,Product Launch,Mobile,214,95,55,34,20,1377,27540,754.3,3551.1
+2024-08-31,2024-08,Social Media,Retargeting,Desktop,232,38,12,4,1,1357,1357,1379.02,-1.6
+2024-11-04,2024-11,Email Campaign,Retargeting,Desktop,397,184,109,56,31,1157,35867,2259.52,1487.4
+2024-05-03,2024-05,Organic Search,Brand Awareness,Mobile,446,140,69,30,13,422,5486,3242.4,69.2
+2024-10-20,2024-10,Referral,Retargeting,Desktop,102,51,30,18,9,1150,10350,2021.64,412.0
+2024-12-27,2024-12,Social Media,Retargeting,Tablet,274,53,16,5,1,1741,1741,420.29,314.2
+2024-06-18,2024-06,Paid Ads,Summer Sale,Mobile,215,57,19,8,3,453,1359,448.59,202.9
+2024-07-21,2024-07,Email Campaign,Brand Awareness,Desktop,202,95,60,32,17,1111,18887,482.6,3813.6
+2024-02-06,2024-02,Paid Ads,Retargeting,Mobile,266,81,29,11,3,330,990,1317.06,-24.8
+2024-05-22,2024-05,Social Media,Newsletter,Mobile,209,34,10,3,0,969,0,1190.68,-100.0
+2024-02-25,2024-02,Social Media,Brand Awareness,Desktop,412,71,25,10,3,942,2826,2460.86,14.8
+2024-08-14,2024-08,Email Campaign,Summer Sale,Mobile,89,38,24,12,7,1809,12663,525.16,2311.3
+2024-08-19,2024-08,Referral,Retargeting,Mobile,398,211,156,89,61,707,43127,5234.91,723.8
+2024-09-20,2024-09,Email Campaign,Newsletter,Mobile,106,50,28,15,6,358,2148,810.5,165.0
+2024-03-18,2024-03,Organic Search,Retargeting,Mobile,461,133,79,43,18,1519,27342,1224.93,2132.1
+2024-02-01,2024-02,Organic Search,Retargeting,Desktop,259,85,46,21,9,1182,10638,1619.25,557.0
+2024-06-11,2024-06,Referral,Brand Awareness,Desktop,320,164,129,74,39,1236,48204,1984.4,2329.1
+2024-07-17,2024-07,Paid Ads,Brand Awareness,Tablet,482,118,53,23,8,1824,14592,901.52,1518.6
+2024-08-01,2024-08,Email Campaign,Brand Awareness,Mobile,262,120,69,33,16,1734,27744,3714.0,647.0
+2024-08-04,2024-08,Paid Ads,Product Launch,Tablet,216,66,24,9,3,415,1245,2255.88,-44.8
+2024-02-12,2024-02,Paid Ads,Retargeting,Desktop,451,139,59,22,9,1049,9441,5044.31,87.2
+2024-05-11,2024-05,Email Campaign,Retargeting,Desktop,109,44,28,13,5,643,3215,1485.0,116.5
+2024-02-06,2024-02,Organic Search,Summer Sale,Tablet,306,111,69,38,19,1942,36898,2470.86,1393.3
+2024-11-02,2024-11,Paid Ads,Product Launch,Desktop,484,127,58,23,8,948,7584,3360.42,125.7
+2024-06-02,2024-06,Social Media,Retargeting,Desktop,350,55,17,6,1,381,381,592.9,-35.7
+2024-03-30,2024-03,Social Media,Summer Sale,Mobile,290,53,19,6,1,1260,1260,1361.57,-7.5
+2024-08-15,2024-08,Referral,Product Launch,Desktop,336,181,115,83,45,1943,87435,6926.87,1162.3
+2024-02-25,2024-02,Organic Search,Newsletter,Desktop,314,98,45,19,8,743,5944,3345.72,77.7
+2024-03-15,2024-03,Organic Search,Retargeting,Desktop,139,41,24,13,6,358,2148,1616.63,32.9
+2024-04-03,2024-04,Paid Ads,Brand Awareness,Tablet,198,53,22,10,3,223,669,1302.21,-48.6
+2024-08-30,2024-08,Paid Ads,Summer Sale,Tablet,244,68,23,9,3,1793,5379,1661.92,223.7
+2024-11-06,2024-11,Organic Search,Retargeting,Desktop,363,119,65,34,16,1533,24528,2228.87,1000.5
+2024-11-29,2024-11,Social Media,Summer Sale,Mobile,439,90,27,11,3,1418,4254,685.8,520.3
+2024-06-16,2024-06,Social Media,Summer Sale,Mobile,207,35,13,4,1,1419,1419,1156.75,22.7
+2024-10-19,2024-10,Email Campaign,Product Launch,Tablet,305,111,56,33,17,1712,29104,2900.43,903.4
+2024-08-29,2024-08,Paid Ads,Retargeting,Mobile,126,30,10,4,1,515,515,806.4,-36.1
+2024-05-21,2024-05,Email Campaign,Summer Sale,Desktop,296,139,88,44,22,655,14410,2862.01,403.5
+2024-08-22,2024-08,Organic Search,Retargeting,Mobile,310,105,50,22,9,1022,9198,3103.8,196.3
+2024-06-16,2024-06,Paid Ads,Summer Sale,Mobile,312,76,31,14,5,245,1225,1675.8,-26.9
+2024-04-28,2024-04,Organic Search,Summer Sale,Mobile,384,120,64,32,13,1776,23088,2778.0,731.1
+2024-06-22,2024-06,Paid Ads,Retargeting,Tablet,310,84,35,15,5,1909,9545,1624.56,487.5
+2024-07-03,2024-07,Social Media,Retargeting,Desktop,237,43,15,5,1,911,911,1687.75,-46.0
+2024-04-26,2024-04,Referral,Summer Sale,Desktop,396,225,162,107,67,898,60166,2925.0,1957.0
+2024-04-29,2024-04,Social Media,Brand Awareness,Desktop,330,67,21,8,2,867,1734,530.64,226.8
+2024-11-07,2024-11,Email Campaign,Product Launch,Desktop,477,221,113,53,28,407,11396,4901.78,132.5
+2024-10-23,2024-10,Organic Search,Summer Sale,Mobile,183,55,31,13,6,463,2778,947.65,193.1
+2024-11-04,2024-11,Paid Ads,Newsletter,Mobile,98,28,12,4,1,1949,1949,493.08,295.3
+2024-04-02,2024-04,Paid Ads,Brand Awareness,Desktop,218,55,24,9,3,1978,5934,1623.05,265.6
+2024-07-06,2024-07,Social Media,Product Launch,Desktop,429,88,31,11,3,1459,4377,1188.0,268.4
+2024-08-01,2024-08,Social Media,Brand Awareness,Desktop,277,51,15,5,1,1264,1264,1297.95,-2.6
+2024-06-25,2024-06,Paid Ads,Brand Awareness,Desktop,465,135,46,17,7,812,5684,2899.8,96.0
+2024-11-14,2024-11,Paid Ads,Newsletter,Desktop,236,58,25,11,4,308,1232,2202.26,-44.1
+2024-10-28,2024-10,Paid Ads,Retargeting,Desktop,171,47,21,9,3,1308,3924,459.19,754.5
+2024-12-26,2024-12,Email Campaign,Retargeting,Mobile,339,148,79,49,29,1474,42746,1016.76,4104.1
+2024-04-27,2024-04,Paid Ads,Brand Awareness,Tablet,117,28,12,5,2,1459,2918,859.6,239.5
+2024-12-21,2024-12,Email Campaign,Newsletter,Desktop,311,134,84,50,29,422,12238,1315.88,830.0
+2024-07-21,2024-07,Organic Search,Brand Awareness,Mobile,101,31,17,7,3,1511,4533,165.23,2643.4
+2024-09-18,2024-09,Organic Search,Brand Awareness,Mobile,285,88,53,27,10,607,6070,1127.28,438.5
+2024-03-27,2024-03,Organic Search,Newsletter,Desktop,111,34,19,9,3,1623,4869,395.42,1131.3
+2024-09-30,2024-09,Paid Ads,Product Launch,Desktop,476,149,55,21,7,1638,11466,3498.52,227.7
+2024-04-07,2024-04,Paid Ads,Summer Sale,Mobile,258,75,25,10,3,332,996,393.0,153.4
+2024-08-24,2024-08,Social Media,Retargeting,Desktop,106,17,6,1,0,551,0,366.86,-100.0
+2024-10-22,2024-10,Paid Ads,Retargeting,Tablet,92,24,8,3,1,610,610,945.6,-35.5
+2024-11-01,2024-11,Organic Search,Retargeting,Tablet,98,30,18,8,3,1889,5667,288.0,1867.7
+2024-09-09,2024-09,Referral,Newsletter,Mobile,132,64,48,32,21,266,5586,331.52,1585.0
+2024-11-19,2024-11,Social Media,Newsletter,Mobile,372,62,19,8,2,1101,2202,2187.98,0.6
+2024-10-13,2024-10,Organic Search,Newsletter,Mobile,317,111,56,25,10,1141,11410,1340.88,750.9
+2024-01-28,2024-01,Organic Search,Brand Awareness,Mobile,376,118,66,34,15,970,14550,4698.76,209.7
+2024-07-20,2024-07,Organic Search,Brand Awareness,Desktop,138,44,22,10,4,324,1296,1381.6,-6.2
+2024-08-17,2024-08,Email Campaign,Product Launch,Desktop,241,112,70,36,16,668,10688,3139.36,240.5
+2024-08-20,2024-08,Paid Ads,Retargeting,Mobile,383,98,43,18,6,1243,7458,2454.9,203.8
+2024-05-20,2024-05,Organic Search,Newsletter,Desktop,90,31,17,8,3,1615,4845,655.34,639.3
+2024-12-27,2024-12,Organic Search,Newsletter,Desktop,366,104,58,30,11,236,2596,2023.84,28.3
+2024-02-10,2024-02,Paid Ads,Retargeting,Desktop,261,78,35,15,5,1876,9380,2538.12,269.6
+2024-09-11,2024-09,Email Campaign,Newsletter,Desktop,362,152,100,62,28,815,22820,2767.92,724.4
+2024-02-29,2024-02,Email Campaign,Retargeting,Mobile,383,182,101,56,29,1327,38483,1117.48,3343.7
+2024-05-23,2024-05,Paid Ads,Summer Sale,Tablet,408,97,39,15,6,1293,7758,1329.87,483.4
+2024-08-12,2024-08,Paid Ads,Retargeting,Mobile,96,30,12,5,2,668,1336,930.3,43.6
+2024-06-10,2024-06,Organic Search,Retargeting,Desktop,103,33,19,9,3,701,2103,487.08,331.8
+2024-05-05,2024-05,Organic Search,Product Launch,Desktop,457,160,89,44,17,1241,21097,4836.8,336.2
+2024-01-24,2024-01,Paid Ads,Product Launch,Desktop,186,46,16,7,2,1860,3720,1374.48,170.6
+2024-09-21,2024-09,Paid Ads,Summer Sale,Desktop,491,154,67,27,8,521,4168,3240.16,28.6
+2024-07-17,2024-07,Paid Ads,Newsletter,Desktop,440,129,45,20,6,1902,11412,3583.62,218.4
+2024-06-06,2024-06,Social Media,Brand Awareness,Desktop,342,52,16,6,1,1426,1426,390.0,265.6
+2024-08-29,2024-08,Social Media,Brand Awareness,Mobile,321,59,19,7,1,1540,1540,649.0,137.3
+2024-03-04,2024-03,Social Media,Brand Awareness,Desktop,88,13,4,1,0,581,0,517.4,-100.0
+2024-09-14,2024-09,Organic Search,Summer Sale,Desktop,442,136,66,35,13,1765,22945,2566.32,794.1
+2024-07-02,2024-07,Organic Search,Newsletter,Desktop,463,138,81,45,23,1891,43493,4698.9,825.6
+2024-03-27,2024-03,Organic Search,Retargeting,Mobile,205,62,36,16,7,313,2191,1172.42,86.9
+2024-05-30,2024-05,Organic Search,Retargeting,Mobile,447,146,74,40,19,1429,27151,3816.44,611.4
+2024-01-23,2024-01,Referral,Retargeting,Desktop,160,85,65,44,24,1678,40272,1063.35,3687.3
+2024-06-08,2024-06,Organic Search,Brand Awareness,Tablet,474,131,79,36,17,1952,33184,1879.85,1665.2
+2024-09-22,2024-09,Social Media,Product Launch,Mobile,321,53,17,5,1,876,876,1202.04,-27.1
+2024-12-02,2024-12,Organic Search,Brand Awareness,Mobile,483,152,87,48,19,546,10374,1211.44,756.3
+2024-11-24,2024-11,Organic Search,Newsletter,Mobile,102,32,16,6,2,1771,3542,265.92,1232.0
+2024-06-05,2024-06,Referral,Product Launch,Desktop,443,243,159,97,57,298,16986,4276.8,297.2
+2024-11-25,2024-11,Social Media,Retargeting,Desktop,430,80,28,11,3,1102,3306,2305.6,43.4
+2024-08-01,2024-08,Referral,Newsletter,Mobile,330,169,117,64,34,1620,55080,6009.64,816.5
+2024-09-21,2024-09,Organic Search,Brand Awareness,Mobile,329,94,52,27,12,1104,13248,1114.84,1088.3
+2024-01-18,2024-01,Email Campaign,Product Launch,Mobile,463,199,124,66,30,1572,47160,1884.53,2402.5
+2024-04-13,2024-04,Paid Ads,Newsletter,Desktop,438,126,50,21,7,1741,12187,4599.0,165.0
+2024-12-22,2024-12,Email Campaign,Newsletter,Mobile,82,29,15,8,4,719,2876,187.63,1432.8
+2024-01-17,2024-01,Organic Search,Summer Sale,Mobile,400,109,57,26,10,1731,17310,3608.99,379.6
+2024-04-19,2024-04,Paid Ads,Product Launch,Mobile,383,97,33,15,6,342,2052,2282.41,-10.1
+2024-10-09,2024-10,Social Media,Retargeting,Desktop,193,37,13,5,1,1877,1877,641.95,192.4
+2024-06-25,2024-06,Social Media,Brand Awareness,Mobile,373,70,22,8,2,201,402,581.7,-30.9
+2024-01-30,2024-01,Email Campaign,Newsletter,Desktop,326,154,79,48,23,612,14076,4983.44,182.5
+2024-08-26,2024-08,Organic Search,Product Launch,Mobile,221,77,38,20,7,1196,8372,2815.12,197.4
+2024-01-04,2024-01,Paid Ads,Retargeting,Desktop,123,31,11,4,1,962,962,184.45,421.6
+2024-01-25,2024-01,Organic Search,Summer Sale,Mobile,104,31,15,7,3,1753,5259,480.5,994.5
+2024-01-17,2024-01,Organic Search,Brand Awareness,Mobile,498,168,87,37,18,1778,32004,1948.8,1542.2
+2024-02-15,2024-02,Referral,Summer Sale,Desktop,363,187,125,83,56,1969,110264,6318.73,1645.0
+2024-12-03,2024-12,Organic Search,Summer Sale,Desktop,181,54,33,18,7,381,2667,1254.42,112.6
+2024-10-30,2024-10,Social Media,Brand Awareness,Mobile,124,22,8,3,0,1797,0,550.66,-100.0
+2024-02-17,2024-02,Email Campaign,Summer Sale,Desktop,329,136,80,40,21,1135,23835,1230.8,1836.5
+2024-12-25,2024-12,Social Media,Newsletter,Mobile,298,57,21,8,2,1021,2042,751.83,171.6
+2024-12-02,2024-12,Email Campaign,Product Launch,Tablet,249,101,60,29,17,849,14433,2151.3,570.9
+2024-11-21,2024-11,Social Media,Summer Sale,Desktop,358,66,20,6,1,303,303,950.4,-68.1
+2024-04-21,2024-04,Social Media,Newsletter,Desktop,488,99,30,10,3,1442,4326,2733.39,58.3
+2024-02-15,2024-02,Paid Ads,Retargeting,Desktop,243,60,23,9,3,452,1356,364.2,272.3
+2024-08-29,2024-08,Paid Ads,Brand Awareness,Desktop,205,59,20,7,2,893,1786,1432.52,24.7
+2024-04-15,2024-04,Organic Search,Product Launch,Mobile,317,107,51,24,9,1319,11871,4048.88,193.2
+2024-04-17,2024-04,Paid Ads,Product Launch,Desktop,137,37,14,5,1,261,261,1169.94,-77.7
+2024-04-28,2024-04,Organic Search,Product Launch,Tablet,269,75,45,25,10,1093,10930,2248.5,386.1
+2024-12-02,2024-12,Email Campaign,Product Launch,Tablet,307,116,68,35,19,1409,26771,821.28,3159.7
+2024-09-02,2024-09,Organic Search,Brand Awareness,Tablet,370,105,53,23,10,760,7600,2837.1,167.9
+2024-08-30,2024-08,Organic Search,Retargeting,Desktop,118,41,22,12,5,873,4365,1358.33,221.4
+2024-09-21,2024-09,Organic Search,Product Launch,Desktop,282,82,47,23,9,1280,11520,417.38,2660.1
+2024-05-17,2024-05,Email Campaign,Brand Awareness,Desktop,114,44,22,13,6,1803,10818,606.76,1682.9
+2024-03-04,2024-03,Organic Search,Product Launch,Mobile,386,131,62,28,10,1244,12440,4667.53,166.5
+2024-07-05,2024-07,Social Media,Retargeting,Mobile,374,58,21,7,1,1058,1058,911.76,16.0
+2024-02-05,2024-02,Social Media,Brand Awareness,Mobile,228,42,16,6,2,226,452,1040.76,-56.6
+2024-06-05,2024-06,Paid Ads,Brand Awareness,Desktop,431,133,49,20,7,203,1421,3771.88,-62.3
+2024-01-04,2024-01,Email Campaign,Brand Awareness,Desktop,467,197,127,69,36,475,17100,7659.36,123.3
+2024-07-15,2024-07,Organic Search,Newsletter,Mobile,308,100,48,25,12,1755,21060,3381.0,522.9
+2024-08-11,2024-08,Email Campaign,Brand Awareness,Desktop,87,33,19,9,4,227,908,253.77,257.8
+2024-07-11,2024-07,Organic Search,Summer Sale,Mobile,252,80,48,22,8,563,4504,1248.8,260.7
+2024-08-10,2024-08,Paid Ads,Newsletter,Desktop,496,125,55,22,8,398,3184,4061.25,-21.6
+2024-10-09,2024-10,Social Media,Brand Awareness,Mobile,448,72,23,8,2,565,1130,1253.52,-9.9
+2024-01-11,2024-01,Organic Search,Product Launch,Tablet,123,34,16,8,4,884,3536,579.02,510.7
+2024-10-23,2024-10,Social Media,Retargeting,Mobile,450,83,26,9,2,1464,2928,2517.39,16.3
+2024-09-14,2024-09,Organic Search,Brand Awareness,Mobile,343,107,58,33,14,1405,19670,2623.64,649.7
+2024-05-01,2024-05,Referral,Product Launch,Desktop,257,113,80,45,30,696,20880,701.73,2875.5
+2024-05-24,2024-05,Organic Search,Newsletter,Mobile,136,46,23,11,4,1027,4108,504.62,714.1
+2024-03-24,2024-03,Paid Ads,Summer Sale,Mobile,231,62,22,8,3,1080,3240,717.96,351.3
+2024-01-26,2024-01,Paid Ads,Newsletter,Mobile,206,63,21,7,3,210,630,1218.42,-48.3
+2024-10-05,2024-10,Referral,Brand Awareness,Desktop,225,114,69,40,24,578,13872,4471.08,210.3
+2024-09-13,2024-09,Paid Ads,Retargeting,Desktop,157,41,14,5,2,933,1866,529.72,252.3
+2024-12-29,2024-12,Organic Search,Retargeting,Tablet,125,37,17,8,3,1725,5175,240.5,2051.8
+2024-11-03,2024-11,Paid Ads,Brand Awareness,Desktop,476,138,52,24,10,1069,10690,4700.28,127.4
+2024-04-13,2024-04,Email Campaign,Summer Sale,Tablet,495,196,109,63,27,661,17847,3410.4,423.3
+2024-07-28,2024-07,Paid Ads,Brand Awareness,Mobile,275,72,31,12,4,1172,4688,2580.48,81.7
+2024-09-06,2024-09,Referral,Summer Sale,Mobile,195,101,75,44,24,748,17952,3891.53,361.3
+2024-10-07,2024-10,Email Campaign,Brand Awareness,Desktop,176,68,36,19,10,1158,11580,2095.08,452.7
+2024-07-27,2024-07,Organic Search,Retargeting,Mobile,314,109,51,21,8,806,6448,3057.45,110.9
+2024-02-04,2024-02,Paid Ads,Newsletter,Mobile,475,135,52,25,10,1696,16960,2662.2,537.1
+2024-04-15,2024-04,Organic Search,Newsletter,Mobile,384,110,57,25,11,265,2915,2064.7,41.2
+2024-04-28,2024-04,Paid Ads,Newsletter,Mobile,273,67,25,9,3,898,2694,1176.52,129.0
+2024-12-18,2024-12,Paid Ads,Brand Awareness,Mobile,126,35,15,6,2,907,1814,675.15,168.7
+2024-01-10,2024-01,Paid Ads,Product Launch,Mobile,494,143,52,23,9,1889,17001,1259.83,1249.5
+2024-10-22,2024-10,Referral,Newsletter,Desktop,125,65,49,35,19,1166,22154,1107.6,1900.2
+2024-11-12,2024-11,Organic Search,Newsletter,Mobile,191,66,32,18,8,1008,8064,1992.54,304.7
+2024-02-16,2024-02,Organic Search,Retargeting,Desktop,230,83,43,22,11,1417,15587,501.32,3009.2
+2024-02-13,2024-02,Email Campaign,Product Launch,Mobile,182,70,48,29,15,788,11820,795.9,1385.1
+2024-09-06,2024-09,Organic Search,Summer Sale,Tablet,281,77,44,20,8,302,2416,2747.36,-12.1
+2024-03-28,2024-03,Social Media,Product Launch,Desktop,330,65,20,6,1,1076,1076,1723.8,-37.6
+2024-03-26,2024-03,Organic Search,Brand Awareness,Desktop,176,52,25,13,5,1222,6110,1739.4,251.3
+2024-12-23,2024-12,Organic Search,Brand Awareness,Mobile,208,63,32,18,8,1304,10432,466.83,2134.6
+2024-06-18,2024-06,Paid Ads,Retargeting,Mobile,242,62,27,10,3,400,1200,360.22,233.1
+2024-04-06,2024-04,Organic Search,Brand Awareness,Desktop,460,140,73,41,20,788,15760,1845.2,754.1
+2024-11-08,2024-11,Referral,Summer Sale,Mobile,299,135,93,66,38,963,36594,4210.65,769.1
+2024-08-11,2024-08,Paid Ads,Retargeting,Desktop,257,82,34,15,6,1948,11688,1359.56,759.7
+2024-10-04,2024-10,Organic Search,Newsletter,Desktop,136,44,26,13,6,1789,10734,493.24,2076.2
+2024-06-28,2024-06,Social Media,Product Launch,Mobile,226,42,15,5,1,730,730,686.7,6.3
+2024-01-20,2024-01,Paid Ads,Product Launch,Mobile,205,56,23,9,3,1958,5874,620.48,846.7
+2024-09-07,2024-09,Social Media,Newsletter,Mobile,125,19,6,2,0,612,0,442.89,-100.0
+2024-05-11,2024-05,Paid Ads,Brand Awareness,Desktop,251,60,24,10,3,1695,5085,1945.8,161.3
+2024-02-03,2024-02,Paid Ads,Product Launch,Mobile,374,96,39,14,5,1034,5170,617.28,737.5
+2024-12-30,2024-12,Email Campaign,Product Launch,Desktop,353,152,87,47,25,1180,29500,5361.04,450.3
+2024-01-22,2024-01,Email Campaign,Retargeting,Desktop,115,51,29,14,7,1003,7021,911.37,670.4
+2024-03-24,2024-03,Social Media,Newsletter,Mobile,303,61,19,7,2,1623,3246,1521.34,113.4
+2024-06-19,2024-06,Social Media,Retargeting,Tablet,187,34,10,4,1,911,911,374.0,143.6
+2024-08-21,2024-08,Paid Ads,Newsletter,Desktop,395,105,47,20,7,1824,12768,2559.9,398.8
+2024-09-19,2024-09,Email Campaign,Brand Awareness,Mobile,361,167,103,62,35,259,9065,2433.19,272.6
+2024-04-26,2024-04,Social Media,Retargeting,Mobile,246,40,14,4,1,1800,1800,740.8,143.0
+2024-03-04,2024-03,Organic Search,Summer Sale,Desktop,150,42,25,12,5,598,2990,872.76,242.6
+2024-12-24,2024-12,Social Media,Newsletter,Tablet,300,61,19,7,2,653,1306,1076.04,21.4
+2024-06-03,2024-06,Referral,Product Launch,Desktop,494,270,190,118,63,243,15309,2716.2,463.6
+2024-02-29,2024-02,Email Campaign,Brand Awareness,Mobile,216,101,67,37,19,375,7125,2506.82,184.2
+2024-12-17,2024-12,Organic Search,Newsletter,Mobile,95,31,17,9,3,1439,4317,1213.03,255.9
+2024-04-02,2024-04,Social Media,Product Launch,Desktop,423,82,24,7,2,543,1086,2509.2,-56.7
+2024-08-16,2024-08,Organic Search,Product Launch,Desktop,366,133,82,44,21,824,17304,4057.83,326.4
+2024-08-11,2024-08,Social Media,Summer Sale,Mobile,273,54,18,6,1,1303,1303,2154.06,-39.5
+2024-06-05,2024-06,Organic Search,Product Launch,Mobile,266,82,42,19,7,1488,10416,497.74,1992.7
+2024-02-04,2024-02,Paid Ads,Brand Awareness,Tablet,234,60,25,9,3,552,1656,2203.2,-24.8
+2024-12-02,2024-12,Paid Ads,Newsletter,Tablet,173,43,15,6,2,326,652,268.32,143.0
+2024-08-27,2024-08,Social Media,Newsletter,Desktop,199,34,11,4,1,1674,1674,199.24,740.2
+2024-04-20,2024-04,Social Media,Retargeting,Mobile,460,84,27,10,2,1138,2276,2195.76,3.7
+2024-10-30,2024-10,Organic Search,Product Launch,Mobile,200,55,27,13,5,347,1735,1562.55,11.0
+2024-04-04,2024-04,Email Campaign,Brand Awareness,Mobile,229,87,58,35,20,431,8620,1211.04,611.8
+2024-03-08,2024-03,Referral,Retargeting,Mobile,474,220,163,120,72,562,40464,3977.6,917.3
+2024-09-02,2024-09,Email Campaign,Newsletter,Desktop,93,36,22,13,7,1723,12061,979.56,1131.3
+2024-03-19,2024-03,Paid Ads,Product Launch,Desktop,469,135,53,21,8,306,2448,3642.3,-32.8
+2024-04-02,2024-04,Paid Ads,Summer Sale,Desktop,158,50,18,7,2,201,402,809.0,-50.3
+2024-06-18,2024-06,Organic Search,Summer Sale,Mobile,98,27,12,6,3,1788,5364,139.05,3757.6
+2024-04-02,2024-04,Social Media,Product Launch,Desktop,198,30,9,3,1,319,319,398.7,-20.0
+2024-05-18,2024-05,Paid Ads,Newsletter,Mobile,393,106,47,20,6,1558,9348,2400.9,289.4
+2024-11-16,2024-11,Email Campaign,Product Launch,Tablet,217,96,51,29,15,1196,17940,1355.52,1223.5
+2024-03-17,2024-03,Organic Search,Brand Awareness,Mobile,114,32,17,9,4,1812,7248,1252.48,478.7
+2024-04-08,2024-04,Organic Search,Product Launch,Tablet,215,59,28,15,7,1377,9639,1259.65,665.2
+2024-11-23,2024-11,Social Media,Brand Awareness,Mobile,162,25,8,3,0,1278,0,248.5,-100.0
+2024-08-09,2024-08,Paid Ads,Newsletter,Mobile,464,130,53,21,7,1955,13685,4162.6,228.8
+2024-08-18,2024-08,Referral,Newsletter,Desktop,445,194,117,75,40,902,36080,6270.08,475.4
+2024-10-03,2024-10,Paid Ads,Product Launch,Tablet,111,35,15,6,2,1563,3126,253.4,1133.6
+2024-08-21,2024-08,Organic Search,Retargeting,Mobile,478,139,84,37,18,1037,18666,1231.54,1415.7
+2024-06-02,2024-06,Email Campaign,Summer Sale,Mobile,440,208,110,54,24,1783,42792,2645.76,1517.4
+2024-03-04,2024-03,Email Campaign,Summer Sale,Tablet,260,100,68,36,18,944,16992,3069.0,453.7
+2024-05-25,2024-05,Organic Search,Product Launch,Desktop,471,158,78,39,16,616,9856,2005.02,391.6
+2024-06-19,2024-06,Referral,Retargeting,Mobile,213,97,75,51,33,1812,59796,1771.22,3276.0
+2024-04-12,2024-04,Organic Search,Product Launch,Tablet,238,86,41,19,8,1802,14416,1871.36,670.3
+2024-12-12,2024-12,Organic Search,Summer Sale,Mobile,169,50,29,14,5,492,2460,250.5,882.0
+2024-08-21,2024-08,Email Campaign,Product Launch,Desktop,378,155,93,44,19,573,10887,5359.9,103.1
+2024-10-21,2024-10,Referral,Retargeting,Mobile,494,229,169,110,64,638,40832,4683.05,771.9
+2024-10-12,2024-10,Social Media,Retargeting,Desktop,316,55,16,5,1,1354,1354,1614.25,-16.1
+2024-04-14,2024-04,Referral,Newsletter,Desktop,371,201,122,77,40,625,25000,5841.06,328.0
+2024-01-14,2024-01,Organic Search,Brand Awareness,Tablet,475,171,107,49,23,612,14076,2717.19,418.0
+2024-11-25,2024-11,Organic Search,Newsletter,Desktop,122,35,17,8,3,362,1086,957.6,13.4
+2024-02-27,2024-02,Organic Search,Retargeting,Mobile,305,90,52,23,11,1409,15499,1448.1,970.3
+2024-09-18,2024-09,Social Media,Retargeting,Mobile,469,88,34,12,3,345,1035,1554.96,-33.4
+2024-05-11,2024-05,Social Media,Summer Sale,Desktop,476,88,35,12,3,998,2994,1466.08,104.2
+2024-07-21,2024-07,Email Campaign,Brand Awareness,Desktop,370,175,92,49,22,474,10428,6553.75,59.1
+2024-07-27,2024-07,Organic Search,Retargeting,Desktop,455,144,69,38,18,1227,22086,771.84,2761.5
+2024-12-15,2024-12,Referral,Product Launch,Desktop,405,223,136,84,43,999,42957,3164.37,1257.5
+2024-08-11,2024-08,Social Media,Brand Awareness,Desktop,267,46,14,4,1,477,477,1239.24,-61.5
+2024-01-07,2024-01,Email Campaign,Retargeting,Desktop,358,144,93,50,28,1456,40768,2115.36,1827.2
+2024-06-05,2024-06,Paid Ads,Retargeting,Desktop,252,72,24,10,3,1402,4206,1329.12,216.4
+2024-12-05,2024-12,Paid Ads,Brand Awareness,Mobile,164,40,17,6,2,1201,2402,219.6,993.8
+2024-06-24,2024-06,Organic Search,Product Launch,Desktop,447,144,74,39,16,1428,22848,1756.8,1200.5
+2024-05-09,2024-05,Organic Search,Summer Sale,Tablet,324,104,56,31,12,1902,22824,1102.4,1970.4
+2024-11-25,2024-11,Referral,Product Launch,Tablet,150,68,45,30,17,1972,33524,1362.72,2360.1
+2024-07-29,2024-07,Organic Search,Brand Awareness,Desktop,244,70,37,19,8,1434,11472,1130.5,914.8
+2024-11-20,2024-11,Referral,Brand Awareness,Desktop,341,157,101,74,42,1759,73878,1161.8,6258.9
+2024-06-08,2024-06,Organic Search,Brand Awareness,Mobile,416,143,80,39,15,505,7575,4417.27,71.5
+2024-04-28,2024-04,Organic Search,Newsletter,Desktop,338,93,48,24,9,575,5175,3020.64,71.3
+2024-08-14,2024-08,Paid Ads,Summer Sale,Desktop,428,127,49,18,7,1863,13041,3723.64,250.2
+2024-05-26,2024-05,Organic Search,Brand Awareness,Mobile,208,74,39,17,6,331,1986,978.28,103.0
+2024-05-05,2024-05,Referral,Summer Sale,Desktop,130,72,49,27,15,831,12465,1781.28,599.8
+2024-07-08,2024-07,Organic Search,Newsletter,Mobile,294,100,52,22,9,844,7596,2683.0,183.1
+2024-08-30,2024-08,Paid Ads,Product Launch,Mobile,288,72,32,13,5,1786,8930,1198.08,645.4
+2024-11-30,2024-11,Paid Ads,Retargeting,Desktop,203,55,23,10,3,611,1833,428.45,327.8
+2024-06-12,2024-06,Referral,Summer Sale,Desktop,497,234,174,109,63,1635,103005,7218.9,1326.9
+2024-01-24,2024-01,Organic Search,Product Launch,Mobile,344,102,54,28,13,621,8073,1582.02,410.3
+2024-03-28,2024-03,Referral,Newsletter,Mobile,149,65,45,25,13,1004,13052,709.8,1738.8
+2024-12-10,2024-12,Referral,Summer Sale,Desktop,455,253,161,102,52,1902,98904,4516.05,2090.1
+2024-02-03,2024-02,Referral,Brand Awareness,Mobile,282,155,122,83,50,216,10800,1607.35,571.9
+2024-12-16,2024-12,Referral,Brand Awareness,Desktop,87,38,26,15,9,276,2484,538.08,361.6
+2024-12-01,2024-12,Paid Ads,Retargeting,Mobile,109,27,11,4,1,888,888,545.4,62.8
+2024-03-11,2024-03,Organic Search,Brand Awareness,Mobile,341,100,63,27,13,410,5330,2874.0,85.5
+2024-12-13,2024-12,Social Media,Product Launch,Mobile,362,70,27,10,2,1177,2354,1169.0,101.4
+2024-04-22,2024-04,Paid Ads,Retargeting,Tablet,107,31,11,4,1,1389,1389,523.9,165.1
+2024-02-03,2024-02,Social Media,Newsletter,Desktop,89,14,4,1,0,998,0,372.68,-100.0
+2024-03-04,2024-03,Email Campaign,Brand Awareness,Mobile,488,233,152,89,47,1115,52405,6307.31,730.9
+2024-10-21,2024-10,Organic Search,Product Launch,Desktop,278,88,50,23,11,1648,18128,635.36,2753.2
+2024-09-27,2024-09,Social Media,Retargeting,Mobile,297,56,18,6,1,1523,1523,1275.68,19.4
+2024-07-28,2024-07,Organic Search,Product Launch,Desktop,161,57,30,16,7,753,5271,1164.51,352.6
+2024-01-09,2024-01,Organic Search,Retargeting,Mobile,273,90,50,26,11,690,7590,3072.6,147.0
+2024-04-01,2024-04,Social Media,Retargeting,Desktop,141,21,7,2,0,774,0,481.11,-100.0
+2024-04-11,2024-04,Email Campaign,Product Launch,Mobile,127,52,31,15,7,1577,11039,982.28,1023.8
+2024-02-27,2024-02,Email Campaign,Summer Sale,Mobile,169,63,32,17,8,200,1600,1067.85,49.8
+2024-07-06,2024-07,Social Media,Summer Sale,Mobile,414,68,21,8,2,1460,2920,1512.32,93.1
+2024-02-29,2024-02,Paid Ads,Product Launch,Desktop,113,31,11,4,1,872,872,1090.27,-20.0
+2024-01-07,2024-01,Organic Search,Summer Sale,Desktop,380,137,64,28,12,971,11652,1354.93,760.0
+2024-04-22,2024-04,Email Campaign,Summer Sale,Mobile,140,54,31,14,7,1056,7392,1920.24,285.0
+2024-05-30,2024-05,Paid Ads,Retargeting,Desktop,321,92,35,13,5,1081,5405,2994.6,80.5
+2024-11-29,2024-11,Paid Ads,Newsletter,Desktop,277,72,24,9,3,1566,4698,1947.6,141.2
+2024-08-10,2024-08,Paid Ads,Product Launch,Mobile,311,83,28,10,3,1242,3726,2052.59,81.5
+2024-01-13,2024-01,Paid Ads,Newsletter,Tablet,398,97,38,16,6,636,3816,908.89,319.9
+2024-10-14,2024-10,Referral,Product Launch,Mobile,170,80,55,36,20,693,13860,1760.0,687.5
+2024-03-02,2024-03,Paid Ads,Brand Awareness,Tablet,183,47,18,7,2,1520,3040,1139.75,166.7
+2024-05-10,2024-05,Social Media,Brand Awareness,Mobile,286,45,15,5,1,1011,1011,1192.05,-15.2
+2024-05-09,2024-05,Paid Ads,Brand Awareness,Desktop,495,157,71,31,11,1442,15862,2439.78,550.1
+2024-09-10,2024-09,Email Campaign,Retargeting,Mobile,87,32,19,9,4,1192,4768,769.6,519.5
+2024-03-07,2024-03,Paid Ads,Product Launch,Desktop,218,65,25,11,3,1055,3165,992.55,218.9
+2024-07-08,2024-07,Social Media,Summer Sale,Desktop,240,48,18,7,2,354,708,1786.56,-60.4
+2024-04-18,2024-04,Organic Search,Summer Sale,Desktop,301,87,54,26,13,567,7371,1837.44,301.2
+2024-05-26,2024-05,Social Media,Retargeting,Mobile,381,59,20,7,1,475,475,1155.22,-58.9
+2024-06-17,2024-06,Email Campaign,Newsletter,Mobile,392,141,93,45,21,837,17577,4382.28,301.1
+2024-03-31,2024-03,Organic Search,Retargeting,Mobile,379,130,70,36,17,1045,17765,4599.4,286.2
+2024-06-06,2024-06,Social Media,Retargeting,Mobile,130,23,7,2,0,1226,0,841.11,-100.0
+2024-12-29,2024-12,Paid Ads,Product Launch,Mobile,424,132,56,26,11,1699,18689,5082.0,267.7
+2024-10-27,2024-10,Email Campaign,Brand Awareness,Mobile,220,103,62,37,17,1707,29019,1860.18,1460.0
+2024-12-22,2024-12,Paid Ads,Product Launch,Mobile,121,32,12,5,1,1153,1153,620.48,85.8
+2024-06-21,2024-06,Social Media,Newsletter,Desktop,153,23,6,2,0,1395,0,298.77,-100.0
+2024-04-23,2024-04,Social Media,Summer Sale,Mobile,432,87,31,12,3,1337,4011,3019.77,32.8
+2024-05-29,2024-05,Email Campaign,Product Launch,Tablet,467,171,111,56,27,1687,45549,2123.82,2044.7
+2024-08-26,2024-08,Paid Ads,Newsletter,Tablet,143,41,15,5,1,856,856,1253.78,-31.7
+2024-11-24,2024-11,Organic Search,Retargeting,Desktop,134,41,22,12,4,1878,7512,1191.46,530.5
+2024-03-31,2024-03,Paid Ads,Brand Awareness,Mobile,92,23,9,4,1,1577,1577,367.08,329.6
+2024-04-19,2024-04,Organic Search,Summer Sale,Desktop,214,58,35,16,6,857,5142,2209.22,132.8
+2024-08-19,2024-08,Email Campaign,Brand Awareness,Desktop,267,118,79,39,17,1715,29155,3249.72,797.2
+2024-03-29,2024-03,Paid Ads,Newsletter,Desktop,334,89,34,12,3,1068,3204,3212.9,-0.3
+2024-11-21,2024-11,Email Campaign,Newsletter,Mobile,106,40,25,14,6,574,3444,735.2,368.4
+2024-11-12,2024-11,Referral,Brand Awareness,Desktop,395,182,130,75,45,1961,88245,3048.5,2794.7
+2024-06-01,2024-06,Organic Search,Summer Sale,Mobile,177,58,36,16,6,312,1872,1984.18,-5.7
+2024-02-16,2024-02,Referral,Newsletter,Mobile,468,206,150,90,55,1739,95645,2212.44,4223.1
+2024-03-11,2024-03,Social Media,Summer Sale,Mobile,333,61,24,8,2,262,524,595.36,-12.0
+2024-12-28,2024-12,Organic Search,Newsletter,Desktop,279,84,52,28,10,1358,13580,2502.36,442.7
+2024-03-19,2024-03,Email Campaign,Brand Awareness,Desktop,84,35,22,12,6,761,4566,821.1,456.1
+2024-02-02,2024-02,Social Media,Product Launch,Desktop,384,74,22,8,2,1363,2726,816.22,234.0
+2024-08-30,2024-08,Referral,Summer Sale,Desktop,270,131,94,69,36,948,34128,1727.89,1875.1
+2024-06-19,2024-06,Organic Search,Brand Awareness,Desktop,497,174,102,58,26,1850,48100,4696.26,924.2
+2024-05-21,2024-05,Organic Search,Product Launch,Mobile,92,30,14,7,3,736,2208,591.0,273.6
+2024-10-04,2024-10,Organic Search,Brand Awareness,Desktop,417,132,68,33,16,431,6896,2921.16,136.1
+2024-01-26,2024-01,Paid Ads,Retargeting,Desktop,271,70,31,14,6,1776,10656,1125.6,846.7
+2024-09-08,2024-09,Organic Search,Retargeting,Mobile,142,45,26,14,5,994,4970,1144.8,334.1
+2024-04-19,2024-04,Paid Ads,Product Launch,Mobile,398,99,35,15,5,933,4665,2848.23,63.8
+2024-05-25,2024-05,Social Media,Newsletter,Desktop,287,56,21,8,2,900,1800,1270.08,41.7
+2024-10-15,2024-10,Organic Search,Retargeting,Desktop,404,133,80,40,16,1958,31328,1572.06,1892.8
+2024-03-17,2024-03,Paid Ads,Summer Sale,Desktop,393,125,54,24,9,1723,15507,1443.75,974.1
+2024-03-08,2024-03,Paid Ads,Summer Sale,Mobile,473,122,52,21,7,811,5677,1227.32,362.6
+2024-02-19,2024-02,Organic Search,Summer Sale,Desktop,349,117,63,31,15,1288,19320,4037.67,378.5
+2024-02-13,2024-02,Email Campaign,Retargeting,Mobile,498,206,117,68,36,317,11412,6997.82,63.1
+2024-12-10,2024-12,Social Media,Brand Awareness,Desktop,130,24,8,3,0,1511,0,790.8,-100.0
+2024-10-25,2024-10,Organic Search,Summer Sale,Desktop,439,141,77,32,14,415,5810,1849.92,214.1
+2024-12-16,2024-12,Paid Ads,Brand Awareness,Mobile,172,47,18,7,2,296,592,302.68,95.6
+2024-06-18,2024-06,Social Media,Brand Awareness,Desktop,289,49,19,7,2,424,848,1917.37,-55.8
+2024-07-26,2024-07,Social Media,Product Launch,Mobile,99,16,5,1,0,1279,0,593.28,-100.0
+2024-12-27,2024-12,Social Media,Retargeting,Desktop,454,77,25,8,2,481,962,1953.49,-50.8
+2024-07-31,2024-07,Paid Ads,Retargeting,Desktop,488,130,47,20,7,1488,10416,1827.8,469.9
+2024-03-02,2024-03,Social Media,Retargeting,Desktop,272,47,16,6,1,1318,1318,1819.37,-27.6
+2024-12-18,2024-12,Social Media,Retargeting,Mobile,454,77,29,10,3,541,1623,1272.81,27.5
+2024-03-28,2024-03,Social Media,Brand Awareness,Desktop,323,57,18,5,1,978,978,1480.29,-33.9
+2024-06-24,2024-06,Email Campaign,Brand Awareness,Mobile,399,186,115,66,34,1809,61506,4318.92,1324.1
+2024-09-25,2024-09,Paid Ads,Newsletter,Desktop,279,79,31,14,6,1157,6942,474.0,1364.6
+2024-03-31,2024-03,Email Campaign,Brand Awareness,Desktop,171,66,42,23,10,704,7040,2478.96,184.0
+2024-04-24,2024-04,Organic Search,Product Launch,Tablet,212,76,38,18,8,1385,11080,2017.8,449.1
+2024-08-16,2024-08,Social Media,Brand Awareness,Desktop,418,66,20,7,2,575,1150,770.88,49.2
+2024-09-20,2024-09,Paid Ads,Summer Sale,Desktop,226,65,26,11,4,465,1860,2226.9,-16.5
+2024-05-31,2024-05,Social Media,Newsletter,Mobile,419,72,24,7,2,1181,2362,404.64,483.7
+2024-07-09,2024-07,Referral,Newsletter,Desktop,395,209,165,114,68,491,33388,3093.2,979.4
+2024-03-23,2024-03,Social Media,Product Launch,Desktop,310,48,16,5,1,436,436,951.84,-54.2
+2024-05-28,2024-05,Paid Ads,Newsletter,Mobile,180,46,16,5,1,257,257,322.46,-20.3
+2024-07-17,2024-07,Email Campaign,Brand Awareness,Mobile,482,225,130,78,34,1458,49572,8937.0,454.7
+2024-09-13,2024-09,Email Campaign,Retargeting,Desktop,143,66,43,24,12,1457,17484,1007.82,1634.8
+2024-10-22,2024-10,Social Media,Summer Sale,Mobile,380,68,27,10,2,1242,2484,1209.04,105.5
+2024-08-11,2024-08,Paid Ads,Brand Awareness,Desktop,152,36,16,6,2,1282,2564,604.44,324.2
+2024-10-15,2024-10,Social Media,Product Launch,Desktop,326,66,23,8,2,1384,2768,1811.04,52.8
+2024-08-17,2024-08,Email Campaign,Product Launch,Mobile,152,60,39,20,10,442,4420,1606.2,175.2
+2024-10-18,2024-10,Paid Ads,Summer Sale,Desktop,332,92,38,14,5,1546,7730,495.88,1458.8
+2024-05-08,2024-05,Paid Ads,Brand Awareness,Desktop,445,115,52,19,6,1870,11220,3286.7,241.4
+2024-05-22,2024-05,Email Campaign,Brand Awareness,Mobile,407,190,98,52,26,746,19396,965.2,1909.5
+2024-03-24,2024-03,Social Media,Newsletter,Mobile,402,66,20,7,2,345,690,2313.96,-70.2
+2024-08-30,2024-08,Organic Search,Retargeting,Desktop,349,116,72,38,15,286,4290,3636.6,18.0
+2024-12-17,2024-12,Social Media,Brand Awareness,Tablet,156,30,11,3,0,1734,0,810.6,-100.0
+2024-08-22,2024-08,Social Media,Brand Awareness,Mobile,356,57,19,6,1,1402,1402,363.09,286.1
+2024-10-27,2024-10,Social Media,Retargeting,Desktop,367,74,27,11,3,1767,5301,2039.44,159.9
+2024-02-24,2024-02,Paid Ads,Product Launch,Tablet,248,76,28,11,4,706,2824,760.0,271.6
+2024-11-12,2024-11,Organic Search,Retargeting,Desktop,492,159,81,42,20,281,5620,2951.04,90.4
+2024-07-31,2024-07,Organic Search,Newsletter,Desktop,407,128,73,39,19,1260,23940,2316.8,933.3
+2024-01-02,2024-01,Paid Ads,Summer Sale,Desktop,406,122,53,24,9,1981,17829,3436.74,418.8
+2024-10-11,2024-10,Social Media,Retargeting,Tablet,397,64,22,8,2,759,1518,2096.0,-27.6
+2024-06-26,2024-06,Paid Ads,Summer Sale,Mobile,204,49,21,9,3,334,1002,818.3,22.4
+2024-01-19,2024-01,Email Campaign,Brand Awareness,Mobile,386,152,90,51,26,554,14404,3933.76,266.2
+2024-09-10,2024-09,Social Media,Newsletter,Mobile,488,87,33,12,3,1278,3834,1407.66,172.4
+2024-04-17,2024-04,Paid Ads,Retargeting,Desktop,271,65,24,9,2,1230,2460,1047.15,134.9
+2024-12-21,2024-12,Social Media,Summer Sale,Desktop,197,34,11,4,1,585,585,996.2,-41.3
+2024-06-12,2024-06,Social Media,Brand Awareness,Mobile,300,52,17,6,1,1444,1444,509.08,183.6
+2024-01-02,2024-01,Email Campaign,Brand Awareness,Desktop,207,89,58,32,18,452,8136,3108.77,161.7
+2024-08-30,2024-08,Referral,Brand Awareness,Desktop,81,40,24,14,9,824,7416,870.4,752.0
+2024-10-12,2024-10,Social Media,Brand Awareness,Desktop,368,60,18,7,2,1015,2030,2310.6,-12.1
+2024-12-05,2024-12,Email Campaign,Product Launch,Mobile,159,67,45,25,11,1462,16082,1155.08,1292.3
+2024-01-05,2024-01,Referral,Brand Awareness,Mobile,349,174,134,80,51,510,26010,3290.34,690.5
+2024-07-26,2024-07,Organic Search,Retargeting,Mobile,399,128,72,33,15,1875,28125,4997.12,462.8
+2024-08-13,2024-08,Paid Ads,Summer Sale,Mobile,213,52,22,8,3,1868,5604,1544.92,262.7
+2024-04-24,2024-04,Organic Search,Retargeting,Desktop,137,49,30,14,5,1774,8870,1362.2,551.2
+2024-06-20,2024-06,Paid Ads,Product Launch,Mobile,259,63,26,11,3,1702,5106,2101.68,142.9
+2024-09-26,2024-09,Social Media,Brand Awareness,Desktop,344,53,19,6,1,1122,1122,1922.84,-41.6
+2024-02-12,2024-02,Paid Ads,Product Launch,Mobile,140,34,13,5,1,915,915,527.34,73.5
+2024-01-25,2024-01,Referral,Retargeting,Mobile,384,206,139,100,66,302,19932,4482.56,344.7
+2024-08-24,2024-08,Email Campaign,Brand Awareness,Desktop,407,182,114,70,38,1159,44042,1297.66,3294.0
+2024-02-18,2024-02,Referral,Product Launch,Mobile,231,115,68,47,29,478,13862,3366.05,311.8
+2024-04-08,2024-04,Organic Search,Product Launch,Desktop,488,140,86,49,19,1304,24776,1568.0,1480.1
+2024-01-29,2024-01,Referral,Summer Sale,Tablet,349,184,133,82,52,890,46280,2677.2,1628.7
+2024-07-02,2024-07,Paid Ads,Newsletter,Desktop,262,79,33,15,5,1155,5775,1535.76,276.0
+2024-05-06,2024-05,Social Media,Newsletter,Desktop,443,80,27,10,2,1149,2298,785.6,192.5
+2024-01-08,2024-01,Paid Ads,Product Launch,Desktop,175,52,20,7,2,1128,2256,1164.28,93.8
+2024-09-16,2024-09,Social Media,Brand Awareness,Mobile,161,32,11,3,0,344,0,328.0,-100.0
+2024-04-21,2024-04,Organic Search,Summer Sale,Desktop,335,116,57,29,11,1713,18843,2478.92,660.1
+2024-05-16,2024-05,Email Campaign,Product Launch,Desktop,251,101,58,35,17,1230,20910,1535.2,1262.0
+2024-01-09,2024-01,Organic Search,Summer Sale,Tablet,174,50,24,13,6,304,1824,510.0,257.6
+2024-03-20,2024-03,Organic Search,Brand Awareness,Mobile,145,48,25,12,4,291,1164,510.24,128.1
+2024-05-22,2024-05,Social Media,Retargeting,Desktop,447,80,25,9,3,390,1170,1410.4,-17.0
+2024-12-26,2024-12,Paid Ads,Retargeting,Mobile,311,79,34,13,4,1971,7884,670.71,1075.5
+2024-10-13,2024-10,Social Media,Retargeting,Desktop,430,72,23,8,2,1839,3678,1316.16,179.4
+2024-01-13,2024-01,Email Campaign,Product Launch,Desktop,366,137,91,52,26,718,18668,3307.18,464.5
+2024-03-28,2024-03,Paid Ads,Retargeting,Mobile,128,39,16,6,2,695,1390,606.84,129.1
+2024-07-01,2024-07,Paid Ads,Newsletter,Desktop,259,62,27,10,3,1117,3351,1039.74,222.3
+2024-04-07,2024-04,Referral,Product Launch,Tablet,191,92,70,39,23,624,14352,723.12,1884.7
+2024-06-12,2024-06,Organic Search,Newsletter,Mobile,472,146,92,52,21,1214,25494,2445.5,942.5
+2024-09-27,2024-09,Paid Ads,Summer Sale,Desktop,428,117,53,22,9,263,2367,3095.82,-23.5
+2024-05-20,2024-05,Paid Ads,Brand Awareness,Mobile,186,57,22,9,3,846,2538,1846.23,37.5
+2024-06-26,2024-06,Paid Ads,Newsletter,Mobile,417,125,43,19,6,1537,9222,3653.75,152.4
+2024-11-08,2024-11,Social Media,Product Launch,Mobile,255,49,16,5,1,584,584,1814.47,-67.8
+2024-07-07,2024-07,Organic Search,Retargeting,Mobile,297,93,46,20,9,312,2808,628.68,346.7
+2024-11-16,2024-11,Paid Ads,Newsletter,Mobile,486,137,50,21,7,360,2520,2124.87,18.6
+2024-08-17,2024-08,Email Campaign,Brand Awareness,Mobile,485,183,104,61,34,959,32606,5239.29,522.3
+2024-09-05,2024-09,Social Media,Product Launch,Tablet,294,49,18,7,1,1255,1255,1341.13,-6.4
+2024-08-31,2024-08,Paid Ads,Retargeting,Desktop,115,28,11,4,1,693,693,333.76,107.6
+2024-06-02,2024-06,Email Campaign,Brand Awareness,Mobile,100,45,29,13,6,1361,8166,296.1,2657.9
+2024-11-30,2024-11,Organic Search,Summer Sale,Mobile,193,63,35,17,7,324,2268,1137.15,99.4
+2024-11-11,2024-11,Email Campaign,Product Launch,Desktop,314,139,86,44,22,683,15026,5004.0,200.3
+2024-11-09,2024-11,Email Campaign,Newsletter,Desktop,448,161,88,41,21,1029,21609,1494.08,1346.3
+2024-10-16,2024-10,Social Media,Summer Sale,Desktop,216,39,12,3,0,1112,0,997.62,-100.0
+2024-07-14,2024-07,Social Media,Summer Sale,Mobile,451,92,33,12,3,295,885,2979.88,-70.3
+2024-05-29,2024-05,Social Media,Retargeting,Mobile,277,49,18,6,1,1906,1906,1374.94,38.6
+2024-07-08,2024-07,Social Media,Brand Awareness,Mobile,296,53,15,6,2,414,828,1625.51,-49.1
+2024-02-18,2024-02,Paid Ads,Retargeting,Mobile,145,38,16,7,2,1475,2950,744.42,296.3
+2024-06-09,2024-06,Organic Search,Summer Sale,Desktop,242,81,45,22,10,1974,19740,1512.27,1205.3
+2024-10-15,2024-10,Paid Ads,Newsletter,Desktop,241,73,29,12,4,1694,6776,412.45,1542.9
+2024-01-15,2024-01,Organic Search,Summer Sale,Desktop,294,83,46,21,8,1181,9448,2870.97,229.1
+2024-03-10,2024-03,Organic Search,Newsletter,Mobile,168,58,32,14,5,1600,8000,2002.74,299.5
+2024-06-20,2024-06,Paid Ads,Newsletter,Mobile,338,87,30,13,4,1956,7824,2569.11,204.5
+2024-11-06,2024-11,Paid Ads,Summer Sale,Mobile,127,38,15,5,2,1561,3122,1255.52,148.7
+2024-02-22,2024-02,Email Campaign,Retargeting,Mobile,228,81,54,30,16,1347,21552,2916.0,639.1
+2024-12-30,2024-12,Paid Ads,Product Launch,Mobile,433,111,46,19,6,1400,8400,1581.75,431.1
+2024-05-22,2024-05,Organic Search,Summer Sale,Mobile,211,58,33,18,7,640,4480,1377.5,225.2
+2024-10-06,2024-10,Paid Ads,Retargeting,Mobile,148,39,13,4,1,549,549,1026.48,-46.5
+2024-10-06,2024-10,Organic Search,Summer Sale,Tablet,131,36,20,9,4,748,2992,606.24,393.5
+2024-11-13,2024-11,Email Campaign,Product Launch,Desktop,104,41,26,12,5,1937,9685,210.74,4495.7
+2024-06-20,2024-06,Email Campaign,Retargeting,Mobile,395,153,101,63,29,249,7221,4877.64,48.0
+2024-02-18,2024-02,Social Media,Brand Awareness,Desktop,412,74,23,9,2,893,1786,677.84,163.5
+2024-01-25,2024-01,Social Media,Product Launch,Mobile,378,68,23,7,2,1661,3322,514.08,546.2
+2024-06-24,2024-06,Paid Ads,Product Launch,Desktop,456,111,46,22,8,1600,12800,577.2,2117.6
+2024-03-02,2024-03,Email Campaign,Brand Awareness,Desktop,139,61,35,18,9,934,8406,828.99,914.0
+2024-08-27,2024-08,Referral,Summer Sale,Desktop,168,73,55,38,20,1111,22220,2787.87,697.0
+2024-06-09,2024-06,Paid Ads,Retargeting,Mobile,170,50,17,7,3,558,1674,1707.0,-1.9
+2024-06-26,2024-06,Social Media,Retargeting,Mobile,360,73,26,9,2,556,1112,2307.53,-51.8
+2024-04-18,2024-04,Email Campaign,Summer Sale,Desktop,93,41,26,12,5,1035,5175,1514.54,241.7
+2024-01-27,2024-01,Organic Search,Summer Sale,Mobile,482,157,79,36,15,1982,29730,4761.81,524.3
+2024-03-19,2024-03,Paid Ads,Summer Sale,Tablet,322,103,41,18,7,1633,11431,1343.12,751.1
+2024-04-04,2024-04,Paid Ads,Summer Sale,Mobile,220,64,25,10,3,367,1101,2168.96,-49.2
+2024-08-03,2024-08,Organic Search,Retargeting,Desktop,220,71,38,20,9,505,4545,523.27,768.6
+2024-05-17,2024-05,Paid Ads,Brand Awareness,Mobile,278,86,32,13,4,724,2896,2573.12,12.5
+2024-04-29,2024-04,Organic Search,Brand Awareness,Tablet,461,136,74,37,17,1971,33507,5378.8,522.9
+2024-07-02,2024-07,Organic Search,Summer Sale,Desktop,481,163,86,39,19,391,7429,3910.37,90.0
+2024-01-25,2024-01,Social Media,Product Launch,Mobile,165,31,10,4,1,754,754,371.69,102.9
+2024-10-20,2024-10,Social Media,Summer Sale,Desktop,183,34,12,4,1,712,712,712.98,-0.1
+2024-11-16,2024-11,Organic Search,Summer Sale,Mobile,420,127,72,31,13,1230,15990,3302.0,384.3
+2024-11-08,2024-11,Organic Search,Brand Awareness,Mobile,332,104,50,28,14,677,9478,2709.2,249.8
+2024-09-25,2024-09,Organic Search,Product Launch,Mobile,463,126,73,39,17,1003,17051,2115.54,706.0
+2024-05-17,2024-05,Social Media,Retargeting,Mobile,85,17,5,1,0,669,0,644.47,-100.0
+2024-01-30,2024-01,Organic Search,Brand Awareness,Mobile,123,37,22,9,4,1672,6688,1077.44,520.7
+2024-01-28,2024-01,Paid Ads,Product Launch,Desktop,233,68,23,9,3,1581,4743,684.76,592.7
+2024-01-20,2024-01,Referral,Newsletter,Desktop,90,45,32,22,13,1402,18226,960.3,1797.9
+2024-09-27,2024-09,Social Media,Newsletter,Desktop,395,69,21,8,2,602,1204,2118.99,-43.2
+2024-05-14,2024-05,Organic Search,Summer Sale,Mobile,87,24,14,7,2,945,1890,425.28,344.4
+2024-02-03,2024-02,Social Media,Newsletter,Desktop,360,73,22,7,1,1065,1065,959.22,11.0
+2024-01-03,2024-01,Paid Ads,Summer Sale,Tablet,463,117,53,22,8,350,2800,4106.7,-31.8
+2024-07-13,2024-07,Referral,Retargeting,Tablet,300,160,105,68,46,1315,60490,2568.0,2255.5
+2024-12-30,2024-12,Referral,Brand Awareness,Mobile,96,43,34,22,13,1371,17823,1247.86,1328.3
+2024-08-05,2024-08,Organic Search,Summer Sale,Desktop,166,55,29,16,6,1179,7074,1198.45,490.3
+2024-01-11,2024-01,Organic Search,Summer Sale,Desktop,153,44,26,11,5,533,2665,1075.8,147.7
+2024-11-20,2024-11,Paid Ads,Retargeting,Mobile,463,119,48,21,8,312,2496,3615.22,-31.0
+2024-05-18,2024-05,Organic Search,Product Launch,Tablet,281,93,53,29,11,971,10681,3451.23,209.5
+2024-06-21,2024-06,Organic Search,Product Launch,Tablet,150,41,22,9,3,1897,5691,782.69,627.1
+2024-04-11,2024-04,Organic Search,Newsletter,Desktop,216,76,44,21,10,1569,15690,2816.56,457.1
+2024-02-04,2024-02,Referral,Product Launch,Tablet,182,81,62,41,28,967,27076,1327.59,1939.5
+2024-02-14,2024-02,Paid Ads,Brand Awareness,Desktop,245,77,31,14,5,1991,9955,671.44,1382.6
+2024-12-09,2024-12,Social Media,Brand Awareness,Desktop,355,56,20,7,2,1558,3116,2231.04,39.7
+2024-02-27,2024-02,Social Media,Brand Awareness,Desktop,255,47,18,7,2,1235,2470,761.4,224.4
+2024-09-22,2024-09,Organic Search,Newsletter,Mobile,267,83,45,21,9,1183,10647,2040.14,421.9
+2024-12-24,2024-12,Organic Search,Summer Sale,Mobile,108,38,19,10,4,1901,7604,893.38,751.1
+2024-06-05,2024-06,Organic Search,Product Launch,Mobile,493,174,102,51,25,1868,46700,4358.7,971.4
+2024-05-11,2024-05,Email Campaign,Summer Sale,Desktop,433,170,93,54,25,407,10175,5434.9,87.2
+2024-03-01,2024-03,Email Campaign,Newsletter,Mobile,439,162,89,45,19,1742,33098,6258.06,428.9
+2024-07-05,2024-07,Organic Search,Product Launch,Tablet,491,168,99,43,17,387,6579,5003.04,31.5
+2024-09-10,2024-09,Organic Search,Newsletter,Mobile,468,166,97,46,23,1454,33442,6115.44,446.8
+2024-08-17,2024-08,Paid Ads,Brand Awareness,Desktop,406,130,49,21,8,380,3040,2870.4,5.9
+2024-06-08,2024-06,Paid Ads,Brand Awareness,Tablet,446,115,50,20,7,1366,9562,2541.5,276.2
+2024-12-20,2024-12,Social Media,Product Launch,Tablet,343,70,24,10,3,314,942,2387.0,-60.5
+2024-07-21,2024-07,Paid Ads,Retargeting,Mobile,490,150,60,25,9,1664,14976,3426.0,337.1
+2024-10-10,2024-10,Paid Ads,Summer Sale,Desktop,454,126,47,21,8,782,6256,4186.98,49.4
+2024-08-13,2024-08,Email Campaign,Newsletter,Desktop,398,169,101,51,29,206,5974,6337.5,-5.7
+2024-05-20,2024-05,Paid Ads,Product Launch,Desktop,488,134,48,19,6,1167,7002,3856.52,81.6
+2024-10-07,2024-10,Social Media,Newsletter,Tablet,339,63,23,8,2,746,1492,1343.16,11.1
+2024-01-11,2024-01,Organic Search,Product Launch,Mobile,380,111,61,32,15,1611,24165,2814.96,758.4
+2024-06-12,2024-06,Social Media,Summer Sale,Mobile,95,15,4,1,0,1072,0,105.3,-100.0
+2024-02-21,2024-02,Email Campaign,Retargeting,Desktop,488,222,138,70,41,1953,80073,5230.32,1430.9
+2024-10-12,2024-10,Email Campaign,Summer Sale,Mobile,279,129,68,35,17,1803,30651,2306.52,1228.9
+2024-08-03,2024-08,Email Campaign,Product Launch,Mobile,98,42,23,12,6,1699,10194,1281.0,695.8
+2024-06-09,2024-06,Paid Ads,Retargeting,Tablet,163,42,14,5,1,1922,1922,617.4,211.3
+2024-12-11,2024-12,Referral,Summer Sale,Mobile,269,124,86,60,33,1394,46002,2481.24,1754.0
+2024-03-26,2024-03,Social Media,Brand Awareness,Desktop,196,30,9,3,0,1345,0,1040.1,-100.0
+2024-05-02,2024-05,Organic Search,Newsletter,Desktop,318,86,47,22,9,843,7587,3120.94,143.1
+2024-12-28,2024-12,Email Campaign,Summer Sale,Desktop,479,195,124,61,27,744,20088,5639.4,256.2
+2024-04-08,2024-04,Organic Search,Brand Awareness,Desktop,329,107,63,32,14,1280,17920,1312.89,1264.9
+2024-02-19,2024-02,Organic Search,Summer Sale,Mobile,397,122,58,27,11,213,2343,1426.18,64.3
+2024-06-17,2024-06,Social Media,Summer Sale,Desktop,249,44,13,4,1,1405,1405,523.6,168.3
+2024-08-10,2024-08,Organic Search,Brand Awareness,Mobile,478,170,98,44,20,987,19740,3248.7,507.6
+2024-11-26,2024-11,Referral,Brand Awareness,Desktop,464,201,126,84,52,1620,84240,6472.2,1201.6
+2024-01-05,2024-01,Paid Ads,Product Launch,Mobile,393,93,37,15,4,1456,5824,1275.03,356.8
+2024-08-08,2024-08,Paid Ads,Brand Awareness,Tablet,151,40,16,5,2,1522,3044,1388.8,119.2
+2024-06-14,2024-06,Organic Search,Newsletter,Desktop,443,136,78,41,19,370,7030,2647.92,165.5
+2024-07-01,2024-07,Email Campaign,Summer Sale,Desktop,197,93,59,32,16,1269,20304,1241.55,1535.4
+2024-09-08,2024-09,Social Media,Summer Sale,Desktop,254,50,18,6,1,762,762,636.5,19.7
+2024-03-07,2024-03,Organic Search,Product Launch,Desktop,271,93,50,25,9,1162,10458,2671.89,291.4
+2024-10-23,2024-10,Email Campaign,Product Launch,Mobile,201,93,50,23,12,1290,15480,784.92,1872.2
+2024-01-11,2024-01,Organic Search,Product Launch,Mobile,315,88,51,23,10,1984,19840,720.72,2652.8
+2024-08-04,2024-08,Email Campaign,Summer Sale,Tablet,426,181,116,59,32,1156,36992,1589.18,2227.7
+2024-02-23,2024-02,Referral,Newsletter,Tablet,352,162,99,67,39,1118,43602,2690.82,1520.4
+2024-12-18,2024-12,Social Media,Brand Awareness,Desktop,323,63,24,10,3,633,1899,2346.75,-19.1
+2024-10-13,2024-10,Organic Search,Retargeting,Mobile,373,108,65,32,13,1405,18265,1769.04,932.5
+2024-04-05,2024-04,Organic Search,Product Launch,Desktop,417,134,67,38,14,1543,21602,4022.68,437.0
+2024-02-12,2024-02,Organic Search,Brand Awareness,Mobile,286,83,43,20,8,1045,8360,2251.79,271.3
+2024-07-12,2024-07,Organic Search,Product Launch,Desktop,231,79,38,17,6,672,4032,2838.47,42.0
+2024-06-14,2024-06,Paid Ads,Retargeting,Desktop,106,25,10,3,1,669,669,947.5,-29.4
+2024-10-26,2024-10,Organic Search,Product Launch,Desktop,354,114,59,25,12,1086,13032,3751.74,247.4
+2024-08-29,2024-08,Organic Search,Newsletter,Mobile,107,36,17,8,4,289,1156,484.56,138.6
+2024-02-21,2024-02,Referral,Retargeting,Mobile,437,214,142,85,57,1546,88122,6696.06,1216.0
+2024-03-11,2024-03,Organic Search,Brand Awareness,Mobile,196,60,34,15,6,1881,11286,1108.8,917.9
+2024-09-12,2024-09,Email Campaign,Summer Sale,Desktop,403,165,97,57,29,1944,56376,2542.65,2117.2
+2024-04-11,2024-04,Referral,Newsletter,Desktop,138,72,52,36,22,1839,40458,559.44,7131.9
+2024-01-14,2024-01,Social Media,Summer Sale,Desktop,202,35,10,3,0,1749,0,685.3,-100.0
+2024-11-27,2024-11,Organic Search,Summer Sale,Mobile,417,142,71,34,14,811,11354,2051.9,453.3
+2024-01-14,2024-01,Referral,Product Launch,Desktop,183,81,56,37,22,1822,40084,1771.47,2162.8
+2024-07-12,2024-07,Paid Ads,Summer Sale,Tablet,355,110,47,20,7,643,4501,3764.2,19.6
+2024-12-20,2024-12,Social Media,Newsletter,Mobile,359,64,19,7,1,1101,1101,448.0,145.8
+2024-02-11,2024-02,Paid Ads,Brand Awareness,Mobile,82,22,9,3,1,889,889,380.82,133.4
+2024-12-04,2024-12,Paid Ads,Product Launch,Mobile,202,61,21,9,3,403,1209,963.19,25.5
+2024-09-25,2024-09,Paid Ads,Brand Awareness,Desktop,371,94,34,16,6,1294,7764,2878.28,169.7
+2024-04-10,2024-04,Organic Search,Summer Sale,Desktop,277,100,59,30,12,1355,16260,890.0,1727.0
+2024-12-29,2024-12,Referral,Retargeting,Mobile,418,208,141,79,50,754,37700,3952.0,853.9
+2024-10-14,2024-10,Paid Ads,Product Launch,Mobile,379,103,44,17,6,358,2148,1996.14,7.6
+2024-03-10,2024-03,Paid Ads,Brand Awareness,Mobile,419,128,44,17,7,331,2317,4979.2,-53.5
+2024-08-28,2024-08,Organic Search,Product Launch,Mobile,381,139,87,37,17,1035,17595,3433.3,412.5
+2024-04-24,2024-04,Email Campaign,Newsletter,Mobile,386,165,106,53,24,1545,37080,5562.15,566.6
+2024-02-20,2024-02,Paid Ads,Retargeting,Desktop,214,65,26,11,3,366,1098,1067.95,2.8
+2024-04-11,2024-04,Referral,Newsletter,Desktop,349,184,122,90,52,380,19760,2829.92,598.3
+2024-09-29,2024-09,Referral,Product Launch,Desktop,343,193,145,84,55,1123,61765,6133.54,907.0
+2024-05-18,2024-05,Social Media,Summer Sale,Desktop,380,67,22,9,3,1665,4995,788.59,533.4
+2024-05-04,2024-05,Organic Search,Product Launch,Mobile,370,128,78,43,21,1338,28098,3365.12,735.0
+2024-11-24,2024-11,Email Campaign,Brand Awareness,Desktop,147,59,36,22,11,1481,16291,1719.85,847.2
+2024-03-08,2024-03,Email Campaign,Retargeting,Desktop,369,154,85,44,24,1226,29424,1353.66,2073.7
+2024-09-09,2024-09,Social Media,Summer Sale,Tablet,189,34,12,4,1,495,495,1348.1,-63.3
+2024-09-30,2024-09,Paid Ads,Newsletter,Mobile,129,36,12,4,1,1014,1014,915.12,10.8
+2024-02-13,2024-02,Referral,Summer Sale,Mobile,345,186,141,103,67,1014,67938,3236.4,1999.2
+2024-01-25,2024-01,Paid Ads,Product Launch,Desktop,101,25,10,4,1,1983,1983,157.25,1161.0
+2024-12-22,2024-12,Social Media,Summer Sale,Mobile,183,32,10,4,1,1658,1658,826.24,100.7
+2024-08-25,2024-08,Paid Ads,Summer Sale,Desktop,141,40,15,6,2,1624,3248,1132.4,186.8
+2024-04-24,2024-04,Paid Ads,Product Launch,Desktop,138,44,17,6,2,453,906,601.48,50.6
+2024-08-29,2024-08,Social Media,Retargeting,Mobile,480,84,30,10,3,916,2748,1554.0,76.8
+2024-09-08,2024-09,Social Media,Retargeting,Mobile,379,71,23,7,1,1518,1518,1505.2,0.9
+2024-04-12,2024-04,Organic Search,Newsletter,Desktop,220,64,30,15,6,1488,8928,971.52,819.0
+2024-01-07,2024-01,Email Campaign,Summer Sale,Mobile,171,78,48,25,13,1021,13273,765.96,1632.9
+2024-11-04,2024-11,Email Campaign,Summer Sale,Tablet,191,73,48,22,11,1850,20350,2152.77,845.3
+2024-05-01,2024-05,Paid Ads,Newsletter,Mobile,81,20,6,2,0,939,0,620.4,-100.0
+2024-10-19,2024-10,Organic Search,Brand Awareness,Desktop,113,37,17,8,3,1948,5844,858.4,580.8
+2024-04-04,2024-04,Paid Ads,Retargeting,Desktop,133,34,15,6,1,1074,1074,671.5,59.9
+2024-05-21,2024-05,Paid Ads,Summer Sale,Desktop,443,134,46,21,7,1557,10899,2000.62,444.8
+2024-03-20,2024-03,Paid Ads,Newsletter,Mobile,194,57,23,10,4,1449,5796,1805.76,221.0
+2024-08-03,2024-08,Social Media,Product Launch,Mobile,423,75,27,11,2,463,926,1977.75,-53.2
+2024-10-20,2024-10,Email Campaign,Summer Sale,Desktop,282,114,73,41,18,1590,28620,630.42,4439.8
+2024-10-21,2024-10,Organic Search,Product Launch,Desktop,324,96,58,27,10,1319,13190,2193.6,501.3
+2024-11-03,2024-11,Referral,Summer Sale,Tablet,381,214,135,94,63,770,48510,1570.76,2988.3
+2024-02-18,2024-02,Paid Ads,Newsletter,Desktop,373,89,35,15,6,914,5484,2428.81,125.8
+2024-01-12,2024-01,Email Campaign,Retargeting,Mobile,469,212,142,89,41,1506,61746,1426.76,4227.7
+2024-12-26,2024-12,Social Media,Retargeting,Mobile,396,63,23,9,2,1830,3660,1200.78,204.8
+2024-02-28,2024-02,Paid Ads,Brand Awareness,Mobile,174,49,22,8,3,1344,4032,1603.28,151.5
+2024-12-25,2024-12,Organic Search,Newsletter,Mobile,210,74,40,17,8,1295,10360,495.8,1989.6
+2024-02-20,2024-02,Referral,Summer Sale,Desktop,408,220,144,101,66,1433,94578,8300.6,1039.4
+2024-11-27,2024-11,Email Campaign,Brand Awareness,Mobile,449,208,114,53,30,1830,54900,7346.56,647.3
+2024-12-26,2024-12,Referral,Product Launch,Mobile,328,149,115,66,43,602,25886,1582.38,1535.9
+2024-09-25,2024-09,Paid Ads,Retargeting,Tablet,487,143,60,21,7,1379,9653,4252.82,127.0
+2024-04-23,2024-04,Organic Search,Product Launch,Mobile,221,76,37,17,7,1384,9688,1022.2,847.8
+2024-10-23,2024-10,Social Media,Retargeting,Desktop,448,79,26,8,2,942,1884,1873.88,0.5
+2024-03-09,2024-03,Email Campaign,Product Launch,Tablet,484,209,119,68,34,810,27540,2700.28,919.9
+2024-11-29,2024-11,Organic Search,Retargeting,Desktop,389,136,84,37,16,1946,31136,2491.52,1149.7
+2024-03-23,2024-03,Paid Ads,Product Launch,Desktop,436,137,49,21,6,1172,7032,3727.77,88.6
+2024-03-24,2024-03,Paid Ads,Product Launch,Desktop,438,107,39,15,6,1326,7956,4254.32,87.0
+2024-12-11,2024-12,Referral,Summer Sale,Tablet,309,168,111,62,42,517,21714,4438.56,389.2
+2024-06-10,2024-06,Email Campaign,Newsletter,Desktop,416,157,89,50,24,227,5448,1108.42,391.5
+2024-11-08,2024-11,Paid Ads,Product Launch,Desktop,415,131,58,24,8,740,5920,5005.51,18.3
+2024-04-26,2024-04,Organic Search,Brand Awareness,Desktop,350,114,57,32,13,1889,24557,1943.7,1163.4
+2024-06-12,2024-06,Paid Ads,Retargeting,Desktop,280,84,36,16,5,1101,5505,2141.16,157.1
+2024-03-28,2024-03,Paid Ads,Brand Awareness,Desktop,296,74,25,9,3,1790,5370,1752.32,206.5
+2024-02-24,2024-02,Paid Ads,Newsletter,Mobile,331,90,36,13,5,418,2090,1848.6,13.1
+2024-09-17,2024-09,Organic Search,Brand Awareness,Mobile,183,62,32,16,6,1757,10542,729.74,1344.6
+2024-01-02,2024-01,Organic Search,Brand Awareness,Tablet,152,54,28,15,5,667,3335,2093.04,59.3
+2024-02-21,2024-02,Paid Ads,Summer Sale,Desktop,149,41,18,6,2,249,498,1186.13,-58.0
+2024-10-25,2024-10,Organic Search,Product Launch,Desktop,496,172,87,42,19,616,11704,875.48,1236.9
+2024-12-28,2024-12,Organic Search,Newsletter,Desktop,481,164,90,43,19,1030,19570,1359.56,1339.4
+2024-09-21,2024-09,Paid Ads,Product Launch,Tablet,407,108,45,16,5,646,3230,1069.2,202.1
+2024-05-02,2024-05,Paid Ads,Newsletter,Desktop,324,79,27,11,4,794,3176,1265.58,151.0
+2024-02-08,2024-02,Paid Ads,Product Launch,Mobile,270,68,30,11,3,1331,3993,1422.56,180.7
+2024-07-03,2024-07,Paid Ads,Product Launch,Desktop,239,71,31,14,5,872,4360,1486.03,193.4
+2024-01-11,2024-01,Social Media,Summer Sale,Mobile,476,97,34,13,4,1494,5976,2939.1,103.3
+2024-09-02,2024-09,Paid Ads,Summer Sale,Mobile,360,97,41,17,6,1409,8454,1477.31,472.3
+2024-06-11,2024-06,Paid Ads,Summer Sale,Mobile,467,140,59,21,7,1651,11557,5191.2,122.6
+2024-09-14,2024-09,Social Media,Product Launch,Desktop,332,52,16,5,1,459,459,352.04,30.4
+2024-10-01,2024-10,Paid Ads,Newsletter,Mobile,233,69,28,10,3,291,873,439.53,98.6
+2024-12-28,2024-12,Organic Search,Brand Awareness,Mobile,398,120,73,31,15,1220,18300,2904.0,530.2
+2024-05-20,2024-05,Paid Ads,Newsletter,Mobile,373,91,38,15,6,313,1878,1726.27,8.8
+2024-05-08,2024-05,Paid Ads,Brand Awareness,Mobile,391,99,42,16,5,1748,8740,1745.37,400.8
+2024-10-06,2024-10,Organic Search,Brand Awareness,Desktop,159,45,28,13,5,259,1295,755.1,71.5
+2024-10-30,2024-10,Social Media,Product Launch,Desktop,322,63,24,9,3,1158,3474,791.91,338.7
+2024-09-14,2024-09,Paid Ads,Retargeting,Mobile,187,47,16,6,2,1260,2520,886.89,184.1
+2024-10-29,2024-10,Referral,Retargeting,Mobile,308,175,118,79,42,721,30282,1648.5,1736.9
+2024-03-08,2024-03,Email Campaign,Brand Awareness,Mobile,282,116,63,38,18,1723,31014,2721.36,1039.7
+2024-04-07,2024-04,Organic Search,Retargeting,Desktop,81,26,13,6,2,366,732,140.92,419.4
+2024-03-14,2024-03,Organic Search,Product Launch,Mobile,144,43,20,9,3,408,1224,314.33,289.4
+2024-06-13,2024-06,Organic Search,Retargeting,Mobile,288,88,44,20,9,1283,11547,1183.6,875.6
+2024-08-30,2024-08,Organic Search,Summer Sale,Desktop,317,98,51,28,11,1479,16269,1795.36,806.2
+2024-10-24,2024-10,Organic Search,Newsletter,Desktop,295,82,44,21,8,1854,14832,2415.72,514.0
+2024-12-25,2024-12,Social Media,Retargeting,Desktop,484,91,31,11,3,510,1530,1667.12,-8.2
+2024-09-16,2024-09,Organic Search,Brand Awareness,Mobile,287,90,47,21,10,815,8150,3384.0,140.8
+2024-03-27,2024-03,Organic Search,Retargeting,Desktop,209,60,32,16,7,916,6412,739.2,767.4
+2024-05-22,2024-05,Email Campaign,Product Launch,Desktop,317,115,62,34,15,913,13695,2559.9,435.0
+2024-03-01,2024-03,Paid Ads,Retargeting,Desktop,260,78,31,13,4,1552,6208,1804.14,244.1
+2024-05-04,2024-05,Organic Search,Summer Sale,Mobile,102,34,19,9,4,430,1720,521.9,229.6
+2024-10-25,2024-10,Email Campaign,Summer Sale,Mobile,167,69,36,22,10,1942,19420,2717.91,614.5
+2024-07-13,2024-07,Paid Ads,Retargeting,Desktop,421,113,43,17,6,791,4746,3665.72,29.5
+2024-12-27,2024-12,Social Media,Brand Awareness,Tablet,373,69,26,10,3,1562,4686,1680.15,178.9
+2024-05-06,2024-05,Organic Search,Product Launch,Desktop,236,86,49,22,11,247,2717,3202.64,-15.2
+2024-03-23,2024-03,Social Media,Retargeting,Desktop,331,58,23,7,1,956,956,353.8,170.2
+2024-10-11,2024-10,Paid Ads,Brand Awareness,Mobile,404,129,45,20,7,1752,12264,870.75,1308.4
+2024-01-27,2024-01,Paid Ads,Retargeting,Tablet,211,56,22,9,3,899,2697,1906.8,41.4
+2024-03-07,2024-03,Paid Ads,Brand Awareness,Desktop,151,36,14,5,1,576,576,644.04,-10.6
+2024-07-15,2024-07,Organic Search,Product Launch,Desktop,266,97,54,23,9,1136,10224,1401.65,629.4
+2024-02-10,2024-02,Referral,Summer Sale,Desktop,323,184,122,73,49,337,16513,1983.52,732.5
+2024-01-05,2024-01,Email Campaign,Product Launch,Desktop,117,52,29,14,6,837,5022,1004.64,399.9
+2024-05-14,2024-05,Paid Ads,Brand Awareness,Desktop,418,109,47,17,6,510,3060,4312.04,-29.0
+2024-06-08,2024-06,Email Campaign,Retargeting,Desktop,255,111,70,40,19,1276,24244,3175.71,663.4
+2024-02-03,2024-02,Social Media,Newsletter,Mobile,393,64,23,8,2,1493,2986,433.92,588.1
+2024-09-21,2024-09,Social Media,Newsletter,Mobile,439,90,35,11,3,1792,5376,633.6,748.5
+2024-12-30,2024-12,Organic Search,Product Launch,Desktop,190,63,34,18,8,406,3248,2517.48,29.0
+2024-09-30,2024-09,Organic Search,Brand Awareness,Desktop,359,122,74,37,15,1643,24645,3451.38,614.1
+2024-11-26,2024-11,Referral,Product Launch,Mobile,343,187,148,84,53,521,27613,7377.15,274.3
+2024-08-31,2024-08,Referral,Brand Awareness,Mobile,456,234,149,94,58,756,43848,2129.4,1959.2
+2024-01-03,2024-01,Social Media,Brand Awareness,Mobile,270,44,14,5,1,579,579,1204.28,-51.9
+2024-03-22,2024-03,Social Media,Retargeting,Desktop,353,70,26,10,2,1265,2530,1127.0,124.5
+2024-08-30,2024-08,Social Media,Product Launch,Desktop,281,51,17,5,1,911,911,1739.1,-47.6
+2024-05-14,2024-05,Social Media,Brand Awareness,Mobile,192,30,11,4,1,1987,1987,611.4,225.0
+2024-03-20,2024-03,Organic Search,Newsletter,Desktop,408,136,77,43,19,709,13471,1127.44,1094.8
+2024-12-02,2024-12,Social Media,Brand Awareness,Mobile,143,22,6,2,0,1813,0,610.06,-100.0
+2024-08-12,2024-08,Organic Search,Brand Awareness,Desktop,398,145,84,35,14,682,9548,1909.65,400.0
+2024-02-10,2024-02,Organic Search,Summer Sale,Mobile,314,95,49,22,11,1060,11660,2743.6,325.0
+2024-09-22,2024-09,Email Campaign,Summer Sale,Desktop,443,177,100,53,27,477,12879,6230.4,106.7
+2024-04-02,2024-04,Paid Ads,Newsletter,Desktop,302,84,35,14,5,1777,8885,698.04,1172.8
+2024-04-30,2024-04,Paid Ads,Brand Awareness,Desktop,149,43,19,7,2,561,1122,340.56,229.5
+2024-06-22,2024-06,Paid Ads,Summer Sale,Tablet,177,52,22,8,3,902,2706,1146.08,136.1
+2024-07-06,2024-07,Paid Ads,Brand Awareness,Mobile,167,40,18,6,2,433,866,925.2,-6.4
+2024-10-21,2024-10,Organic Search,Brand Awareness,Mobile,195,62,37,17,7,942,6594,950.46,593.8
+2024-06-14,2024-06,Organic Search,Summer Sale,Desktop,386,108,64,29,12,684,8208,2916.0,181.5
+2024-09-03,2024-09,Referral,Brand Awareness,Mobile,433,232,146,85,49,282,13818,3881.36,256.0
+2024-08-23,2024-08,Email Campaign,Retargeting,Desktop,486,197,106,50,29,1135,32915,1424.31,2210.9
+2024-04-09,2024-04,Organic Search,Summer Sale,Mobile,377,104,62,33,12,1187,14244,3057.6,365.9
+2024-02-13,2024-02,Paid Ads,Product Launch,Mobile,387,97,32,13,4,1196,4784,3843.14,24.5
+2024-08-01,2024-08,Referral,Summer Sale,Mobile,419,199,158,91,53,646,34238,4497.4,661.3
+2024-03-27,2024-03,Referral,Newsletter,Desktop,358,170,127,90,59,1337,78883,6602.8,1094.7
+2024-04-05,2024-04,Social Media,Newsletter,Tablet,91,17,5,1,0,1211,0,262.14,-100.0
+2024-08-27,2024-08,Organic Search,Summer Sale,Mobile,151,48,27,12,5,1300,6500,1860.96,249.3
+2024-12-02,2024-12,Organic Search,Product Launch,Desktop,90,29,13,6,2,740,1480,754.0,96.3
+2024-02-21,2024-02,Social Media,Retargeting,Desktop,361,73,28,10,3,619,1857,1660.02,11.9
+2024-03-04,2024-03,Email Campaign,Brand Awareness,Mobile,392,159,86,43,22,642,14124,4116.51,243.1
+2024-04-22,2024-04,Paid Ads,Product Launch,Desktop,462,111,39,14,6,1912,11472,1255.41,813.8
+2024-08-11,2024-08,Paid Ads,Summer Sale,Desktop,384,102,37,17,6,551,3306,1297.44,154.8
+2024-06-23,2024-06,Organic Search,Retargeting,Desktop,407,114,65,34,15,1984,29760,2590.08,1049.0
+2024-05-20,2024-05,Referral,Summer Sale,Mobile,205,98,72,44,29,1558,45182,1050.56,4200.8
+2024-10-11,2024-10,Email Campaign,Product Launch,Desktop,475,183,101,57,32,1399,44768,938.79,4668.7
+2024-10-15,2024-10,Paid Ads,Summer Sale,Mobile,91,27,11,5,1,200,200,511.38,-60.9
+2024-11-06,2024-11,Referral,Newsletter,Mobile,214,112,71,52,29,1985,57565,3011.68,1811.4
+2024-04-19,2024-04,Social Media,Newsletter,Desktop,224,45,18,6,1,444,444,607.5,-26.9
+2024-05-26,2024-05,Social Media,Brand Awareness,Mobile,499,89,30,11,2,446,892,856.18,4.2
+2024-08-23,2024-08,Email Campaign,Product Launch,Mobile,417,171,92,50,25,1726,43150,3729.51,1057.0
+2024-09-11,2024-09,Email Campaign,Retargeting,Tablet,415,192,109,64,36,1396,50256,6405.12,684.6
+2024-05-17,2024-05,Referral,Newsletter,Mobile,101,48,29,16,9,948,8532,1180.8,622.6
+2024-04-29,2024-04,Social Media,Product Launch,Desktop,393,66,22,8,2,726,1452,1072.5,35.4
+2024-07-12,2024-07,Paid Ads,Retargeting,Mobile,216,56,24,9,2,1849,3698,1302.0,184.0
+2024-08-22,2024-08,Organic Search,Summer Sale,Desktop,229,71,33,18,7,1790,12530,1926.23,550.5
+2024-02-17,2024-02,Email Campaign,Summer Sale,Desktop,473,183,108,58,27,1397,37719,4739.7,695.8
+2024-03-07,2024-03,Email Campaign,Newsletter,Desktop,328,132,68,32,14,1293,18102,2601.72,595.8
+2024-11-20,2024-11,Paid Ads,Summer Sale,Mobile,362,98,38,17,6,1392,8352,2567.6,225.3
+2024-04-16,2024-04,Paid Ads,Newsletter,Mobile,256,78,34,15,5,1334,6670,1474.2,352.4
+2024-03-28,2024-03,Social Media,Product Launch,Mobile,481,95,36,15,4,1004,4016,3315.5,21.1
+2024-01-05,2024-01,Paid Ads,Summer Sale,Tablet,310,87,33,13,5,547,2735,1319.79,107.2
+2024-02-26,2024-02,Paid Ads,Summer Sale,Desktop,393,103,36,16,6,1247,7482,3801.73,96.8
+2024-03-07,2024-03,Social Media,Summer Sale,Mobile,194,32,9,3,0,592,0,269.12,-100.0
+2024-01-10,2024-01,Referral,Brand Awareness,Desktop,286,126,80,49,25,687,17175,942.48,1722.3
+2024-04-04,2024-04,Organic Search,Brand Awareness,Desktop,203,61,33,16,8,846,6768,1821.46,271.6
+2024-12-08,2024-12,Social Media,Newsletter,Desktop,315,55,19,6,1,579,579,1203.95,-51.9
+2024-05-06,2024-05,Referral,Brand Awareness,Desktop,320,140,84,59,33,839,27687,2968.0,832.9
+2024-01-29,2024-01,Organic Search,Brand Awareness,Mobile,196,61,38,16,7,1274,8918,617.32,1344.6
+2024-10-20,2024-10,Organic Search,Summer Sale,Desktop,387,123,70,37,18,530,9540,2856.06,234.0
+2024-10-19,2024-10,Organic Search,Retargeting,Desktop,464,134,64,36,17,968,16456,3253.52,405.8
+2024-03-05,2024-03,Paid Ads,Product Launch,Mobile,492,130,53,23,7,1211,8477,2021.5,319.3
+2024-07-09,2024-07,Social Media,Brand Awareness,Mobile,265,48,17,5,1,273,273,451.2,-39.5
+2024-09-19,2024-09,Social Media,Summer Sale,Tablet,136,22,7,2,0,629,0,115.94,-100.0
+2024-12-20,2024-12,Email Campaign,Summer Sale,Desktop,127,60,30,17,7,1271,8897,1753.8,407.3
+2024-02-01,2024-02,Paid Ads,Brand Awareness,Mobile,371,114,44,20,6,1443,8658,4165.56,107.8
+2024-02-26,2024-02,Organic Search,Product Launch,Tablet,244,84,49,24,10,1962,19620,2375.52,725.9
+2024-01-21,2024-01,Paid Ads,Brand Awareness,Mobile,370,113,41,16,6,837,5022,3395.65,47.9
+2024-09-24,2024-09,Referral,Newsletter,Mobile,495,269,201,113,77,1598,123046,9102.96,1251.7
+2024-06-27,2024-06,Email Campaign,Summer Sale,Desktop,255,109,74,38,18,517,9306,3900.02,138.6
+2024-06-14,2024-06,Email Campaign,Brand Awareness,Desktop,233,103,64,40,21,1035,21735,3878.98,460.3
+2024-03-31,2024-03,Paid Ads,Summer Sale,Mobile,125,30,10,4,1,1915,1915,882.3,117.0
+2024-10-04,2024-10,Paid Ads,Retargeting,Tablet,369,109,49,22,7,314,2198,1517.28,44.9
+2024-03-30,2024-03,Organic Search,Summer Sale,Desktop,274,85,47,20,9,451,4059,2230.4,82.0
+2024-07-22,2024-07,Organic Search,Newsletter,Desktop,338,107,66,36,14,1010,14140,2689.98,425.7
+2024-09-16,2024-09,Paid Ads,Brand Awareness,Mobile,447,121,47,18,7,1278,8946,2473.24,261.7
+2024-04-02,2024-04,Paid Ads,Brand Awareness,Desktop,170,52,19,7,2,952,1904,1228.24,55.0
+2024-03-02,2024-03,Social Media,Summer Sale,Tablet,260,48,17,6,2,371,742,1029.6,-27.9
+2024-02-09,2024-02,Organic Search,Summer Sale,Desktop,190,66,40,19,7,578,4046,1931.82,109.4
+2024-07-15,2024-07,Email Campaign,Product Launch,Mobile,155,63,39,18,8,1511,12088,1635.48,639.1
+2024-10-29,2024-10,Organic Search,Summer Sale,Mobile,153,48,28,12,4,478,1912,320.16,497.2
+2024-09-06,2024-09,Referral,Summer Sale,Desktop,221,104,70,46,24,670,16080,1104.48,1355.9
+2024-04-08,2024-04,Email Campaign,Product Launch,Mobile,246,95,57,27,15,1412,21180,2841.45,645.4
+2024-07-09,2024-07,Paid Ads,Brand Awareness,Desktop,350,85,29,13,4,879,3516,2292.45,53.4
+2024-07-11,2024-07,Social Media,Retargeting,Tablet,170,28,10,4,1,782,782,777.28,0.6
+2024-07-31,2024-07,Social Media,Brand Awareness,Desktop,462,94,35,11,3,1624,4872,1343.26,262.7
+2024-07-26,2024-07,Referral,Newsletter,Mobile,369,164,130,78,47,973,45731,3329.2,1273.6
+2024-02-01,2024-02,Paid Ads,Brand Awareness,Desktop,99,31,11,4,1,1596,1596,527.31,202.7
+2024-07-20,2024-07,Email Campaign,Newsletter,Mobile,126,57,37,20,10,1489,14890,2221.86,570.2
+2024-07-15,2024-07,Paid Ads,Summer Sale,Desktop,161,47,17,6,2,1879,3758,883.13,325.5
+2024-07-08,2024-07,Organic Search,Summer Sale,Mobile,459,126,71,39,15,1151,17265,648.9,2560.7
+2024-07-28,2024-07,Email Campaign,Summer Sale,Mobile,281,110,65,40,17,1102,18734,1937.1,867.1
+2024-01-31,2024-01,Social Media,Retargeting,Tablet,240,47,15,5,1,962,962,530.63,81.3
+2024-01-31,2024-01,Organic Search,Retargeting,Desktop,403,113,67,31,12,358,4296,4271.4,0.6
